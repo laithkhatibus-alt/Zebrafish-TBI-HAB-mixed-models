@@ -1,0 +1,1204 @@
+experiment,segment,larva,group,tbi,drug,plate,session,tp,tp_order,count,bins
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|0,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,60,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|1,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,15,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|10,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|11,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,18,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|12,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|13,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|14,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,10,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|15,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,92,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|16,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,69,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|17,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|18,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,19,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|19,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|2,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|20,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,56,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|21,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,29,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|22,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,15,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|23,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|24,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,34,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|25,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|26,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|27,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,22,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|28,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|29,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|3,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,24,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|30,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,33,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|31,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,95,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|32,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,30,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|33,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,102,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|34,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|35,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|36,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|37,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,20,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|38,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|39,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,56,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|4,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|40,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|41,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|42,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,10,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|43,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|44,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,35,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|45,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|46,No TBI Indomethacin,0,1,2,2:28-29,28-29,1,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|5,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,70,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|6,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|7,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|8,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|9,No TBI Indomethacin,0,1,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|0,No TBI vehicle,0,0,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|1,No TBI vehicle,0,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|10,No TBI vehicle,0,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|11,No TBI vehicle,0,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|12,No TBI vehicle,0,0,1,1:28-29,28-29,1,28,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|13,No TBI vehicle,0,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|14,No TBI vehicle,0,0,1,1:28-29,28-29,1,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|15,No TBI vehicle,0,0,1,1:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|16,No TBI vehicle,0,0,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|17,No TBI vehicle,0,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|18,No TBI vehicle,0,0,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|19,No TBI vehicle,0,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|2,No TBI vehicle,0,0,1,1:28-29,28-29,1,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|20,No TBI vehicle,0,0,1,1:28-29,28-29,1,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|21,No TBI vehicle,0,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|22,No TBI vehicle,0,0,1,1:28-29,28-29,1,14,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|23,No TBI vehicle,0,0,2,2:28-29,28-29,1,2,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|24,No TBI vehicle,0,0,2,2:28-29,28-29,1,11,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|25,No TBI vehicle,0,0,2,2:28-29,28-29,1,10,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|26,No TBI vehicle,0,0,2,2:28-29,28-29,1,9,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|27,No TBI vehicle,0,0,2,2:28-29,28-29,1,9,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|28,No TBI vehicle,0,0,2,2:28-29,28-29,1,1,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|29,No TBI vehicle,0,0,2,2:28-29,28-29,1,17,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|3,No TBI vehicle,0,0,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|30,No TBI vehicle,0,0,2,2:28-29,28-29,1,1,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|31,No TBI vehicle,0,0,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|32,No TBI vehicle,0,0,2,2:28-29,28-29,1,2,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|33,No TBI vehicle,0,0,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|34,No TBI vehicle,0,0,2,2:28-29,28-29,1,21,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|35,No TBI vehicle,0,0,2,2:28-29,28-29,1,7,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|36,No TBI vehicle,0,0,2,2:28-29,28-29,1,2,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|37,No TBI vehicle,0,0,2,2:28-29,28-29,1,10,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|38,No TBI vehicle,0,0,2,2:28-29,28-29,1,2,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|39,No TBI vehicle,0,0,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|4,No TBI vehicle,0,0,1,1:28-29,28-29,1,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|40,No TBI vehicle,0,0,2,2:28-29,28-29,1,8,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|41,No TBI vehicle,0,0,2,2:28-29,28-29,1,1,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|42,No TBI vehicle,0,0,2,2:28-29,28-29,1,1,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|43,No TBI vehicle,0,0,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|44,No TBI vehicle,0,0,2,2:28-29,28-29,1,1,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|45,No TBI vehicle,0,0,2,2:28-29,28-29,1,3,103
+Fig8,post-intervention,F8post_No_TBI_vehicle|46,No TBI vehicle,0,0,2,2:28-29,28-29,1,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|5,No TBI vehicle,0,0,1,1:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|6,No TBI vehicle,0,0,1,1:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|7,No TBI vehicle,0,0,1,1:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|8,No TBI vehicle,0,0,1,1:28-29,28-29,1,40,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|9,No TBI vehicle,0,0,1,1:28-29,28-29,1,18,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|0,TBI Indomethacin,1,1,1,1:28-29,28-29,1,37,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|1,TBI Indomethacin,1,1,1,1:28-29,28-29,1,17,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|10,TBI Indomethacin,1,1,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|11,TBI Indomethacin,1,1,1,1:28-29,28-29,1,14,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|12,TBI Indomethacin,1,1,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|13,TBI Indomethacin,1,1,1,1:28-29,28-29,1,31,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|14,TBI Indomethacin,1,1,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|15,TBI Indomethacin,1,1,1,1:28-29,28-29,1,17,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|16,TBI Indomethacin,1,1,1,1:28-29,28-29,1,16,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|17,TBI Indomethacin,1,1,1,1:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|18,TBI Indomethacin,1,1,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|19,TBI Indomethacin,1,1,1,1:28-29,28-29,1,24,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|2,TBI Indomethacin,1,1,1,1:28-29,28-29,1,51,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|20,TBI Indomethacin,1,1,1,1:28-29,28-29,1,59,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|21,TBI Indomethacin,1,1,1,1:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|22,TBI Indomethacin,1,1,1,1:28-29,28-29,1,14,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|23,TBI Indomethacin,1,1,1,1:28-29,28-29,1,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|24,TBI Indomethacin,1,1,2,2:28-29,28-29,1,20,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|25,TBI Indomethacin,1,1,2,2:28-29,28-29,1,13,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|26,TBI Indomethacin,1,1,2,2:28-29,28-29,1,16,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|27,TBI Indomethacin,1,1,2,2:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|28,TBI Indomethacin,1,1,2,2:28-29,28-29,1,11,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|29,TBI Indomethacin,1,1,2,2:28-29,28-29,1,33,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|3,TBI Indomethacin,1,1,1,1:28-29,28-29,1,12,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|30,TBI Indomethacin,1,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|31,TBI Indomethacin,1,1,2,2:28-29,28-29,1,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|32,TBI Indomethacin,1,1,2,2:28-29,28-29,1,102,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|33,TBI Indomethacin,1,1,2,2:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|34,TBI Indomethacin,1,1,2,2:28-29,28-29,1,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|35,TBI Indomethacin,1,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|36,TBI Indomethacin,1,1,2,2:28-29,28-29,1,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|37,TBI Indomethacin,1,1,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|38,TBI Indomethacin,1,1,2,2:28-29,28-29,1,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|39,TBI Indomethacin,1,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|4,TBI Indomethacin,1,1,1,1:28-29,28-29,1,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|40,TBI Indomethacin,1,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|41,TBI Indomethacin,1,1,2,2:28-29,28-29,1,12,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|42,TBI Indomethacin,1,1,2,2:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|43,TBI Indomethacin,1,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|44,TBI Indomethacin,1,1,2,2:28-29,28-29,1,19,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|45,TBI Indomethacin,1,1,2,2:28-29,28-29,1,12,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|46,TBI Indomethacin,1,1,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|5,TBI Indomethacin,1,1,1,1:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|6,TBI Indomethacin,1,1,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|7,TBI Indomethacin,1,1,1,1:28-29,28-29,1,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|8,TBI Indomethacin,1,1,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|9,TBI Indomethacin,1,1,1,1:28-29,28-29,1,34,120
+Fig8,post-intervention,F8post_TBI_vehicle|0,TBI vehicle,1,0,1,1:28-29,28-29,1,28,120
+Fig8,post-intervention,F8post_TBI_vehicle|1,TBI vehicle,1,0,1,1:28-29,28-29,1,19,120
+Fig8,post-intervention,F8post_TBI_vehicle|10,TBI vehicle,1,0,1,1:28-29,28-29,1,20,120
+Fig8,post-intervention,F8post_TBI_vehicle|11,TBI vehicle,1,0,1,1:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|12,TBI vehicle,1,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|13,TBI vehicle,1,0,1,1:28-29,28-29,1,15,120
+Fig8,post-intervention,F8post_TBI_vehicle|14,TBI vehicle,1,0,1,1:28-29,28-29,1,34,120
+Fig8,post-intervention,F8post_TBI_vehicle|15,TBI vehicle,1,0,1,1:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|16,TBI vehicle,1,0,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|17,TBI vehicle,1,0,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|18,TBI vehicle,1,0,1,1:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|19,TBI vehicle,1,0,1,1:28-29,28-29,1,11,120
+Fig8,post-intervention,F8post_TBI_vehicle|2,TBI vehicle,1,0,1,1:28-29,28-29,1,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|20,TBI vehicle,1,0,1,1:28-29,28-29,1,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|21,TBI vehicle,1,0,1,1:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|22,TBI vehicle,1,0,1,1:28-29,28-29,1,17,120
+Fig8,post-intervention,F8post_TBI_vehicle|23,TBI vehicle,1,0,1,1:28-29,28-29,1,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|24,TBI vehicle,1,0,2,2:28-29,28-29,1,40,120
+Fig8,post-intervention,F8post_TBI_vehicle|25,TBI vehicle,1,0,2,2:28-29,28-29,1,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|26,TBI vehicle,1,0,2,2:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|27,TBI vehicle,1,0,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|28,TBI vehicle,1,0,2,2:28-29,28-29,1,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|29,TBI vehicle,1,0,2,2:28-29,28-29,1,12,120
+Fig8,post-intervention,F8post_TBI_vehicle|3,TBI vehicle,1,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|30,TBI vehicle,1,0,2,2:28-29,28-29,1,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|31,TBI vehicle,1,0,2,2:28-29,28-29,1,26,120
+Fig8,post-intervention,F8post_TBI_vehicle|32,TBI vehicle,1,0,2,2:28-29,28-29,1,20,120
+Fig8,post-intervention,F8post_TBI_vehicle|33,TBI vehicle,1,0,2,2:28-29,28-29,1,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|34,TBI vehicle,1,0,2,2:28-29,28-29,1,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|35,TBI vehicle,1,0,2,2:28-29,28-29,1,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|36,TBI vehicle,1,0,2,2:28-29,28-29,1,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|37,TBI vehicle,1,0,2,2:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|38,TBI vehicle,1,0,2,2:28-29,28-29,1,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|39,TBI vehicle,1,0,2,2:28-29,28-29,1,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|4,TBI vehicle,1,0,1,1:28-29,28-29,1,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|40,TBI vehicle,1,0,2,2:28-29,28-29,1,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|41,TBI vehicle,1,0,2,2:28-29,28-29,1,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|42,TBI vehicle,1,0,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|43,TBI vehicle,1,0,2,2:28-29,28-29,1,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|44,TBI vehicle,1,0,2,2:28-29,28-29,1,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|45,TBI vehicle,1,0,2,2:28-29,28-29,1,19,120
+Fig8,post-intervention,F8post_TBI_vehicle|5,TBI vehicle,1,0,1,1:28-29,28-29,1,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|6,TBI vehicle,1,0,1,1:28-29,28-29,1,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|7,TBI vehicle,1,0,1,1:28-29,28-29,1,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|8,TBI vehicle,1,0,1,1:28-29,28-29,1,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|9,TBI vehicle,1,0,1,1:28-29,28-29,1,25,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|0,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,11,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|1,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,19,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|10,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|11,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,27,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|12,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|13,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|14,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|15,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|16,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,16,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|17,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|18,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|19,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|2,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,22,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|20,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|21,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|22,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|3,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|4,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|5,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,10,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|6,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,13,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|7,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,17,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|8,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,23,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|9,No TBI Indomethacin,0,1,1,1:32-33,32-33,2,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|0,No TBI vehicle,0,0,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|1,No TBI vehicle,0,0,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|10,No TBI vehicle,0,0,1,1:32-33,32-33,2,14,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|11,No TBI vehicle,0,0,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|12,No TBI vehicle,0,0,1,1:32-33,32-33,2,51,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|13,No TBI vehicle,0,0,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|14,No TBI vehicle,0,0,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|15,No TBI vehicle,0,0,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|16,No TBI vehicle,0,0,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|17,No TBI vehicle,0,0,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|18,No TBI vehicle,0,0,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|19,No TBI vehicle,0,0,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|2,No TBI vehicle,0,0,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|20,No TBI vehicle,0,0,1,1:32-33,32-33,2,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|21,No TBI vehicle,0,0,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|22,No TBI vehicle,0,0,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|3,No TBI vehicle,0,0,1,1:32-33,32-33,2,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|4,No TBI vehicle,0,0,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|5,No TBI vehicle,0,0,1,1:32-33,32-33,2,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|6,No TBI vehicle,0,0,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|7,No TBI vehicle,0,0,1,1:32-33,32-33,2,11,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|8,No TBI vehicle,0,0,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|9,No TBI vehicle,0,0,1,1:32-33,32-33,2,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|0,TBI Indomethacin,1,1,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|1,TBI Indomethacin,1,1,1,1:32-33,32-33,2,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|10,TBI Indomethacin,1,1,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|11,TBI Indomethacin,1,1,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|12,TBI Indomethacin,1,1,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|13,TBI Indomethacin,1,1,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|14,TBI Indomethacin,1,1,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|15,TBI Indomethacin,1,1,1,1:32-33,32-33,2,12,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|16,TBI Indomethacin,1,1,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|17,TBI Indomethacin,1,1,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|18,TBI Indomethacin,1,1,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|19,TBI Indomethacin,1,1,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|2,TBI Indomethacin,1,1,1,1:32-33,32-33,2,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|20,TBI Indomethacin,1,1,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|21,TBI Indomethacin,1,1,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|22,TBI Indomethacin,1,1,1,1:32-33,32-33,2,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|23,TBI Indomethacin,1,1,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|3,TBI Indomethacin,1,1,1,1:32-33,32-33,2,28,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|4,TBI Indomethacin,1,1,1,1:32-33,32-33,2,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|5,TBI Indomethacin,1,1,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|6,TBI Indomethacin,1,1,1,1:32-33,32-33,2,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|7,TBI Indomethacin,1,1,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|8,TBI Indomethacin,1,1,1,1:32-33,32-33,2,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|9,TBI Indomethacin,1,1,1,1:32-33,32-33,2,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|0,TBI vehicle,1,0,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|1,TBI vehicle,1,0,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|10,TBI vehicle,1,0,1,1:32-33,32-33,2,33,120
+Fig8,post-intervention,F8post_TBI_vehicle|11,TBI vehicle,1,0,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|12,TBI vehicle,1,0,1,1:32-33,32-33,2,79,120
+Fig8,post-intervention,F8post_TBI_vehicle|13,TBI vehicle,1,0,1,1:32-33,32-33,2,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|14,TBI vehicle,1,0,1,1:32-33,32-33,2,29,120
+Fig8,post-intervention,F8post_TBI_vehicle|15,TBI vehicle,1,0,1,1:32-33,32-33,2,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|16,TBI vehicle,1,0,1,1:32-33,32-33,2,21,120
+Fig8,post-intervention,F8post_TBI_vehicle|17,TBI vehicle,1,0,1,1:32-33,32-33,2,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|18,TBI vehicle,1,0,1,1:32-33,32-33,2,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|19,TBI vehicle,1,0,1,1:32-33,32-33,2,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|2,TBI vehicle,1,0,1,1:32-33,32-33,2,11,120
+Fig8,post-intervention,F8post_TBI_vehicle|20,TBI vehicle,1,0,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|21,TBI vehicle,1,0,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|22,TBI vehicle,1,0,1,1:32-33,32-33,2,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|23,TBI vehicle,1,0,1,1:32-33,32-33,2,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|3,TBI vehicle,1,0,1,1:32-33,32-33,2,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|4,TBI vehicle,1,0,1,1:32-33,32-33,2,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|5,TBI vehicle,1,0,1,1:32-33,32-33,2,19,120
+Fig8,post-intervention,F8post_TBI_vehicle|6,TBI vehicle,1,0,1,1:32-33,32-33,2,94,120
+Fig8,post-intervention,F8post_TBI_vehicle|7,TBI vehicle,1,0,1,1:32-33,32-33,2,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|8,TBI vehicle,1,0,1,1:32-33,32-33,2,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|9,TBI vehicle,1,0,1,1:32-33,32-33,2,15,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|0,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|1,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|10,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|11,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,58,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|12,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|13,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|14,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|15,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|16,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,63,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|17,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|18,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|19,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,19,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|2,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,17,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|20,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|21,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,18,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|22,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,22,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|23,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,16,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|24,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|25,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|26,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|27,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|28,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|29,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|3,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|30,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|31,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|32,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|33,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|34,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|35,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|36,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|37,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|38,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|39,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,21,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|4,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|40,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|41,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,11,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|42,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|43,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|44,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|45,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|46,No TBI Indomethacin,0,1,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|5,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,42,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|6,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|7,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|8,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|9,No TBI Indomethacin,0,1,1,1:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|0,No TBI vehicle,0,0,1,1:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|1,No TBI vehicle,0,0,1,1:36-37,36-37,3,9,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|10,No TBI vehicle,0,0,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|11,No TBI vehicle,0,0,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|12,No TBI vehicle,0,0,1,1:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|13,No TBI vehicle,0,0,1,1:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|14,No TBI vehicle,0,0,1,1:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|15,No TBI vehicle,0,0,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|16,No TBI vehicle,0,0,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|17,No TBI vehicle,0,0,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|18,No TBI vehicle,0,0,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|19,No TBI vehicle,0,0,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|2,No TBI vehicle,0,0,1,1:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|20,No TBI vehicle,0,0,1,1:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|21,No TBI vehicle,0,0,1,1:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|22,No TBI vehicle,0,0,1,1:36-37,36-37,3,19,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|23,No TBI vehicle,0,0,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|24,No TBI vehicle,0,0,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|25,No TBI vehicle,0,0,2,2:36-37,36-37,3,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|26,No TBI vehicle,0,0,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|27,No TBI vehicle,0,0,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|28,No TBI vehicle,0,0,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|29,No TBI vehicle,0,0,2,2:36-37,36-37,3,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|3,No TBI vehicle,0,0,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|30,No TBI vehicle,0,0,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|31,No TBI vehicle,0,0,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|32,No TBI vehicle,0,0,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|33,No TBI vehicle,0,0,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|34,No TBI vehicle,0,0,2,2:36-37,36-37,3,21,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|35,No TBI vehicle,0,0,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|36,No TBI vehicle,0,0,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|37,No TBI vehicle,0,0,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|38,No TBI vehicle,0,0,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|39,No TBI vehicle,0,0,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|4,No TBI vehicle,0,0,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|40,No TBI vehicle,0,0,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|41,No TBI vehicle,0,0,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|42,No TBI vehicle,0,0,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|43,No TBI vehicle,0,0,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|44,No TBI vehicle,0,0,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|45,No TBI vehicle,0,0,2,2:36-37,36-37,3,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|46,No TBI vehicle,0,0,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|5,No TBI vehicle,0,0,1,1:36-37,36-37,3,16,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|6,No TBI vehicle,0,0,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|7,No TBI vehicle,0,0,1,1:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|8,No TBI vehicle,0,0,1,1:36-37,36-37,3,45,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|9,No TBI vehicle,0,0,1,1:36-37,36-37,3,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|0,TBI Indomethacin,1,1,1,1:36-37,36-37,3,27,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|1,TBI Indomethacin,1,1,1,1:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|10,TBI Indomethacin,1,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|11,TBI Indomethacin,1,1,1,1:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|12,TBI Indomethacin,1,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|13,TBI Indomethacin,1,1,1,1:36-37,36-37,3,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|14,TBI Indomethacin,1,1,1,1:36-37,36-37,3,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|15,TBI Indomethacin,1,1,1,1:36-37,36-37,3,44,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|16,TBI Indomethacin,1,1,1,1:36-37,36-37,3,38,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|17,TBI Indomethacin,1,1,1,1:36-37,36-37,3,27,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|18,TBI Indomethacin,1,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|19,TBI Indomethacin,1,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|2,TBI Indomethacin,1,1,1,1:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|20,TBI Indomethacin,1,1,1,1:36-37,36-37,3,18,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|21,TBI Indomethacin,1,1,1,1:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|22,TBI Indomethacin,1,1,1,1:36-37,36-37,3,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|23,TBI Indomethacin,1,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|24,TBI Indomethacin,1,1,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|25,TBI Indomethacin,1,1,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|26,TBI Indomethacin,1,1,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|27,TBI Indomethacin,1,1,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|28,TBI Indomethacin,1,1,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|29,TBI Indomethacin,1,1,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|3,TBI Indomethacin,1,1,1,1:36-37,36-37,3,38,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|30,TBI Indomethacin,1,1,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|31,TBI Indomethacin,1,1,2,2:36-37,36-37,3,35,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|32,TBI Indomethacin,1,1,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|33,TBI Indomethacin,1,1,2,2:36-37,36-37,3,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|34,TBI Indomethacin,1,1,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|35,TBI Indomethacin,1,1,2,2:36-37,36-37,3,10,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|36,TBI Indomethacin,1,1,2,2:36-37,36-37,3,10,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|37,TBI Indomethacin,1,1,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|38,TBI Indomethacin,1,1,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|39,TBI Indomethacin,1,1,2,2:36-37,36-37,3,10,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|4,TBI Indomethacin,1,1,1,1:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|40,TBI Indomethacin,1,1,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|41,TBI Indomethacin,1,1,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|42,TBI Indomethacin,1,1,2,2:36-37,36-37,3,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|43,TBI Indomethacin,1,1,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|44,TBI Indomethacin,1,1,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|45,TBI Indomethacin,1,1,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|46,TBI Indomethacin,1,1,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|5,TBI Indomethacin,1,1,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|6,TBI Indomethacin,1,1,1,1:36-37,36-37,3,87,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|7,TBI Indomethacin,1,1,1,1:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|8,TBI Indomethacin,1,1,1,1:36-37,36-37,3,19,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|9,TBI Indomethacin,1,1,1,1:36-37,36-37,3,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|0,TBI vehicle,1,0,1,1:36-37,36-37,3,29,120
+Fig8,post-intervention,F8post_TBI_vehicle|1,TBI vehicle,1,0,1,1:36-37,36-37,3,21,120
+Fig8,post-intervention,F8post_TBI_vehicle|10,TBI vehicle,1,0,1,1:36-37,36-37,3,17,120
+Fig8,post-intervention,F8post_TBI_vehicle|11,TBI vehicle,1,0,1,1:36-37,36-37,3,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|12,TBI vehicle,1,0,1,1:36-37,36-37,3,53,120
+Fig8,post-intervention,F8post_TBI_vehicle|13,TBI vehicle,1,0,1,1:36-37,36-37,3,38,120
+Fig8,post-intervention,F8post_TBI_vehicle|14,TBI vehicle,1,0,1,1:36-37,36-37,3,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|15,TBI vehicle,1,0,1,1:36-37,36-37,3,26,120
+Fig8,post-intervention,F8post_TBI_vehicle|16,TBI vehicle,1,0,1,1:36-37,36-37,3,31,120
+Fig8,post-intervention,F8post_TBI_vehicle|17,TBI vehicle,1,0,1,1:36-37,36-37,3,76,120
+Fig8,post-intervention,F8post_TBI_vehicle|18,TBI vehicle,1,0,1,1:36-37,36-37,3,28,120
+Fig8,post-intervention,F8post_TBI_vehicle|19,TBI vehicle,1,0,1,1:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|2,TBI vehicle,1,0,1,1:36-37,36-37,3,26,120
+Fig8,post-intervention,F8post_TBI_vehicle|20,TBI vehicle,1,0,1,1:36-37,36-37,3,35,120
+Fig8,post-intervention,F8post_TBI_vehicle|21,TBI vehicle,1,0,1,1:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|22,TBI vehicle,1,0,1,1:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|23,TBI vehicle,1,0,1,1:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|24,TBI vehicle,1,0,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|25,TBI vehicle,1,0,2,2:36-37,36-37,3,15,120
+Fig8,post-intervention,F8post_TBI_vehicle|26,TBI vehicle,1,0,2,2:36-37,36-37,3,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|27,TBI vehicle,1,0,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|28,TBI vehicle,1,0,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|29,TBI vehicle,1,0,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|3,TBI vehicle,1,0,1,1:36-37,36-37,3,11,120
+Fig8,post-intervention,F8post_TBI_vehicle|30,TBI vehicle,1,0,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|31,TBI vehicle,1,0,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|32,TBI vehicle,1,0,2,2:36-37,36-37,3,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|33,TBI vehicle,1,0,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|34,TBI vehicle,1,0,2,2:36-37,36-37,3,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|35,TBI vehicle,1,0,2,2:36-37,36-37,3,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|36,TBI vehicle,1,0,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|37,TBI vehicle,1,0,2,2:36-37,36-37,3,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|38,TBI vehicle,1,0,2,2:36-37,36-37,3,17,120
+Fig8,post-intervention,F8post_TBI_vehicle|39,TBI vehicle,1,0,2,2:36-37,36-37,3,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|4,TBI vehicle,1,0,1,1:36-37,36-37,3,15,120
+Fig8,post-intervention,F8post_TBI_vehicle|40,TBI vehicle,1,0,2,2:36-37,36-37,3,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|41,TBI vehicle,1,0,2,2:36-37,36-37,3,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|42,TBI vehicle,1,0,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|43,TBI vehicle,1,0,2,2:36-37,36-37,3,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|44,TBI vehicle,1,0,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|45,TBI vehicle,1,0,2,2:36-37,36-37,3,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|5,TBI vehicle,1,0,1,1:36-37,36-37,3,11,120
+Fig8,post-intervention,F8post_TBI_vehicle|6,TBI vehicle,1,0,1,1:36-37,36-37,3,26,120
+Fig8,post-intervention,F8post_TBI_vehicle|7,TBI vehicle,1,0,1,1:36-37,36-37,3,20,120
+Fig8,post-intervention,F8post_TBI_vehicle|8,TBI vehicle,1,0,1,1:36-37,36-37,3,56,120
+Fig8,post-intervention,F8post_TBI_vehicle|9,TBI vehicle,1,0,1,1:36-37,36-37,3,20,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|0,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|1,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|10,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|11,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,22,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|12,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|13,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|14,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|15,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|16,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,90,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|17,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,11,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|18,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,52,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|19,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,30,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|2,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,28,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|20,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|21,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|22,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,26,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|23,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|24,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|25,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|26,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|27,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|28,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,27,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|29,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|3,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|30,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,13,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|31,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,13,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|32,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|33,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|34,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|35,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|36,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|37,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|38,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,21,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|39,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,17,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|4,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|40,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|41,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|42,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|43,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|44,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,13,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|45,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,10,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|46,No TBI Indomethacin,0,1,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|5,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,19,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|6,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|7,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|8,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|9,No TBI Indomethacin,0,1,1,1:40-41,40-41,4,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|0,No TBI vehicle,0,0,1,1:40-41,40-41,4,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|1,No TBI vehicle,0,0,1,1:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|10,No TBI vehicle,0,0,1,1:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|11,No TBI vehicle,0,0,1,1:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|12,No TBI vehicle,0,0,1,1:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|13,No TBI vehicle,0,0,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|14,No TBI vehicle,0,0,1,1:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|15,No TBI vehicle,0,0,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|16,No TBI vehicle,0,0,1,1:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|17,No TBI vehicle,0,0,1,1:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|18,No TBI vehicle,0,0,1,1:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|19,No TBI vehicle,0,0,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|2,No TBI vehicle,0,0,1,1:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|20,No TBI vehicle,0,0,1,1:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|21,No TBI vehicle,0,0,1,1:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|22,No TBI vehicle,0,0,1,1:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|23,No TBI vehicle,0,0,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|24,No TBI vehicle,0,0,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|25,No TBI vehicle,0,0,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|26,No TBI vehicle,0,0,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|27,No TBI vehicle,0,0,2,2:40-41,40-41,4,10,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|28,No TBI vehicle,0,0,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|29,No TBI vehicle,0,0,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|3,No TBI vehicle,0,0,1,1:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|30,No TBI vehicle,0,0,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|31,No TBI vehicle,0,0,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|32,No TBI vehicle,0,0,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|33,No TBI vehicle,0,0,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|34,No TBI vehicle,0,0,2,2:40-41,40-41,4,17,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|35,No TBI vehicle,0,0,2,2:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|36,No TBI vehicle,0,0,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|37,No TBI vehicle,0,0,2,2:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|38,No TBI vehicle,0,0,2,2:40-41,40-41,4,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|39,No TBI vehicle,0,0,2,2:40-41,40-41,4,15,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|4,No TBI vehicle,0,0,1,1:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|40,No TBI vehicle,0,0,2,2:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|41,No TBI vehicle,0,0,2,2:40-41,40-41,4,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|42,No TBI vehicle,0,0,2,2:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|43,No TBI vehicle,0,0,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|44,No TBI vehicle,0,0,2,2:40-41,40-41,4,13,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|45,No TBI vehicle,0,0,2,2:40-41,40-41,4,11,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|46,No TBI vehicle,0,0,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|5,No TBI vehicle,0,0,1,1:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|6,No TBI vehicle,0,0,1,1:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|7,No TBI vehicle,0,0,1,1:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|8,No TBI vehicle,0,0,1,1:40-41,40-41,4,42,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|9,No TBI vehicle,0,0,1,1:40-41,40-41,4,14,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|0,TBI Indomethacin,1,1,1,1:40-41,40-41,4,16,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|1,TBI Indomethacin,1,1,1,1:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|10,TBI Indomethacin,1,1,1,1:40-41,40-41,4,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|11,TBI Indomethacin,1,1,1,1:40-41,40-41,4,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|12,TBI Indomethacin,1,1,1,1:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|13,TBI Indomethacin,1,1,1,1:40-41,40-41,4,25,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|14,TBI Indomethacin,1,1,1,1:40-41,40-41,4,15,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|15,TBI Indomethacin,1,1,1,1:40-41,40-41,4,34,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|16,TBI Indomethacin,1,1,1,1:40-41,40-41,4,44,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|17,TBI Indomethacin,1,1,1,1:40-41,40-41,4,23,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|18,TBI Indomethacin,1,1,1,1:40-41,40-41,4,20,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|19,TBI Indomethacin,1,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|2,TBI Indomethacin,1,1,1,1:40-41,40-41,4,12,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|20,TBI Indomethacin,1,1,1,1:40-41,40-41,4,15,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|21,TBI Indomethacin,1,1,1,1:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|22,TBI Indomethacin,1,1,1,1:40-41,40-41,4,16,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|23,TBI Indomethacin,1,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|24,TBI Indomethacin,1,1,2,2:40-41,40-41,4,11,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|25,TBI Indomethacin,1,1,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|26,TBI Indomethacin,1,1,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|27,TBI Indomethacin,1,1,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|28,TBI Indomethacin,1,1,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|29,TBI Indomethacin,1,1,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|3,TBI Indomethacin,1,1,1,1:40-41,40-41,4,29,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|30,TBI Indomethacin,1,1,2,2:40-41,40-41,4,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|31,TBI Indomethacin,1,1,2,2:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|32,TBI Indomethacin,1,1,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|33,TBI Indomethacin,1,1,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|34,TBI Indomethacin,1,1,2,2:40-41,40-41,4,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|35,TBI Indomethacin,1,1,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|36,TBI Indomethacin,1,1,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|37,TBI Indomethacin,1,1,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|38,TBI Indomethacin,1,1,2,2:40-41,40-41,4,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|39,TBI Indomethacin,1,1,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|4,TBI Indomethacin,1,1,1,1:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|40,TBI Indomethacin,1,1,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|41,TBI Indomethacin,1,1,2,2:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|42,TBI Indomethacin,1,1,2,2:40-41,40-41,4,11,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|43,TBI Indomethacin,1,1,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|44,TBI Indomethacin,1,1,2,2:40-41,40-41,4,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|45,TBI Indomethacin,1,1,2,2:40-41,40-41,4,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|46,TBI Indomethacin,1,1,2,2:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|5,TBI Indomethacin,1,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|6,TBI Indomethacin,1,1,1,1:40-41,40-41,4,80,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|7,TBI Indomethacin,1,1,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|8,TBI Indomethacin,1,1,1,1:40-41,40-41,4,59,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|9,TBI Indomethacin,1,1,1,1:40-41,40-41,4,39,120
+Fig8,post-intervention,F8post_TBI_vehicle|0,TBI vehicle,1,0,1,1:40-41,40-41,4,70,120
+Fig8,post-intervention,F8post_TBI_vehicle|1,TBI vehicle,1,0,1,1:40-41,40-41,4,26,120
+Fig8,post-intervention,F8post_TBI_vehicle|10,TBI vehicle,1,0,1,1:40-41,40-41,4,24,120
+Fig8,post-intervention,F8post_TBI_vehicle|11,TBI vehicle,1,0,1,1:40-41,40-41,4,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|12,TBI vehicle,1,0,1,1:40-41,40-41,4,56,120
+Fig8,post-intervention,F8post_TBI_vehicle|13,TBI vehicle,1,0,1,1:40-41,40-41,4,52,120
+Fig8,post-intervention,F8post_TBI_vehicle|14,TBI vehicle,1,0,1,1:40-41,40-41,4,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|15,TBI vehicle,1,0,1,1:40-41,40-41,4,32,120
+Fig8,post-intervention,F8post_TBI_vehicle|16,TBI vehicle,1,0,1,1:40-41,40-41,4,34,120
+Fig8,post-intervention,F8post_TBI_vehicle|17,TBI vehicle,1,0,1,1:40-41,40-41,4,86,120
+Fig8,post-intervention,F8post_TBI_vehicle|18,TBI vehicle,1,0,1,1:40-41,40-41,4,33,120
+Fig8,post-intervention,F8post_TBI_vehicle|19,TBI vehicle,1,0,1,1:40-41,40-41,4,15,120
+Fig8,post-intervention,F8post_TBI_vehicle|2,TBI vehicle,1,0,1,1:40-41,40-41,4,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|20,TBI vehicle,1,0,1,1:40-41,40-41,4,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|21,TBI vehicle,1,0,1,1:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|22,TBI vehicle,1,0,1,1:40-41,40-41,4,12,120
+Fig8,post-intervention,F8post_TBI_vehicle|23,TBI vehicle,1,0,1,1:40-41,40-41,4,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|24,TBI vehicle,1,0,2,2:40-41,40-41,4,14,120
+Fig8,post-intervention,F8post_TBI_vehicle|25,TBI vehicle,1,0,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|26,TBI vehicle,1,0,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|27,TBI vehicle,1,0,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|28,TBI vehicle,1,0,2,2:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|29,TBI vehicle,1,0,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|3,TBI vehicle,1,0,1,1:40-41,40-41,4,14,120
+Fig8,post-intervention,F8post_TBI_vehicle|30,TBI vehicle,1,0,2,2:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|31,TBI vehicle,1,0,2,2:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|32,TBI vehicle,1,0,2,2:40-41,40-41,4,26,120
+Fig8,post-intervention,F8post_TBI_vehicle|33,TBI vehicle,1,0,2,2:40-41,40-41,4,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|34,TBI vehicle,1,0,2,2:40-41,40-41,4,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|35,TBI vehicle,1,0,2,2:40-41,40-41,4,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|36,TBI vehicle,1,0,2,2:40-41,40-41,4,24,120
+Fig8,post-intervention,F8post_TBI_vehicle|37,TBI vehicle,1,0,2,2:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|38,TBI vehicle,1,0,2,2:40-41,40-41,4,23,120
+Fig8,post-intervention,F8post_TBI_vehicle|39,TBI vehicle,1,0,2,2:40-41,40-41,4,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|4,TBI vehicle,1,0,1,1:40-41,40-41,4,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|40,TBI vehicle,1,0,2,2:40-41,40-41,4,14,120
+Fig8,post-intervention,F8post_TBI_vehicle|41,TBI vehicle,1,0,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|42,TBI vehicle,1,0,2,2:40-41,40-41,4,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|43,TBI vehicle,1,0,2,2:40-41,40-41,4,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|44,TBI vehicle,1,0,2,2:40-41,40-41,4,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|45,TBI vehicle,1,0,2,2:40-41,40-41,4,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|5,TBI vehicle,1,0,1,1:40-41,40-41,4,11,120
+Fig8,post-intervention,F8post_TBI_vehicle|6,TBI vehicle,1,0,1,1:40-41,40-41,4,35,120
+Fig8,post-intervention,F8post_TBI_vehicle|7,TBI vehicle,1,0,1,1:40-41,40-41,4,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|8,TBI vehicle,1,0,1,1:40-41,40-41,4,65,120
+Fig8,post-intervention,F8post_TBI_vehicle|9,TBI vehicle,1,0,1,1:40-41,40-41,4,19,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|0,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|1,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|10,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|11,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,35,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|12,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|13,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|14,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,25,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|15,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|16,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,108,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|17,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|18,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,20,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|19,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|2,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,21,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|20,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,11,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|21,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|22,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|23,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|24,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,17,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|25,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|26,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|27,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|28,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|29,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|3,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|30,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,22,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|31,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,21,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|32,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,23,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|33,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,45,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|34,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,25,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|35,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|36,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|37,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|38,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|39,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|4,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|40,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|41,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|42,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,23,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|43,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,12,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|44,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|45,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|46,No TBI Indomethacin,0,1,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|5,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|6,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|7,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|8,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|9,No TBI Indomethacin,0,1,1,1:43-44,43-44,5,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|0,No TBI vehicle,0,0,1,1:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|1,No TBI vehicle,0,0,1,1:43-44,43-44,5,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|10,No TBI vehicle,0,0,1,1:43-44,43-44,5,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|11,No TBI vehicle,0,0,1,1:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|12,No TBI vehicle,0,0,1,1:43-44,43-44,5,11,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|13,No TBI vehicle,0,0,1,1:43-44,43-44,5,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|14,No TBI vehicle,0,0,1,1:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|15,No TBI vehicle,0,0,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|16,No TBI vehicle,0,0,1,1:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|17,No TBI vehicle,0,0,1,1:43-44,43-44,5,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|18,No TBI vehicle,0,0,1,1:43-44,43-44,5,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|19,No TBI vehicle,0,0,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|2,No TBI vehicle,0,0,1,1:43-44,43-44,5,11,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|20,No TBI vehicle,0,0,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|21,No TBI vehicle,0,0,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|22,No TBI vehicle,0,0,1,1:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|23,No TBI vehicle,0,0,2,2:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|24,No TBI vehicle,0,0,2,2:43-44,43-44,5,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|25,No TBI vehicle,0,0,2,2:43-44,43-44,5,11,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|26,No TBI vehicle,0,0,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|27,No TBI vehicle,0,0,2,2:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|28,No TBI vehicle,0,0,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|29,No TBI vehicle,0,0,2,2:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|3,No TBI vehicle,0,0,1,1:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|30,No TBI vehicle,0,0,2,2:43-44,43-44,5,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|31,No TBI vehicle,0,0,2,2:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|32,No TBI vehicle,0,0,2,2:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|33,No TBI vehicle,0,0,2,2:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|34,No TBI vehicle,0,0,2,2:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|35,No TBI vehicle,0,0,2,2:43-44,43-44,5,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|36,No TBI vehicle,0,0,2,2:43-44,43-44,5,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|37,No TBI vehicle,0,0,2,2:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|38,No TBI vehicle,0,0,2,2:43-44,43-44,5,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|39,No TBI vehicle,0,0,2,2:43-44,43-44,5,21,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|4,No TBI vehicle,0,0,1,1:43-44,43-44,5,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|40,No TBI vehicle,0,0,2,2:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|41,No TBI vehicle,0,0,2,2:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|42,No TBI vehicle,0,0,2,2:43-44,43-44,5,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|43,No TBI vehicle,0,0,2,2:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|44,No TBI vehicle,0,0,2,2:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|45,No TBI vehicle,0,0,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|46,No TBI vehicle,0,0,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|5,No TBI vehicle,0,0,1,1:43-44,43-44,5,12,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|6,No TBI vehicle,0,0,1,1:43-44,43-44,5,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|7,No TBI vehicle,0,0,1,1:43-44,43-44,5,12,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|8,No TBI vehicle,0,0,1,1:43-44,43-44,5,21,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|9,No TBI vehicle,0,0,1,1:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|0,TBI Indomethacin,1,1,1,1:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|1,TBI Indomethacin,1,1,1,1:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|10,TBI Indomethacin,1,1,1,1:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|11,TBI Indomethacin,1,1,1,1:43-44,43-44,5,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|12,TBI Indomethacin,1,1,1,1:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|13,TBI Indomethacin,1,1,1,1:43-44,43-44,5,21,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|14,TBI Indomethacin,1,1,1,1:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|15,TBI Indomethacin,1,1,1,1:43-44,43-44,5,52,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|16,TBI Indomethacin,1,1,1,1:43-44,43-44,5,39,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|17,TBI Indomethacin,1,1,1,1:43-44,43-44,5,17,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|18,TBI Indomethacin,1,1,1,1:43-44,43-44,5,77,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|19,TBI Indomethacin,1,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|2,TBI Indomethacin,1,1,1,1:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|20,TBI Indomethacin,1,1,1,1:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|21,TBI Indomethacin,1,1,1,1:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|22,TBI Indomethacin,1,1,1,1:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|23,TBI Indomethacin,1,1,1,1:43-44,43-44,5,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|24,TBI Indomethacin,1,1,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|25,TBI Indomethacin,1,1,2,2:43-44,43-44,5,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|26,TBI Indomethacin,1,1,2,2:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|27,TBI Indomethacin,1,1,2,2:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|28,TBI Indomethacin,1,1,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|29,TBI Indomethacin,1,1,2,2:43-44,43-44,5,31,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|3,TBI Indomethacin,1,1,1,1:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|30,TBI Indomethacin,1,1,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|31,TBI Indomethacin,1,1,2,2:43-44,43-44,5,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|32,TBI Indomethacin,1,1,2,2:43-44,43-44,5,35,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|33,TBI Indomethacin,1,1,2,2:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|34,TBI Indomethacin,1,1,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|35,TBI Indomethacin,1,1,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|36,TBI Indomethacin,1,1,2,2:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|37,TBI Indomethacin,1,1,2,2:43-44,43-44,5,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|38,TBI Indomethacin,1,1,2,2:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|39,TBI Indomethacin,1,1,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|4,TBI Indomethacin,1,1,1,1:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|40,TBI Indomethacin,1,1,2,2:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|41,TBI Indomethacin,1,1,2,2:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|42,TBI Indomethacin,1,1,2,2:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|43,TBI Indomethacin,1,1,2,2:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|44,TBI Indomethacin,1,1,2,2:43-44,43-44,5,11,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|45,TBI Indomethacin,1,1,2,2:43-44,43-44,5,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|46,TBI Indomethacin,1,1,2,2:43-44,43-44,5,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|5,TBI Indomethacin,1,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|6,TBI Indomethacin,1,1,1,1:43-44,43-44,5,15,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|7,TBI Indomethacin,1,1,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|8,TBI Indomethacin,1,1,1,1:43-44,43-44,5,49,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|9,TBI Indomethacin,1,1,1,1:43-44,43-44,5,43,120
+Fig8,post-intervention,F8post_TBI_vehicle|0,TBI vehicle,1,0,1,1:43-44,43-44,5,80,120
+Fig8,post-intervention,F8post_TBI_vehicle|1,TBI vehicle,1,0,1,1:43-44,43-44,5,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|10,TBI vehicle,1,0,1,1:43-44,43-44,5,33,120
+Fig8,post-intervention,F8post_TBI_vehicle|11,TBI vehicle,1,0,1,1:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|12,TBI vehicle,1,0,1,1:43-44,43-44,5,41,120
+Fig8,post-intervention,F8post_TBI_vehicle|13,TBI vehicle,1,0,1,1:43-44,43-44,5,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|14,TBI vehicle,1,0,1,1:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|15,TBI vehicle,1,0,1,1:43-44,43-44,5,66,120
+Fig8,post-intervention,F8post_TBI_vehicle|16,TBI vehicle,1,0,1,1:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|17,TBI vehicle,1,0,1,1:43-44,43-44,5,74,120
+Fig8,post-intervention,F8post_TBI_vehicle|18,TBI vehicle,1,0,1,1:43-44,43-44,5,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|19,TBI vehicle,1,0,1,1:43-44,43-44,5,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|2,TBI vehicle,1,0,1,1:43-44,43-44,5,15,120
+Fig8,post-intervention,F8post_TBI_vehicle|20,TBI vehicle,1,0,1,1:43-44,43-44,5,11,120
+Fig8,post-intervention,F8post_TBI_vehicle|21,TBI vehicle,1,0,1,1:43-44,43-44,5,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|22,TBI vehicle,1,0,1,1:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_TBI_vehicle|23,TBI vehicle,1,0,1,1:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|24,TBI vehicle,1,0,2,2:43-44,43-44,5,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|25,TBI vehicle,1,0,2,2:43-44,43-44,5,20,120
+Fig8,post-intervention,F8post_TBI_vehicle|26,TBI vehicle,1,0,2,2:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|27,TBI vehicle,1,0,2,2:43-44,43-44,5,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|28,TBI vehicle,1,0,2,2:43-44,43-44,5,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|29,TBI vehicle,1,0,2,2:43-44,43-44,5,12,120
+Fig8,post-intervention,F8post_TBI_vehicle|3,TBI vehicle,1,0,1,1:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|30,TBI vehicle,1,0,2,2:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|31,TBI vehicle,1,0,2,2:43-44,43-44,5,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|32,TBI vehicle,1,0,2,2:43-44,43-44,5,17,120
+Fig8,post-intervention,F8post_TBI_vehicle|33,TBI vehicle,1,0,2,2:43-44,43-44,5,19,120
+Fig8,post-intervention,F8post_TBI_vehicle|34,TBI vehicle,1,0,2,2:43-44,43-44,5,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|35,TBI vehicle,1,0,2,2:43-44,43-44,5,17,120
+Fig8,post-intervention,F8post_TBI_vehicle|36,TBI vehicle,1,0,2,2:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|37,TBI vehicle,1,0,2,2:43-44,43-44,5,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|38,TBI vehicle,1,0,2,2:43-44,43-44,5,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|39,TBI vehicle,1,0,2,2:43-44,43-44,5,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|4,TBI vehicle,1,0,1,1:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_TBI_vehicle|40,TBI vehicle,1,0,2,2:43-44,43-44,5,14,120
+Fig8,post-intervention,F8post_TBI_vehicle|41,TBI vehicle,1,0,2,2:43-44,43-44,5,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|42,TBI vehicle,1,0,2,2:43-44,43-44,5,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|43,TBI vehicle,1,0,2,2:43-44,43-44,5,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|44,TBI vehicle,1,0,2,2:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|45,TBI vehicle,1,0,2,2:43-44,43-44,5,19,120
+Fig8,post-intervention,F8post_TBI_vehicle|5,TBI vehicle,1,0,1,1:43-44,43-44,5,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|6,TBI vehicle,1,0,1,1:43-44,43-44,5,73,120
+Fig8,post-intervention,F8post_TBI_vehicle|7,TBI vehicle,1,0,1,1:43-44,43-44,5,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|8,TBI vehicle,1,0,1,1:43-44,43-44,5,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|9,TBI vehicle,1,0,1,1:43-44,43-44,5,20,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|0,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,28,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|1,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,56,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|10,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|11,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,46,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|12,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|13,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|14,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,28,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|15,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,18,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|16,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|17,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|18,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|19,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|2,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|20,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|21,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|22,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|23,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|24,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,29,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|25,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|26,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|27,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|28,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|29,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|3,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|30,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,34,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|31,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,77,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|32,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,34,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|33,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,109,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|34,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,17,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|35,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|36,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,28,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|37,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,17,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|38,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|39,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|4,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|40,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|41,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,13,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|42,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,10,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|43,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,23,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|44,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|45,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|46,No TBI Indomethacin,0,1,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|5,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,38,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|6,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,46,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|7,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,31,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|8,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,12,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|9,No TBI Indomethacin,0,1,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|0,No TBI vehicle,0,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|1,No TBI vehicle,0,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|10,No TBI vehicle,0,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|11,No TBI vehicle,0,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|12,No TBI vehicle,0,0,1,1:47-48,47-48,6,32,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|13,No TBI vehicle,0,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|14,No TBI vehicle,0,0,1,1:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|15,No TBI vehicle,0,0,1,1:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|16,No TBI vehicle,0,0,1,1:47-48,47-48,6,10,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|17,No TBI vehicle,0,0,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|18,No TBI vehicle,0,0,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|19,No TBI vehicle,0,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|2,No TBI vehicle,0,0,1,1:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|20,No TBI vehicle,0,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|21,No TBI vehicle,0,0,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|22,No TBI vehicle,0,0,1,1:47-48,47-48,6,15,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|23,No TBI vehicle,0,0,2,2:47-48,47-48,6,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|24,No TBI vehicle,0,0,2,2:47-48,47-48,6,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|25,No TBI vehicle,0,0,2,2:47-48,47-48,6,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|26,No TBI vehicle,0,0,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|27,No TBI vehicle,0,0,2,2:47-48,47-48,6,10,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|28,No TBI vehicle,0,0,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|29,No TBI vehicle,0,0,2,2:47-48,47-48,6,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|3,No TBI vehicle,0,0,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|30,No TBI vehicle,0,0,2,2:47-48,47-48,6,9,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|31,No TBI vehicle,0,0,2,2:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|32,No TBI vehicle,0,0,2,2:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|33,No TBI vehicle,0,0,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|34,No TBI vehicle,0,0,2,2:47-48,47-48,6,17,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|35,No TBI vehicle,0,0,2,2:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|36,No TBI vehicle,0,0,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|37,No TBI vehicle,0,0,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|38,No TBI vehicle,0,0,2,2:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|39,No TBI vehicle,0,0,2,2:47-48,47-48,6,15,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|4,No TBI vehicle,0,0,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|40,No TBI vehicle,0,0,2,2:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|41,No TBI vehicle,0,0,2,2:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|42,No TBI vehicle,0,0,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|43,No TBI vehicle,0,0,2,2:47-48,47-48,6,9,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|44,No TBI vehicle,0,0,2,2:47-48,47-48,6,13,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|45,No TBI vehicle,0,0,2,2:47-48,47-48,6,11,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|46,No TBI vehicle,0,0,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|5,No TBI vehicle,0,0,1,1:47-48,47-48,6,8,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|6,No TBI vehicle,0,0,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|7,No TBI vehicle,0,0,1,1:47-48,47-48,6,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|8,No TBI vehicle,0,0,1,1:47-48,47-48,6,25,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|9,No TBI vehicle,0,0,1,1:47-48,47-48,6,12,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|0,TBI Indomethacin,1,1,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|1,TBI Indomethacin,1,1,1,1:47-48,47-48,6,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|10,TBI Indomethacin,1,1,1,1:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|11,TBI Indomethacin,1,1,1,1:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|12,TBI Indomethacin,1,1,1,1:47-48,47-48,6,22,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|13,TBI Indomethacin,1,1,1,1:47-48,47-48,6,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|14,TBI Indomethacin,1,1,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|15,TBI Indomethacin,1,1,1,1:47-48,47-48,6,14,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|16,TBI Indomethacin,1,1,1,1:47-48,47-48,6,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|17,TBI Indomethacin,1,1,1,1:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|18,TBI Indomethacin,1,1,1,1:47-48,47-48,6,26,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|19,TBI Indomethacin,1,1,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|2,TBI Indomethacin,1,1,1,1:47-48,47-48,6,31,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|20,TBI Indomethacin,1,1,1,1:47-48,47-48,6,18,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|21,TBI Indomethacin,1,1,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|22,TBI Indomethacin,1,1,1,1:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|23,TBI Indomethacin,1,1,1,1:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|24,TBI Indomethacin,1,1,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|25,TBI Indomethacin,1,1,2,2:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|26,TBI Indomethacin,1,1,2,2:47-48,47-48,6,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|27,TBI Indomethacin,1,1,2,2:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|28,TBI Indomethacin,1,1,2,2:47-48,47-48,6,22,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|29,TBI Indomethacin,1,1,2,2:47-48,47-48,6,54,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|3,TBI Indomethacin,1,1,1,1:47-48,47-48,6,34,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|30,TBI Indomethacin,1,1,2,2:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|31,TBI Indomethacin,1,1,2,2:47-48,47-48,6,17,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|32,TBI Indomethacin,1,1,2,2:47-48,47-48,6,77,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|33,TBI Indomethacin,1,1,2,2:47-48,47-48,6,9,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|34,TBI Indomethacin,1,1,2,2:47-48,47-48,6,19,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|35,TBI Indomethacin,1,1,2,2:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|36,TBI Indomethacin,1,1,2,2:47-48,47-48,6,13,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|37,TBI Indomethacin,1,1,2,2:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|38,TBI Indomethacin,1,1,2,2:47-48,47-48,6,8,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|39,TBI Indomethacin,1,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|4,TBI Indomethacin,1,1,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|40,TBI Indomethacin,1,1,2,2:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|41,TBI Indomethacin,1,1,2,2:47-48,47-48,6,18,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|42,TBI Indomethacin,1,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|43,TBI Indomethacin,1,1,2,2:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|44,TBI Indomethacin,1,1,2,2:47-48,47-48,6,40,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|45,TBI Indomethacin,1,1,2,2:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|46,TBI Indomethacin,1,1,2,2:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|5,TBI Indomethacin,1,1,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|6,TBI Indomethacin,1,1,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|7,TBI Indomethacin,1,1,1,1:47-48,47-48,6,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|8,TBI Indomethacin,1,1,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|9,TBI Indomethacin,1,1,1,1:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|0,TBI vehicle,1,0,1,1:47-48,47-48,6,23,120
+Fig8,post-intervention,F8post_TBI_vehicle|1,TBI vehicle,1,0,1,1:47-48,47-48,6,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|10,TBI vehicle,1,0,1,1:47-48,47-48,6,53,120
+Fig8,post-intervention,F8post_TBI_vehicle|11,TBI vehicle,1,0,1,1:47-48,47-48,6,12,120
+Fig8,post-intervention,F8post_TBI_vehicle|12,TBI vehicle,1,0,1,1:47-48,47-48,6,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|13,TBI vehicle,1,0,1,1:47-48,47-48,6,29,120
+Fig8,post-intervention,F8post_TBI_vehicle|14,TBI vehicle,1,0,1,1:47-48,47-48,6,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|15,TBI vehicle,1,0,1,1:47-48,47-48,6,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|16,TBI vehicle,1,0,1,1:47-48,47-48,6,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|17,TBI vehicle,1,0,1,1:47-48,47-48,6,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|18,TBI vehicle,1,0,1,1:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|19,TBI vehicle,1,0,1,1:47-48,47-48,6,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|2,TBI vehicle,1,0,1,1:47-48,47-48,6,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|20,TBI vehicle,1,0,1,1:47-48,47-48,6,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|21,TBI vehicle,1,0,1,1:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|22,TBI vehicle,1,0,1,1:47-48,47-48,6,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|23,TBI vehicle,1,0,1,1:47-48,47-48,6,51,120
+Fig8,post-intervention,F8post_TBI_vehicle|24,TBI vehicle,1,0,2,2:47-48,47-48,6,80,120
+Fig8,post-intervention,F8post_TBI_vehicle|25,TBI vehicle,1,0,2,2:47-48,47-48,6,51,120
+Fig8,post-intervention,F8post_TBI_vehicle|26,TBI vehicle,1,0,2,2:47-48,47-48,6,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|27,TBI vehicle,1,0,2,2:47-48,47-48,6,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|28,TBI vehicle,1,0,2,2:47-48,47-48,6,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|29,TBI vehicle,1,0,2,2:47-48,47-48,6,9,120
+Fig8,post-intervention,F8post_TBI_vehicle|3,TBI vehicle,1,0,1,1:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|30,TBI vehicle,1,0,2,2:47-48,47-48,6,21,120
+Fig8,post-intervention,F8post_TBI_vehicle|31,TBI vehicle,1,0,2,2:47-48,47-48,6,26,120
+Fig8,post-intervention,F8post_TBI_vehicle|32,TBI vehicle,1,0,2,2:47-48,47-48,6,11,120
+Fig8,post-intervention,F8post_TBI_vehicle|33,TBI vehicle,1,0,2,2:47-48,47-48,6,29,120
+Fig8,post-intervention,F8post_TBI_vehicle|34,TBI vehicle,1,0,2,2:47-48,47-48,6,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|35,TBI vehicle,1,0,2,2:47-48,47-48,6,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|36,TBI vehicle,1,0,2,2:47-48,47-48,6,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|37,TBI vehicle,1,0,2,2:47-48,47-48,6,27,120
+Fig8,post-intervention,F8post_TBI_vehicle|38,TBI vehicle,1,0,2,2:47-48,47-48,6,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|39,TBI vehicle,1,0,2,2:47-48,47-48,6,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|4,TBI vehicle,1,0,1,1:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|40,TBI vehicle,1,0,2,2:47-48,47-48,6,29,120
+Fig8,post-intervention,F8post_TBI_vehicle|41,TBI vehicle,1,0,2,2:47-48,47-48,6,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|42,TBI vehicle,1,0,2,2:47-48,47-48,6,14,120
+Fig8,post-intervention,F8post_TBI_vehicle|43,TBI vehicle,1,0,2,2:47-48,47-48,6,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|44,TBI vehicle,1,0,2,2:47-48,47-48,6,33,120
+Fig8,post-intervention,F8post_TBI_vehicle|45,TBI vehicle,1,0,2,2:47-48,47-48,6,30,120
+Fig8,post-intervention,F8post_TBI_vehicle|5,TBI vehicle,1,0,1,1:47-48,47-48,6,61,120
+Fig8,post-intervention,F8post_TBI_vehicle|6,TBI vehicle,1,0,1,1:47-48,47-48,6,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|7,TBI vehicle,1,0,1,1:47-48,47-48,6,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|8,TBI vehicle,1,0,1,1:47-48,47-48,6,10,120
+Fig8,post-intervention,F8post_TBI_vehicle|9,TBI vehicle,1,0,1,1:47-48,47-48,6,26,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|0,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|1,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|10,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|11,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,16,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|12,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|13,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,8,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|14,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,4,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|15,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|16,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|17,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,5,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|18,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|2,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|23,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|24,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,34,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|25,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|26,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|27,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|28,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|29,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|3,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,14,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|30,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,34,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|31,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,9,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|32,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,21,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|33,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,89,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|34,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|35,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|36,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,6,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|37,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|38,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|39,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|4,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,12,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|40,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|41,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|42,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|43,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,12,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|44,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|45,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|46,No TBI Indomethacin,0,1,2,2:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|5,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,70,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|6,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|7,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|8,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,27,120
+Fig8,post-intervention,F8post_No_TBI_Indomethacin|9,No TBI Indomethacin,0,1,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|0,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|1,No TBI vehicle,0,0,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|10,No TBI vehicle,0,0,1,1:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|11,No TBI vehicle,0,0,1,1:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|12,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|13,No TBI vehicle,0,0,1,1:51-52,51-52,7,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|14,No TBI vehicle,0,0,1,1:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|15,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|16,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|17,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|18,No TBI vehicle,0,0,1,1:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|19,No TBI vehicle,0,0,1,1:51-52,51-52,7,63,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|2,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|23,No TBI vehicle,0,0,2,2:51-52,51-52,7,15,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|24,No TBI vehicle,0,0,2,2:51-52,51-52,7,6,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|25,No TBI vehicle,0,0,2,2:51-52,51-52,7,50,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|26,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|27,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|28,No TBI vehicle,0,0,2,2:51-52,51-52,7,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|29,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|3,No TBI vehicle,0,0,1,1:51-52,51-52,7,32,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|30,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|31,No TBI vehicle,0,0,2,2:51-52,51-52,7,41,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|32,No TBI vehicle,0,0,2,2:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|33,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|34,No TBI vehicle,0,0,2,2:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|35,No TBI vehicle,0,0,2,2:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|36,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|37,No TBI vehicle,0,0,2,2:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|38,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|39,No TBI vehicle,0,0,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|4,No TBI vehicle,0,0,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|40,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|41,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|42,No TBI vehicle,0,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|43,No TBI vehicle,0,0,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|44,No TBI vehicle,0,0,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|45,No TBI vehicle,0,0,2,2:51-52,51-52,7,5,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|46,No TBI vehicle,0,0,2,2:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|5,No TBI vehicle,0,0,1,1:51-52,51-52,7,18,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|6,No TBI vehicle,0,0,1,1:51-52,51-52,7,4,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|7,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|8,No TBI vehicle,0,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_No_TBI_vehicle|9,No TBI vehicle,0,0,1,1:51-52,51-52,7,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|0,TBI Indomethacin,1,1,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|1,TBI Indomethacin,1,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|10,TBI Indomethacin,1,1,1,1:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|11,TBI Indomethacin,1,1,1,1:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|12,TBI Indomethacin,1,1,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|13,TBI Indomethacin,1,1,1,1:51-52,51-52,7,31,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|14,TBI Indomethacin,1,1,1,1:51-52,51-52,7,36,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|15,TBI Indomethacin,1,1,1,1:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|16,TBI Indomethacin,1,1,1,1:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|17,TBI Indomethacin,1,1,1,1:51-52,51-52,7,5,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|18,TBI Indomethacin,1,1,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|19,TBI Indomethacin,1,1,1,1:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|2,TBI Indomethacin,1,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|20,TBI Indomethacin,1,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|24,TBI Indomethacin,1,1,2,2:51-52,51-52,7,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|25,TBI Indomethacin,1,1,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|26,TBI Indomethacin,1,1,2,2:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|27,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|28,TBI Indomethacin,1,1,2,2:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|29,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|3,TBI Indomethacin,1,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|30,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|31,TBI Indomethacin,1,1,2,2:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|32,TBI Indomethacin,1,1,2,2:51-52,51-52,7,60,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|33,TBI Indomethacin,1,1,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|34,TBI Indomethacin,1,1,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|35,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|36,TBI Indomethacin,1,1,2,2:51-52,51-52,7,4,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|37,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|38,TBI Indomethacin,1,1,2,2:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|39,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|4,TBI Indomethacin,1,1,1,1:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|40,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|41,TBI Indomethacin,1,1,2,2:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|42,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|43,TBI Indomethacin,1,1,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|44,TBI Indomethacin,1,1,2,2:51-52,51-52,7,23,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|45,TBI Indomethacin,1,1,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|46,TBI Indomethacin,1,1,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|5,TBI Indomethacin,1,1,1,1:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|6,TBI Indomethacin,1,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|7,TBI Indomethacin,1,1,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|8,TBI Indomethacin,1,1,1,1:51-52,51-52,7,6,120
+Fig8,post-intervention,F8post_TBI_Indomethacin|9,TBI Indomethacin,1,1,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|0,TBI vehicle,1,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|1,TBI vehicle,1,0,1,1:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|10,TBI vehicle,1,0,1,1:51-52,51-52,7,13,120
+Fig8,post-intervention,F8post_TBI_vehicle|11,TBI vehicle,1,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|12,TBI vehicle,1,0,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|13,TBI vehicle,1,0,1,1:51-52,51-52,7,51,120
+Fig8,post-intervention,F8post_TBI_vehicle|14,TBI vehicle,1,0,1,1:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|15,TBI vehicle,1,0,1,1:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|16,TBI vehicle,1,0,1,1:51-52,51-52,7,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|17,TBI vehicle,1,0,1,1:51-52,51-52,7,2,120
+Fig8,post-intervention,F8post_TBI_vehicle|18,TBI vehicle,1,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|19,TBI vehicle,1,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|2,TBI vehicle,1,0,1,1:51-52,51-52,7,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|20,TBI vehicle,1,0,1,1:51-52,51-52,7,20,120
+Fig8,post-intervention,F8post_TBI_vehicle|24,TBI vehicle,1,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|25,TBI vehicle,1,0,2,2:51-52,51-52,7,27,120
+Fig8,post-intervention,F8post_TBI_vehicle|26,TBI vehicle,1,0,2,2:51-52,51-52,7,4,120
+Fig8,post-intervention,F8post_TBI_vehicle|27,TBI vehicle,1,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|28,TBI vehicle,1,0,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|29,TBI vehicle,1,0,2,2:51-52,51-52,7,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|3,TBI vehicle,1,0,1,1:51-52,51-52,7,5,120
+Fig8,post-intervention,F8post_TBI_vehicle|30,TBI vehicle,1,0,2,2:51-52,51-52,7,25,120
+Fig8,post-intervention,F8post_TBI_vehicle|31,TBI vehicle,1,0,2,2:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|32,TBI vehicle,1,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|33,TBI vehicle,1,0,2,2:51-52,51-52,7,36,120
+Fig8,post-intervention,F8post_TBI_vehicle|34,TBI vehicle,1,0,2,2:51-52,51-52,7,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|35,TBI vehicle,1,0,2,2:51-52,51-52,7,18,120
+Fig8,post-intervention,F8post_TBI_vehicle|36,TBI vehicle,1,0,2,2:51-52,51-52,7,16,120
+Fig8,post-intervention,F8post_TBI_vehicle|37,TBI vehicle,1,0,2,2:51-52,51-52,7,35,120
+Fig8,post-intervention,F8post_TBI_vehicle|38,TBI vehicle,1,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|39,TBI vehicle,1,0,2,2:51-52,51-52,7,3,120
+Fig8,post-intervention,F8post_TBI_vehicle|4,TBI vehicle,1,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|40,TBI vehicle,1,0,2,2:51-52,51-52,7,23,120
+Fig8,post-intervention,F8post_TBI_vehicle|41,TBI vehicle,1,0,2,2:51-52,51-52,7,24,120
+Fig8,post-intervention,F8post_TBI_vehicle|42,TBI vehicle,1,0,2,2:51-52,51-52,7,1,120
+Fig8,post-intervention,F8post_TBI_vehicle|43,TBI vehicle,1,0,2,2:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|44,TBI vehicle,1,0,2,2:51-52,51-52,7,7,120
+Fig8,post-intervention,F8post_TBI_vehicle|45,TBI vehicle,1,0,2,2:51-52,51-52,7,6,120
+Fig8,post-intervention,F8post_TBI_vehicle|5,TBI vehicle,1,0,1,1:51-52,51-52,7,8,120
+Fig8,post-intervention,F8post_TBI_vehicle|6,TBI vehicle,1,0,1,1:51-52,51-52,7,19,120
+Fig8,post-intervention,F8post_TBI_vehicle|7,TBI vehicle,1,0,1,1:51-52,51-52,7,22,120
+Fig8,post-intervention,F8post_TBI_vehicle|8,TBI vehicle,1,0,1,1:51-52,51-52,7,0,120
+Fig8,post-intervention,F8post_TBI_vehicle|9,TBI vehicle,1,0,1,1:51-52,51-52,7,0,120

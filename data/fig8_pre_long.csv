@@ -1,0 +1,1631 @@
+experiment,segment,larva,group,tbi,drug,plate,session,tp,tp_order,count,bins
+Fig8,pre-intervention,F7_No TBI_0,Sham,0,,F7A,F7A:0-1,0-1,1,1,120
+Fig8,pre-intervention,F7_No TBI_1,Sham,0,,F7A,F7A:0-1,0-1,1,11,120
+Fig8,pre-intervention,F7_No TBI_10,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_11,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_12,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_13,Sham,0,,F7A,F7A:0-1,0-1,1,10,120
+Fig8,pre-intervention,F7_No TBI_14,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_15,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_16,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_17,Sham,0,,F7A,F7A:0-1,0-1,1,10,120
+Fig8,pre-intervention,F7_No TBI_18,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_19,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_2,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_20,Sham,0,,F7A,F7A:0-1,0-1,1,49,120
+Fig8,pre-intervention,F7_No TBI_21,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_22,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_23,Sham,0,,F7A,F7A:0-1,0-1,1,15,120
+Fig8,pre-intervention,F7_No TBI_24,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_25,Sham,0,,F7B,F7B:0-1,0-1,1,3,180
+Fig8,pre-intervention,F7_No TBI_26,Sham,0,,F7B,F7B:0-1,0-1,1,44,180
+Fig8,pre-intervention,F7_No TBI_27,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_28,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_29,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_3,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_30,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_31,Sham,0,,F7B,F7B:0-1,0-1,1,2,180
+Fig8,pre-intervention,F7_No TBI_32,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_33,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_34,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_35,Sham,0,,F7B,F7B:0-1,0-1,1,82,180
+Fig8,pre-intervention,F7_No TBI_36,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_37,Sham,0,,F7B,F7B:0-1,0-1,1,61,180
+Fig8,pre-intervention,F7_No TBI_38,Sham,0,,F7B,F7B:0-1,0-1,1,25,180
+Fig8,pre-intervention,F7_No TBI_39,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_4,Sham,0,,F7A,F7A:0-1,0-1,1,1,120
+Fig8,pre-intervention,F7_No TBI_40,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_41,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_42,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_43,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_44,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_45,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_46,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_47,Sham,0,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_No TBI_5,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_6,Sham,0,,F7A,F7A:0-1,0-1,1,47,120
+Fig8,pre-intervention,F7_No TBI_7,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_8,Sham,0,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_9,Sham,0,,F7A,F7A:0-1,0-1,1,1,120
+Fig8,pre-intervention,F7_TBI_0,TBI,1,,F7A,F7A:0-1,0-1,1,20,120
+Fig8,pre-intervention,F7_TBI_1,TBI,1,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_TBI_10,TBI,1,,F7A,F7A:0-1,0-1,1,48,120
+Fig8,pre-intervention,F7_TBI_11,TBI,1,,F7A,F7A:0-1,0-1,1,1,120
+Fig8,pre-intervention,F7_TBI_12,TBI,1,,F7A,F7A:0-1,0-1,1,6,120
+Fig8,pre-intervention,F7_TBI_13,TBI,1,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_TBI_14,TBI,1,,F7A,F7A:0-1,0-1,1,2,120
+Fig8,pre-intervention,F7_TBI_15,TBI,1,,F7A,F7A:0-1,0-1,1,41,120
+Fig8,pre-intervention,F7_TBI_16,TBI,1,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_TBI_17,TBI,1,,F7A,F7A:0-1,0-1,1,31,120
+Fig8,pre-intervention,F7_TBI_18,TBI,1,,F7A,F7A:0-1,0-1,1,15,120
+Fig8,pre-intervention,F7_TBI_19,TBI,1,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_TBI_2,TBI,1,,F7A,F7A:0-1,0-1,1,1,120
+Fig8,pre-intervention,F7_TBI_20,TBI,1,,F7A,F7A:0-1,0-1,1,1,120
+Fig8,pre-intervention,F7_TBI_21,TBI,1,,F7A,F7A:0-1,0-1,1,24,120
+Fig8,pre-intervention,F7_TBI_22,TBI,1,,F7A,F7A:0-1,0-1,1,83,120
+Fig8,pre-intervention,F7_TBI_23,TBI,1,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_TBI_24,TBI,1,,F7B,F7B:0-1,0-1,1,35,180
+Fig8,pre-intervention,F7_TBI_25,TBI,1,,F7B,F7B:0-1,0-1,1,21,180
+Fig8,pre-intervention,F7_TBI_26,TBI,1,,F7B,F7B:0-1,0-1,1,12,180
+Fig8,pre-intervention,F7_TBI_27,TBI,1,,F7B,F7B:0-1,0-1,1,5,180
+Fig8,pre-intervention,F7_TBI_28,TBI,1,,F7B,F7B:0-1,0-1,1,68,180
+Fig8,pre-intervention,F7_TBI_29,TBI,1,,F7B,F7B:0-1,0-1,1,108,180
+Fig8,pre-intervention,F7_TBI_3,TBI,1,,F7A,F7A:0-1,0-1,1,5,120
+Fig8,pre-intervention,F7_TBI_30,TBI,1,,F7B,F7B:0-1,0-1,1,72,180
+Fig8,pre-intervention,F7_TBI_31,TBI,1,,F7B,F7B:0-1,0-1,1,22,180
+Fig8,pre-intervention,F7_TBI_32,TBI,1,,F7B,F7B:0-1,0-1,1,94,180
+Fig8,pre-intervention,F7_TBI_33,TBI,1,,F7B,F7B:0-1,0-1,1,7,180
+Fig8,pre-intervention,F7_TBI_34,TBI,1,,F7B,F7B:0-1,0-1,1,42,180
+Fig8,pre-intervention,F7_TBI_35,TBI,1,,F7B,F7B:0-1,0-1,1,86,180
+Fig8,pre-intervention,F7_TBI_36,TBI,1,,F7B,F7B:0-1,0-1,1,28,180
+Fig8,pre-intervention,F7_TBI_37,TBI,1,,F7B,F7B:0-1,0-1,1,52,180
+Fig8,pre-intervention,F7_TBI_38,TBI,1,,F7B,F7B:0-1,0-1,1,130,180
+Fig8,pre-intervention,F7_TBI_39,TBI,1,,F7B,F7B:0-1,0-1,1,4,180
+Fig8,pre-intervention,F7_TBI_4,TBI,1,,F7A,F7A:0-1,0-1,1,13,120
+Fig8,pre-intervention,F7_TBI_40,TBI,1,,F7B,F7B:0-1,0-1,1,119,180
+Fig8,pre-intervention,F7_TBI_41,TBI,1,,F7B,F7B:0-1,0-1,1,62,180
+Fig8,pre-intervention,F7_TBI_42,TBI,1,,F7B,F7B:0-1,0-1,1,136,180
+Fig8,pre-intervention,F7_TBI_43,TBI,1,,F7B,F7B:0-1,0-1,1,58,180
+Fig8,pre-intervention,F7_TBI_44,TBI,1,,F7B,F7B:0-1,0-1,1,1,180
+Fig8,pre-intervention,F7_TBI_45,TBI,1,,F7B,F7B:0-1,0-1,1,0,180
+Fig8,pre-intervention,F7_TBI_46,TBI,1,,F7B,F7B:0-1,0-1,1,57,180
+Fig8,pre-intervention,F7_TBI_47,TBI,1,,F7B,F7B:0-1,0-1,1,62,180
+Fig8,pre-intervention,F7_TBI_5,TBI,1,,F7A,F7A:0-1,0-1,1,7,120
+Fig8,pre-intervention,F7_TBI_6,TBI,1,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_TBI_7,TBI,1,,F7A,F7A:0-1,0-1,1,12,120
+Fig8,pre-intervention,F7_TBI_8,TBI,1,,F7A,F7A:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_TBI_9,TBI,1,,F7A,F7A:0-1,0-1,1,28,120
+Fig8,pre-intervention,F8_No TBI_0,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_1,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_10,Sham,0,,X,X:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_No TBI_11,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_12,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_13,Sham,0,,X,X:0-1,0-1,1,10,120
+Fig8,pre-intervention,F8_No TBI_14,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_15,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_16,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_17,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_18,Sham,0,,X,X:0-1,0-1,1,1,120
+Fig8,pre-intervention,F8_No TBI_19,Sham,0,,X,X:0-1,0-1,1,1,120
+Fig8,pre-intervention,F8_No TBI_2,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_20,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_21,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_22,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_23,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_24,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_25,Sham,0,,X,X:0-1,0-1,1,96,120
+Fig8,pre-intervention,F8_No TBI_26,Sham,0,,X,X:0-1,0-1,1,52,120
+Fig8,pre-intervention,F8_No TBI_27,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_28,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_29,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_3,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_30,Sham,0,,X,X:0-1,0-1,1,16,120
+Fig8,pre-intervention,F8_No TBI_31,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_32,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_33,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_34,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_35,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_36,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_37,Sham,0,,X,X:0-1,0-1,1,33,120
+Fig8,pre-intervention,F8_No TBI_38,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_39,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_4,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_40,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_41,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_42,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_43,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_44,Sham,0,,X,X:0-1,0-1,1,41,120
+Fig8,pre-intervention,F8_No TBI_45,Sham,0,,X,X:0-1,0-1,1,34,120
+Fig8,pre-intervention,F8_No TBI_46,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_47,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_48,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_49,Sham,0,,Y,Y:0-1,0-1,1,5,120
+Fig8,pre-intervention,F8_No TBI_5,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_50,Sham,0,,Y,Y:0-1,0-1,1,1,120
+Fig8,pre-intervention,F8_No TBI_51,Sham,0,,Y,Y:0-1,0-1,1,15,120
+Fig8,pre-intervention,F8_No TBI_52,Sham,0,,Y,Y:0-1,0-1,1,41,120
+Fig8,pre-intervention,F8_No TBI_53,Sham,0,,Y,Y:0-1,0-1,1,7,120
+Fig8,pre-intervention,F8_No TBI_54,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_55,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_56,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_57,Sham,0,,Y,Y:0-1,0-1,1,2,120
+Fig8,pre-intervention,F8_No TBI_58,Sham,0,,Y,Y:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_No TBI_59,Sham,0,,Y,Y:0-1,0-1,1,20,120
+Fig8,pre-intervention,F8_No TBI_6,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_60,Sham,0,,Y,Y:0-1,0-1,1,11,120
+Fig8,pre-intervention,F8_No TBI_61,Sham,0,,Y,Y:0-1,0-1,1,7,120
+Fig8,pre-intervention,F8_No TBI_62,Sham,0,,Y,Y:0-1,0-1,1,1,120
+Fig8,pre-intervention,F8_No TBI_63,Sham,0,,Y,Y:0-1,0-1,1,11,120
+Fig8,pre-intervention,F8_No TBI_64,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_65,Sham,0,,Y,Y:0-1,0-1,1,16,120
+Fig8,pre-intervention,F8_No TBI_66,Sham,0,,Y,Y:0-1,0-1,1,7,120
+Fig8,pre-intervention,F8_No TBI_67,Sham,0,,Y,Y:0-1,0-1,1,1,120
+Fig8,pre-intervention,F8_No TBI_68,Sham,0,,Y,Y:0-1,0-1,1,2,120
+Fig8,pre-intervention,F8_No TBI_69,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_7,Sham,0,,X,X:0-1,0-1,1,15,120
+Fig8,pre-intervention,F8_No TBI_70,Sham,0,,Y,Y:0-1,0-1,1,1,120
+Fig8,pre-intervention,F8_No TBI_71,Sham,0,,Y,Y:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_No TBI_72,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_73,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_74,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_75,Sham,0,,Y,Y:0-1,0-1,1,18,120
+Fig8,pre-intervention,F8_No TBI_76,Sham,0,,Y,Y:0-1,0-1,1,8,120
+Fig8,pre-intervention,F8_No TBI_77,Sham,0,,Y,Y:0-1,0-1,1,7,120
+Fig8,pre-intervention,F8_No TBI_78,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_79,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_8,Sham,0,,X,X:0-1,0-1,1,34,120
+Fig8,pre-intervention,F8_No TBI_80,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_81,Sham,0,,Y,Y:0-1,0-1,1,14,120
+Fig8,pre-intervention,F8_No TBI_82,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_83,Sham,0,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_No TBI_9,Sham,0,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_0,TBI,1,,X,X:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_TBI_1,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_10,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_11,TBI,1,,X,X:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_TBI_12,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_13,TBI,1,,X,X:0-1,0-1,1,13,120
+Fig8,pre-intervention,F8_TBI_14,TBI,1,,X,X:0-1,0-1,1,19,120
+Fig8,pre-intervention,F8_TBI_15,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_16,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_17,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_18,TBI,1,,X,X:0-1,0-1,1,5,120
+Fig8,pre-intervention,F8_TBI_19,TBI,1,,X,X:0-1,0-1,1,2,120
+Fig8,pre-intervention,F8_TBI_2,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_20,TBI,1,,X,X:0-1,0-1,1,17,120
+Fig8,pre-intervention,F8_TBI_21,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_22,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_23,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_24,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_25,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_26,TBI,1,,X,X:0-1,0-1,1,11,120
+Fig8,pre-intervention,F8_TBI_27,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_3,TBI,1,,X,X:0-1,0-1,1,12,120
+Fig8,pre-intervention,F8_TBI_4,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_48,TBI,1,,Y,Y:0-1,0-1,1,73,120
+Fig8,pre-intervention,F8_TBI_49,TBI,1,,Y,Y:0-1,0-1,1,58,120
+Fig8,pre-intervention,F8_TBI_5,TBI,1,,X,X:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_TBI_50,TBI,1,,Y,Y:0-1,0-1,1,118,120
+Fig8,pre-intervention,F8_TBI_51,TBI,1,,Y,Y:0-1,0-1,1,22,120
+Fig8,pre-intervention,F8_TBI_52,TBI,1,,Y,Y:0-1,0-1,1,10,120
+Fig8,pre-intervention,F8_TBI_53,TBI,1,,Y,Y:0-1,0-1,1,10,120
+Fig8,pre-intervention,F8_TBI_54,TBI,1,,Y,Y:0-1,0-1,1,27,120
+Fig8,pre-intervention,F8_TBI_55,TBI,1,,Y,Y:0-1,0-1,1,5,120
+Fig8,pre-intervention,F8_TBI_56,TBI,1,,Y,Y:0-1,0-1,1,29,120
+Fig8,pre-intervention,F8_TBI_57,TBI,1,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_58,TBI,1,,Y,Y:0-1,0-1,1,5,120
+Fig8,pre-intervention,F8_TBI_59,TBI,1,,Y,Y:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_TBI_6,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_60,TBI,1,,Y,Y:0-1,0-1,1,31,120
+Fig8,pre-intervention,F8_TBI_61,TBI,1,,Y,Y:0-1,0-1,1,1,120
+Fig8,pre-intervention,F8_TBI_62,TBI,1,,Y,Y:0-1,0-1,1,32,120
+Fig8,pre-intervention,F8_TBI_63,TBI,1,,Y,Y:0-1,0-1,1,53,120
+Fig8,pre-intervention,F8_TBI_64,TBI,1,,Y,Y:0-1,0-1,1,3,120
+Fig8,pre-intervention,F8_TBI_65,TBI,1,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_66,TBI,1,,Y,Y:0-1,0-1,1,7,120
+Fig8,pre-intervention,F8_TBI_67,TBI,1,,Y,Y:0-1,0-1,1,13,120
+Fig8,pre-intervention,F8_TBI_68,TBI,1,,Y,Y:0-1,0-1,1,38,120
+Fig8,pre-intervention,F8_TBI_69,TBI,1,,Y,Y:0-1,0-1,1,6,120
+Fig8,pre-intervention,F8_TBI_7,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_70,TBI,1,,Y,Y:0-1,0-1,1,4,120
+Fig8,pre-intervention,F8_TBI_71,TBI,1,,Y,Y:0-1,0-1,1,6,120
+Fig8,pre-intervention,F8_TBI_72,TBI,1,,Y,Y:0-1,0-1,1,23,120
+Fig8,pre-intervention,F8_TBI_73,TBI,1,,Y,Y:0-1,0-1,1,41,120
+Fig8,pre-intervention,F8_TBI_74,TBI,1,,Y,Y:0-1,0-1,1,25,120
+Fig8,pre-intervention,F8_TBI_75,TBI,1,,Y,Y:0-1,0-1,1,9,120
+Fig8,pre-intervention,F8_TBI_76,TBI,1,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_77,TBI,1,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_78,TBI,1,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_79,TBI,1,,Y,Y:0-1,0-1,1,0,120
+Fig8,pre-intervention,F8_TBI_8,TBI,1,,X,X:0-1,0-1,1,15,120
+Fig8,pre-intervention,F8_TBI_80,TBI,1,,Y,Y:0-1,0-1,1,12,120
+Fig8,pre-intervention,F8_TBI_9,TBI,1,,X,X:0-1,0-1,1,0,120
+Fig8,pre-intervention,F7_No TBI_24,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_25,Sham,0,,F7B,F7B:4-5,4-5,2,4,180
+Fig8,pre-intervention,F7_No TBI_26,Sham,0,,F7B,F7B:4-5,4-5,2,14,180
+Fig8,pre-intervention,F7_No TBI_27,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_28,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_29,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_30,Sham,0,,F7B,F7B:4-5,4-5,2,23,180
+Fig8,pre-intervention,F7_No TBI_31,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_32,Sham,0,,F7B,F7B:4-5,4-5,2,40,180
+Fig8,pre-intervention,F7_No TBI_33,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_34,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_35,Sham,0,,F7B,F7B:4-5,4-5,2,80,180
+Fig8,pre-intervention,F7_No TBI_36,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_37,Sham,0,,F7B,F7B:4-5,4-5,2,19,180
+Fig8,pre-intervention,F7_No TBI_38,Sham,0,,F7B,F7B:4-5,4-5,2,30,180
+Fig8,pre-intervention,F7_No TBI_39,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_40,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_41,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_42,Sham,0,,F7B,F7B:4-5,4-5,2,3,180
+Fig8,pre-intervention,F7_No TBI_43,Sham,0,,F7B,F7B:4-5,4-5,2,3,180
+Fig8,pre-intervention,F7_No TBI_44,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_45,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_No TBI_46,Sham,0,,F7B,F7B:4-5,4-5,2,1,180
+Fig8,pre-intervention,F7_No TBI_47,Sham,0,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_24,TBI,1,,F7B,F7B:4-5,4-5,2,28,180
+Fig8,pre-intervention,F7_TBI_25,TBI,1,,F7B,F7B:4-5,4-5,2,9,180
+Fig8,pre-intervention,F7_TBI_26,TBI,1,,F7B,F7B:4-5,4-5,2,8,180
+Fig8,pre-intervention,F7_TBI_27,TBI,1,,F7B,F7B:4-5,4-5,2,22,180
+Fig8,pre-intervention,F7_TBI_28,TBI,1,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_29,TBI,1,,F7B,F7B:4-5,4-5,2,22,180
+Fig8,pre-intervention,F7_TBI_30,TBI,1,,F7B,F7B:4-5,4-5,2,43,180
+Fig8,pre-intervention,F7_TBI_31,TBI,1,,F7B,F7B:4-5,4-5,2,29,180
+Fig8,pre-intervention,F7_TBI_32,TBI,1,,F7B,F7B:4-5,4-5,2,25,180
+Fig8,pre-intervention,F7_TBI_33,TBI,1,,F7B,F7B:4-5,4-5,2,6,180
+Fig8,pre-intervention,F7_TBI_34,TBI,1,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_35,TBI,1,,F7B,F7B:4-5,4-5,2,4,180
+Fig8,pre-intervention,F7_TBI_36,TBI,1,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_37,TBI,1,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_38,TBI,1,,F7B,F7B:4-5,4-5,2,12,180
+Fig8,pre-intervention,F7_TBI_39,TBI,1,,F7B,F7B:4-5,4-5,2,29,180
+Fig8,pre-intervention,F7_TBI_40,TBI,1,,F7B,F7B:4-5,4-5,2,21,180
+Fig8,pre-intervention,F7_TBI_41,TBI,1,,F7B,F7B:4-5,4-5,2,18,180
+Fig8,pre-intervention,F7_TBI_42,TBI,1,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_43,TBI,1,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_44,TBI,1,,F7B,F7B:4-5,4-5,2,10,180
+Fig8,pre-intervention,F7_TBI_45,TBI,1,,F7B,F7B:4-5,4-5,2,1,180
+Fig8,pre-intervention,F7_TBI_46,TBI,1,,F7B,F7B:4-5,4-5,2,0,180
+Fig8,pre-intervention,F7_TBI_47,TBI,1,,F7B,F7B:4-5,4-5,2,5,180
+Fig8,pre-intervention,F8_No TBI_0,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_1,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_10,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_11,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_12,Sham,0,,X,X:4-5,4-5,2,11,120
+Fig8,pre-intervention,F8_No TBI_13,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_14,Sham,0,,X,X:4-5,4-5,2,38,120
+Fig8,pre-intervention,F8_No TBI_15,Sham,0,,X,X:4-5,4-5,2,5,120
+Fig8,pre-intervention,F8_No TBI_16,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_17,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_18,Sham,0,,X,X:4-5,4-5,2,6,120
+Fig8,pre-intervention,F8_No TBI_19,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_2,Sham,0,,X,X:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_No TBI_20,Sham,0,,X,X:4-5,4-5,2,39,120
+Fig8,pre-intervention,F8_No TBI_21,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_22,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_23,Sham,0,,X,X:4-5,4-5,2,4,120
+Fig8,pre-intervention,F8_No TBI_24,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_25,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_26,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_27,Sham,0,,X,X:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_No TBI_28,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_29,Sham,0,,X,X:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_No TBI_3,Sham,0,,X,X:4-5,4-5,2,6,120
+Fig8,pre-intervention,F8_No TBI_30,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_31,Sham,0,,X,X:4-5,4-5,2,7,120
+Fig8,pre-intervention,F8_No TBI_32,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_33,Sham,0,,X,X:4-5,4-5,2,60,120
+Fig8,pre-intervention,F8_No TBI_34,Sham,0,,X,X:4-5,4-5,2,45,120
+Fig8,pre-intervention,F8_No TBI_35,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_36,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_37,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_38,Sham,0,,X,X:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_No TBI_39,Sham,0,,X,X:4-5,4-5,2,10,120
+Fig8,pre-intervention,F8_No TBI_4,Sham,0,,X,X:4-5,4-5,2,5,120
+Fig8,pre-intervention,F8_No TBI_40,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_41,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_42,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_43,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_44,Sham,0,,X,X:4-5,4-5,2,12,120
+Fig8,pre-intervention,F8_No TBI_45,Sham,0,,X,X:4-5,4-5,2,25,120
+Fig8,pre-intervention,F8_No TBI_46,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_47,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_48,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_49,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_5,Sham,0,,X,X:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_No TBI_50,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_51,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_52,Sham,0,,Y,Y:4-5,4-5,2,121,120
+Fig8,pre-intervention,F8_No TBI_53,Sham,0,,Y,Y:4-5,4-5,2,24,120
+Fig8,pre-intervention,F8_No TBI_54,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_55,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_56,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_57,Sham,0,,Y,Y:4-5,4-5,2,14,120
+Fig8,pre-intervention,F8_No TBI_58,Sham,0,,Y,Y:4-5,4-5,2,4,120
+Fig8,pre-intervention,F8_No TBI_59,Sham,0,,Y,Y:4-5,4-5,2,22,120
+Fig8,pre-intervention,F8_No TBI_6,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_60,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_61,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_62,Sham,0,,Y,Y:4-5,4-5,2,7,120
+Fig8,pre-intervention,F8_No TBI_63,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_64,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_65,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_66,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_67,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_68,Sham,0,,Y,Y:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_No TBI_69,Sham,0,,Y,Y:4-5,4-5,2,25,120
+Fig8,pre-intervention,F8_No TBI_7,Sham,0,,X,X:4-5,4-5,2,5,120
+Fig8,pre-intervention,F8_No TBI_70,Sham,0,,Y,Y:4-5,4-5,2,22,120
+Fig8,pre-intervention,F8_No TBI_71,Sham,0,,Y,Y:4-5,4-5,2,10,120
+Fig8,pre-intervention,F8_No TBI_72,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_73,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_74,Sham,0,,Y,Y:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_No TBI_75,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_76,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_77,Sham,0,,Y,Y:4-5,4-5,2,11,120
+Fig8,pre-intervention,F8_No TBI_78,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_79,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_8,Sham,0,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_80,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_81,Sham,0,,Y,Y:4-5,4-5,2,5,120
+Fig8,pre-intervention,F8_No TBI_82,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_83,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_84,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_85,Sham,0,,Y,Y:4-5,4-5,2,15,120
+Fig8,pre-intervention,F8_No TBI_86,Sham,0,,Y,Y:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_No TBI_87,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_88,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_89,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_9,Sham,0,,X,X:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_No TBI_90,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_91,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_92,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_No TBI_93,Sham,0,,Y,Y:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_No TBI_94,Sham,0,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_0,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_1,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_10,TBI,1,,X,X:4-5,4-5,2,3,120
+Fig8,pre-intervention,F8_TBI_11,TBI,1,,X,X:4-5,4-5,2,3,120
+Fig8,pre-intervention,F8_TBI_12,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_13,TBI,1,,X,X:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_TBI_14,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_15,TBI,1,,X,X:4-5,4-5,2,6,120
+Fig8,pre-intervention,F8_TBI_16,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_17,TBI,1,,X,X:4-5,4-5,2,4,120
+Fig8,pre-intervention,F8_TBI_18,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_19,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_2,TBI,1,,X,X:4-5,4-5,2,6,120
+Fig8,pre-intervention,F8_TBI_20,TBI,1,,X,X:4-5,4-5,2,12,120
+Fig8,pre-intervention,F8_TBI_21,TBI,1,,X,X:4-5,4-5,2,5,120
+Fig8,pre-intervention,F8_TBI_22,TBI,1,,X,X:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_TBI_23,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_24,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_25,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_26,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_27,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_28,TBI,1,,X,X:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_TBI_29,TBI,1,,X,X:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_TBI_3,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_30,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_31,TBI,1,,X,X:4-5,4-5,2,16,120
+Fig8,pre-intervention,F8_TBI_32,TBI,1,,X,X:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_TBI_33,TBI,1,,X,X:4-5,4-5,2,29,120
+Fig8,pre-intervention,F8_TBI_34,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_35,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_36,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_37,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_38,TBI,1,,X,X:4-5,4-5,2,28,120
+Fig8,pre-intervention,F8_TBI_39,TBI,1,,X,X:4-5,4-5,2,18,120
+Fig8,pre-intervention,F8_TBI_4,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_40,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_41,TBI,1,,X,X:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_TBI_42,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_43,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_44,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_45,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_46,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_47,TBI,1,,X,X:4-5,4-5,2,3,120
+Fig8,pre-intervention,F8_TBI_48,TBI,1,,Y,Y:4-5,4-5,2,18,120
+Fig8,pre-intervention,F8_TBI_49,TBI,1,,Y,Y:4-5,4-5,2,10,120
+Fig8,pre-intervention,F8_TBI_5,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_50,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_51,TBI,1,,Y,Y:4-5,4-5,2,68,120
+Fig8,pre-intervention,F8_TBI_52,TBI,1,,Y,Y:4-5,4-5,2,38,120
+Fig8,pre-intervention,F8_TBI_53,TBI,1,,Y,Y:4-5,4-5,2,4,120
+Fig8,pre-intervention,F8_TBI_54,TBI,1,,Y,Y:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_TBI_55,TBI,1,,Y,Y:4-5,4-5,2,8,120
+Fig8,pre-intervention,F8_TBI_56,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_57,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_58,TBI,1,,Y,Y:4-5,4-5,2,3,120
+Fig8,pre-intervention,F8_TBI_59,TBI,1,,Y,Y:4-5,4-5,2,7,120
+Fig8,pre-intervention,F8_TBI_6,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_60,TBI,1,,Y,Y:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_TBI_61,TBI,1,,Y,Y:4-5,4-5,2,2,120
+Fig8,pre-intervention,F8_TBI_62,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_63,TBI,1,,Y,Y:4-5,4-5,2,7,120
+Fig8,pre-intervention,F8_TBI_64,TBI,1,,Y,Y:4-5,4-5,2,4,120
+Fig8,pre-intervention,F8_TBI_65,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_66,TBI,1,,Y,Y:4-5,4-5,2,3,120
+Fig8,pre-intervention,F8_TBI_67,TBI,1,,Y,Y:4-5,4-5,2,40,120
+Fig8,pre-intervention,F8_TBI_68,TBI,1,,Y,Y:4-5,4-5,2,80,120
+Fig8,pre-intervention,F8_TBI_69,TBI,1,,Y,Y:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_TBI_7,TBI,1,,X,X:4-5,4-5,2,5,120
+Fig8,pre-intervention,F8_TBI_70,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_71,TBI,1,,Y,Y:4-5,4-5,2,10,120
+Fig8,pre-intervention,F8_TBI_72,TBI,1,,Y,Y:4-5,4-5,2,26,120
+Fig8,pre-intervention,F8_TBI_73,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_74,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_75,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_76,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_77,TBI,1,,Y,Y:4-5,4-5,2,1,120
+Fig8,pre-intervention,F8_TBI_78,TBI,1,,Y,Y:4-5,4-5,2,0,120
+Fig8,pre-intervention,F8_TBI_79,TBI,1,,Y,Y:4-5,4-5,2,19,120
+Fig8,pre-intervention,F8_TBI_8,TBI,1,,X,X:4-5,4-5,2,4,120
+Fig8,pre-intervention,F8_TBI_80,TBI,1,,Y,Y:4-5,4-5,2,32,120
+Fig8,pre-intervention,F8_TBI_9,TBI,1,,X,X:4-5,4-5,2,0,120
+Fig8,pre-intervention,F7_No TBI_0,Sham,0,,F7A,F7A:8-9,8-9,3,4,120
+Fig8,pre-intervention,F7_No TBI_1,Sham,0,,F7A,F7A:8-9,8-9,3,7,120
+Fig8,pre-intervention,F7_No TBI_10,Sham,0,,F7A,F7A:8-9,8-9,3,9,120
+Fig8,pre-intervention,F7_No TBI_11,Sham,0,,F7A,F7A:8-9,8-9,3,13,120
+Fig8,pre-intervention,F7_No TBI_12,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_13,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_14,Sham,0,,F7A,F7A:8-9,8-9,3,10,120
+Fig8,pre-intervention,F7_No TBI_15,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_16,Sham,0,,F7A,F7A:8-9,8-9,3,17,120
+Fig8,pre-intervention,F7_No TBI_17,Sham,0,,F7A,F7A:8-9,8-9,3,3,120
+Fig8,pre-intervention,F7_No TBI_18,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_19,Sham,0,,F7A,F7A:8-9,8-9,3,3,120
+Fig8,pre-intervention,F7_No TBI_2,Sham,0,,F7A,F7A:8-9,8-9,3,14,120
+Fig8,pre-intervention,F7_No TBI_20,Sham,0,,F7A,F7A:8-9,8-9,3,18,120
+Fig8,pre-intervention,F7_No TBI_21,Sham,0,,F7A,F7A:8-9,8-9,3,1,120
+Fig8,pre-intervention,F7_No TBI_22,Sham,0,,F7A,F7A:8-9,8-9,3,5,120
+Fig8,pre-intervention,F7_No TBI_23,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_24,Sham,0,,F7B,F7B:8-9,8-9,3,2,180
+Fig8,pre-intervention,F7_No TBI_25,Sham,0,,F7B,F7B:8-9,8-9,3,1,180
+Fig8,pre-intervention,F7_No TBI_26,Sham,0,,F7B,F7B:8-9,8-9,3,4,180
+Fig8,pre-intervention,F7_No TBI_27,Sham,0,,F7B,F7B:8-9,8-9,3,2,180
+Fig8,pre-intervention,F7_No TBI_28,Sham,0,,F7B,F7B:8-9,8-9,3,8,180
+Fig8,pre-intervention,F7_No TBI_29,Sham,0,,F7B,F7B:8-9,8-9,3,10,180
+Fig8,pre-intervention,F7_No TBI_3,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_30,Sham,0,,F7B,F7B:8-9,8-9,3,4,180
+Fig8,pre-intervention,F7_No TBI_31,Sham,0,,F7B,F7B:8-9,8-9,3,5,180
+Fig8,pre-intervention,F7_No TBI_32,Sham,0,,F7B,F7B:8-9,8-9,3,10,180
+Fig8,pre-intervention,F7_No TBI_33,Sham,0,,F7B,F7B:8-9,8-9,3,11,180
+Fig8,pre-intervention,F7_No TBI_34,Sham,0,,F7B,F7B:8-9,8-9,3,13,180
+Fig8,pre-intervention,F7_No TBI_35,Sham,0,,F7B,F7B:8-9,8-9,3,6,180
+Fig8,pre-intervention,F7_No TBI_36,Sham,0,,F7B,F7B:8-9,8-9,3,2,180
+Fig8,pre-intervention,F7_No TBI_37,Sham,0,,F7B,F7B:8-9,8-9,3,15,180
+Fig8,pre-intervention,F7_No TBI_38,Sham,0,,F7B,F7B:8-9,8-9,3,7,180
+Fig8,pre-intervention,F7_No TBI_39,Sham,0,,F7B,F7B:8-9,8-9,3,0,180
+Fig8,pre-intervention,F7_No TBI_4,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_40,Sham,0,,F7B,F7B:8-9,8-9,3,38,180
+Fig8,pre-intervention,F7_No TBI_41,Sham,0,,F7B,F7B:8-9,8-9,3,27,180
+Fig8,pre-intervention,F7_No TBI_42,Sham,0,,F7B,F7B:8-9,8-9,3,5,180
+Fig8,pre-intervention,F7_No TBI_43,Sham,0,,F7B,F7B:8-9,8-9,3,4,180
+Fig8,pre-intervention,F7_No TBI_44,Sham,0,,F7B,F7B:8-9,8-9,3,19,180
+Fig8,pre-intervention,F7_No TBI_45,Sham,0,,F7B,F7B:8-9,8-9,3,6,180
+Fig8,pre-intervention,F7_No TBI_46,Sham,0,,F7B,F7B:8-9,8-9,3,10,180
+Fig8,pre-intervention,F7_No TBI_47,Sham,0,,F7B,F7B:8-9,8-9,3,8,180
+Fig8,pre-intervention,F7_No TBI_5,Sham,0,,F7A,F7A:8-9,8-9,3,16,120
+Fig8,pre-intervention,F7_No TBI_6,Sham,0,,F7A,F7A:8-9,8-9,3,3,120
+Fig8,pre-intervention,F7_No TBI_7,Sham,0,,F7A,F7A:8-9,8-9,3,22,120
+Fig8,pre-intervention,F7_No TBI_8,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_9,Sham,0,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_TBI_0,TBI,1,,F7A,F7A:8-9,8-9,3,21,120
+Fig8,pre-intervention,F7_TBI_1,TBI,1,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_TBI_10,TBI,1,,F7A,F7A:8-9,8-9,3,36,120
+Fig8,pre-intervention,F7_TBI_11,TBI,1,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_TBI_12,TBI,1,,F7A,F7A:8-9,8-9,3,14,120
+Fig8,pre-intervention,F7_TBI_13,TBI,1,,F7A,F7A:8-9,8-9,3,100,120
+Fig8,pre-intervention,F7_TBI_14,TBI,1,,F7A,F7A:8-9,8-9,3,33,120
+Fig8,pre-intervention,F7_TBI_15,TBI,1,,F7A,F7A:8-9,8-9,3,38,120
+Fig8,pre-intervention,F7_TBI_16,TBI,1,,F7A,F7A:8-9,8-9,3,18,120
+Fig8,pre-intervention,F7_TBI_17,TBI,1,,F7A,F7A:8-9,8-9,3,29,120
+Fig8,pre-intervention,F7_TBI_18,TBI,1,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_TBI_19,TBI,1,,F7A,F7A:8-9,8-9,3,72,120
+Fig8,pre-intervention,F7_TBI_2,TBI,1,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_TBI_20,TBI,1,,F7A,F7A:8-9,8-9,3,50,120
+Fig8,pre-intervention,F7_TBI_21,TBI,1,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_TBI_22,TBI,1,,F7A,F7A:8-9,8-9,3,2,120
+Fig8,pre-intervention,F7_TBI_23,TBI,1,,F7A,F7A:8-9,8-9,3,14,120
+Fig8,pre-intervention,F7_TBI_24,TBI,1,,F7B,F7B:8-9,8-9,3,9,180
+Fig8,pre-intervention,F7_TBI_25,TBI,1,,F7B,F7B:8-9,8-9,3,1,180
+Fig8,pre-intervention,F7_TBI_26,TBI,1,,F7B,F7B:8-9,8-9,3,6,180
+Fig8,pre-intervention,F7_TBI_27,TBI,1,,F7B,F7B:8-9,8-9,3,28,180
+Fig8,pre-intervention,F7_TBI_28,TBI,1,,F7B,F7B:8-9,8-9,3,17,180
+Fig8,pre-intervention,F7_TBI_29,TBI,1,,F7B,F7B:8-9,8-9,3,21,180
+Fig8,pre-intervention,F7_TBI_3,TBI,1,,F7A,F7A:8-9,8-9,3,3,120
+Fig8,pre-intervention,F7_TBI_30,TBI,1,,F7B,F7B:8-9,8-9,3,0,180
+Fig8,pre-intervention,F7_TBI_31,TBI,1,,F7B,F7B:8-9,8-9,3,17,180
+Fig8,pre-intervention,F7_TBI_32,TBI,1,,F7B,F7B:8-9,8-9,3,8,180
+Fig8,pre-intervention,F7_TBI_33,TBI,1,,F7B,F7B:8-9,8-9,3,10,180
+Fig8,pre-intervention,F7_TBI_34,TBI,1,,F7B,F7B:8-9,8-9,3,9,180
+Fig8,pre-intervention,F7_TBI_35,TBI,1,,F7B,F7B:8-9,8-9,3,9,180
+Fig8,pre-intervention,F7_TBI_36,TBI,1,,F7B,F7B:8-9,8-9,3,3,180
+Fig8,pre-intervention,F7_TBI_37,TBI,1,,F7B,F7B:8-9,8-9,3,10,180
+Fig8,pre-intervention,F7_TBI_38,TBI,1,,F7B,F7B:8-9,8-9,3,33,180
+Fig8,pre-intervention,F7_TBI_39,TBI,1,,F7B,F7B:8-9,8-9,3,8,180
+Fig8,pre-intervention,F7_TBI_4,TBI,1,,F7A,F7A:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_TBI_40,TBI,1,,F7B,F7B:8-9,8-9,3,32,180
+Fig8,pre-intervention,F7_TBI_41,TBI,1,,F7B,F7B:8-9,8-9,3,14,180
+Fig8,pre-intervention,F7_TBI_42,TBI,1,,F7B,F7B:8-9,8-9,3,12,180
+Fig8,pre-intervention,F7_TBI_43,TBI,1,,F7B,F7B:8-9,8-9,3,6,180
+Fig8,pre-intervention,F7_TBI_44,TBI,1,,F7B,F7B:8-9,8-9,3,38,180
+Fig8,pre-intervention,F7_TBI_45,TBI,1,,F7B,F7B:8-9,8-9,3,7,180
+Fig8,pre-intervention,F7_TBI_46,TBI,1,,F7B,F7B:8-9,8-9,3,21,180
+Fig8,pre-intervention,F7_TBI_47,TBI,1,,F7B,F7B:8-9,8-9,3,0,180
+Fig8,pre-intervention,F7_TBI_5,TBI,1,,F7A,F7A:8-9,8-9,3,87,120
+Fig8,pre-intervention,F7_TBI_6,TBI,1,,F7A,F7A:8-9,8-9,3,44,120
+Fig8,pre-intervention,F7_TBI_7,TBI,1,,F7A,F7A:8-9,8-9,3,44,120
+Fig8,pre-intervention,F7_TBI_8,TBI,1,,F7A,F7A:8-9,8-9,3,21,120
+Fig8,pre-intervention,F7_TBI_9,TBI,1,,F7A,F7A:8-9,8-9,3,9,120
+Fig8,pre-intervention,F8_No TBI_0,Sham,0,,X,X:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_No TBI_1,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_10,Sham,0,,X,X:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_11,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_12,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_13,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_14,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_15,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_16,Sham,0,,X,X:8-9,8-9,3,40,120
+Fig8,pre-intervention,F8_No TBI_17,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_18,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_19,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_2,Sham,0,,X,X:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_No TBI_20,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_21,Sham,0,,X,X:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_No TBI_22,Sham,0,,X,X:8-9,8-9,3,68,120
+Fig8,pre-intervention,F8_No TBI_23,Sham,0,,X,X:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_24,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_25,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_26,Sham,0,,X,X:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_27,Sham,0,,X,X:8-9,8-9,3,11,120
+Fig8,pre-intervention,F8_No TBI_28,Sham,0,,X,X:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_No TBI_29,Sham,0,,X,X:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_No TBI_3,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_30,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_31,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_32,Sham,0,,X,X:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_33,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_34,Sham,0,,X,X:8-9,8-9,3,22,120
+Fig8,pre-intervention,F8_No TBI_35,Sham,0,,X,X:8-9,8-9,3,31,120
+Fig8,pre-intervention,F8_No TBI_36,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_4,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_48,Sham,0,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_49,Sham,0,,Y,Y:8-9,8-9,3,9,120
+Fig8,pre-intervention,F8_No TBI_5,Sham,0,,X,X:8-9,8-9,3,13,120
+Fig8,pre-intervention,F8_No TBI_50,Sham,0,,Y,Y:8-9,8-9,3,9,120
+Fig8,pre-intervention,F8_No TBI_51,Sham,0,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_52,Sham,0,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_53,Sham,0,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_54,Sham,0,,Y,Y:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_No TBI_55,Sham,0,,Y,Y:8-9,8-9,3,6,120
+Fig8,pre-intervention,F8_No TBI_56,Sham,0,,Y,Y:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_No TBI_57,Sham,0,,Y,Y:8-9,8-9,3,17,120
+Fig8,pre-intervention,F8_No TBI_58,Sham,0,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_59,Sham,0,,Y,Y:8-9,8-9,3,6,120
+Fig8,pre-intervention,F8_No TBI_6,Sham,0,,X,X:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_No TBI_60,Sham,0,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_61,Sham,0,,Y,Y:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_No TBI_62,Sham,0,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_63,Sham,0,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_64,Sham,0,,Y,Y:8-9,8-9,3,7,120
+Fig8,pre-intervention,F8_No TBI_65,Sham,0,,Y,Y:8-9,8-9,3,12,120
+Fig8,pre-intervention,F8_No TBI_66,Sham,0,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_67,Sham,0,,Y,Y:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_No TBI_68,Sham,0,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_69,Sham,0,,Y,Y:8-9,8-9,3,11,120
+Fig8,pre-intervention,F8_No TBI_7,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_70,Sham,0,,Y,Y:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_No TBI_71,Sham,0,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_72,Sham,0,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_73,Sham,0,,Y,Y:8-9,8-9,3,12,120
+Fig8,pre-intervention,F8_No TBI_74,Sham,0,,Y,Y:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_No TBI_75,Sham,0,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_76,Sham,0,,Y,Y:8-9,8-9,3,12,120
+Fig8,pre-intervention,F8_No TBI_77,Sham,0,,Y,Y:8-9,8-9,3,14,120
+Fig8,pre-intervention,F8_No TBI_78,Sham,0,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_79,Sham,0,,Y,Y:8-9,8-9,3,11,120
+Fig8,pre-intervention,F8_No TBI_8,Sham,0,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_No TBI_80,Sham,0,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_81,Sham,0,,Y,Y:8-9,8-9,3,10,120
+Fig8,pre-intervention,F8_No TBI_82,Sham,0,,Y,Y:8-9,8-9,3,7,120
+Fig8,pre-intervention,F8_No TBI_83,Sham,0,,Y,Y:8-9,8-9,3,12,120
+Fig8,pre-intervention,F8_No TBI_84,Sham,0,,Y,Y:8-9,8-9,3,8,120
+Fig8,pre-intervention,F8_No TBI_85,Sham,0,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_86,Sham,0,,Y,Y:8-9,8-9,3,6,120
+Fig8,pre-intervention,F8_No TBI_87,Sham,0,,Y,Y:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_No TBI_88,Sham,0,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_No TBI_89,Sham,0,,Y,Y:8-9,8-9,3,6,120
+Fig8,pre-intervention,F8_No TBI_9,Sham,0,,X,X:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_No TBI_90,Sham,0,,Y,Y:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_No TBI_91,Sham,0,,Y,Y:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_No TBI_92,Sham,0,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_No TBI_93,Sham,0,,Y,Y:8-9,8-9,3,35,120
+Fig8,pre-intervention,F8_No TBI_94,Sham,0,,Y,Y:8-9,8-9,3,10,120
+Fig8,pre-intervention,F8_TBI_0,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_1,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_10,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_11,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_12,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_13,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_14,TBI,1,,X,X:8-9,8-9,3,18,120
+Fig8,pre-intervention,F8_TBI_15,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_16,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_17,TBI,1,,X,X:8-9,8-9,3,27,120
+Fig8,pre-intervention,F8_TBI_18,TBI,1,,X,X:8-9,8-9,3,8,120
+Fig8,pre-intervention,F8_TBI_19,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_2,TBI,1,,X,X:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_TBI_20,TBI,1,,X,X:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_TBI_21,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_22,TBI,1,,X,X:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_TBI_23,TBI,1,,X,X:8-9,8-9,3,8,120
+Fig8,pre-intervention,F8_TBI_24,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_25,TBI,1,,X,X:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_TBI_26,TBI,1,,X,X:8-9,8-9,3,10,120
+Fig8,pre-intervention,F8_TBI_27,TBI,1,,X,X:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_TBI_28,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_29,TBI,1,,X,X:8-9,8-9,3,12,120
+Fig8,pre-intervention,F8_TBI_3,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_30,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_31,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_32,TBI,1,,X,X:8-9,8-9,3,14,120
+Fig8,pre-intervention,F8_TBI_33,TBI,1,,X,X:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_TBI_34,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_4,TBI,1,,X,X:8-9,8-9,3,21,120
+Fig8,pre-intervention,F8_TBI_48,TBI,1,,Y,Y:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_TBI_49,TBI,1,,Y,Y:8-9,8-9,3,6,120
+Fig8,pre-intervention,F8_TBI_5,TBI,1,,X,X:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_TBI_50,TBI,1,,Y,Y:8-9,8-9,3,9,120
+Fig8,pre-intervention,F8_TBI_51,TBI,1,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_TBI_52,TBI,1,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_TBI_53,TBI,1,,Y,Y:8-9,8-9,3,7,120
+Fig8,pre-intervention,F8_TBI_54,TBI,1,,Y,Y:8-9,8-9,3,28,120
+Fig8,pre-intervention,F8_TBI_55,TBI,1,,Y,Y:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_TBI_56,TBI,1,,Y,Y:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_TBI_57,TBI,1,,Y,Y:8-9,8-9,3,6,120
+Fig8,pre-intervention,F8_TBI_58,TBI,1,,Y,Y:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_TBI_59,TBI,1,,Y,Y:8-9,8-9,3,9,120
+Fig8,pre-intervention,F8_TBI_6,TBI,1,,X,X:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_TBI_60,TBI,1,,Y,Y:8-9,8-9,3,6,120
+Fig8,pre-intervention,F8_TBI_61,TBI,1,,Y,Y:8-9,8-9,3,8,120
+Fig8,pre-intervention,F8_TBI_62,TBI,1,,Y,Y:8-9,8-9,3,12,120
+Fig8,pre-intervention,F8_TBI_63,TBI,1,,Y,Y:8-9,8-9,3,3,120
+Fig8,pre-intervention,F8_TBI_64,TBI,1,,Y,Y:8-9,8-9,3,7,120
+Fig8,pre-intervention,F8_TBI_65,TBI,1,,Y,Y:8-9,8-9,3,26,120
+Fig8,pre-intervention,F8_TBI_66,TBI,1,,Y,Y:8-9,8-9,3,11,120
+Fig8,pre-intervention,F8_TBI_67,TBI,1,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_68,TBI,1,,Y,Y:8-9,8-9,3,5,120
+Fig8,pre-intervention,F8_TBI_69,TBI,1,,Y,Y:8-9,8-9,3,18,120
+Fig8,pre-intervention,F8_TBI_7,TBI,1,,X,X:8-9,8-9,3,16,120
+Fig8,pre-intervention,F8_TBI_70,TBI,1,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_TBI_71,TBI,1,,Y,Y:8-9,8-9,3,2,120
+Fig8,pre-intervention,F8_TBI_72,TBI,1,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_TBI_73,TBI,1,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_74,TBI,1,,Y,Y:8-9,8-9,3,7,120
+Fig8,pre-intervention,F8_TBI_75,TBI,1,,Y,Y:8-9,8-9,3,9,120
+Fig8,pre-intervention,F8_TBI_76,TBI,1,,Y,Y:8-9,8-9,3,8,120
+Fig8,pre-intervention,F8_TBI_77,TBI,1,,Y,Y:8-9,8-9,3,1,120
+Fig8,pre-intervention,F8_TBI_78,TBI,1,,Y,Y:8-9,8-9,3,4,120
+Fig8,pre-intervention,F8_TBI_79,TBI,1,,Y,Y:8-9,8-9,3,0,120
+Fig8,pre-intervention,F8_TBI_8,TBI,1,,X,X:8-9,8-9,3,18,120
+Fig8,pre-intervention,F8_TBI_9,TBI,1,,X,X:8-9,8-9,3,0,120
+Fig8,pre-intervention,F7_No TBI_0,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_1,Sham,0,,F7A,F7A:12-13,12-13,4,89,120
+Fig8,pre-intervention,F7_No TBI_10,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_11,Sham,0,,F7A,F7A:12-13,12-13,4,10,120
+Fig8,pre-intervention,F7_No TBI_12,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_13,Sham,0,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_No TBI_14,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_15,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_16,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_17,Sham,0,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_No TBI_18,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_19,Sham,0,,F7A,F7A:12-13,12-13,4,19,120
+Fig8,pre-intervention,F7_No TBI_2,Sham,0,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_No TBI_20,Sham,0,,F7A,F7A:12-13,12-13,4,3,120
+Fig8,pre-intervention,F7_No TBI_21,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_22,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_23,Sham,0,,F7A,F7A:12-13,12-13,4,9,120
+Fig8,pre-intervention,F7_No TBI_24,Sham,0,,F7B,F7B:12-13,12-13,4,3,180
+Fig8,pre-intervention,F7_No TBI_25,Sham,0,,F7B,F7B:12-13,12-13,4,0,180
+Fig8,pre-intervention,F7_No TBI_26,Sham,0,,F7B,F7B:12-13,12-13,4,6,180
+Fig8,pre-intervention,F7_No TBI_27,Sham,0,,F7B,F7B:12-13,12-13,4,11,180
+Fig8,pre-intervention,F7_No TBI_28,Sham,0,,F7B,F7B:12-13,12-13,4,5,180
+Fig8,pre-intervention,F7_No TBI_29,Sham,0,,F7B,F7B:12-13,12-13,4,3,180
+Fig8,pre-intervention,F7_No TBI_3,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_30,Sham,0,,F7B,F7B:12-13,12-13,4,8,180
+Fig8,pre-intervention,F7_No TBI_31,Sham,0,,F7B,F7B:12-13,12-13,4,6,180
+Fig8,pre-intervention,F7_No TBI_32,Sham,0,,F7B,F7B:12-13,12-13,4,2,180
+Fig8,pre-intervention,F7_No TBI_33,Sham,0,,F7B,F7B:12-13,12-13,4,8,180
+Fig8,pre-intervention,F7_No TBI_34,Sham,0,,F7B,F7B:12-13,12-13,4,10,180
+Fig8,pre-intervention,F7_No TBI_35,Sham,0,,F7B,F7B:12-13,12-13,4,2,180
+Fig8,pre-intervention,F7_No TBI_36,Sham,0,,F7B,F7B:12-13,12-13,4,6,180
+Fig8,pre-intervention,F7_No TBI_37,Sham,0,,F7B,F7B:12-13,12-13,4,16,180
+Fig8,pre-intervention,F7_No TBI_38,Sham,0,,F7B,F7B:12-13,12-13,4,11,180
+Fig8,pre-intervention,F7_No TBI_39,Sham,0,,F7B,F7B:12-13,12-13,4,0,180
+Fig8,pre-intervention,F7_No TBI_4,Sham,0,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_No TBI_40,Sham,0,,F7B,F7B:12-13,12-13,4,40,180
+Fig8,pre-intervention,F7_No TBI_41,Sham,0,,F7B,F7B:12-13,12-13,4,22,180
+Fig8,pre-intervention,F7_No TBI_42,Sham,0,,F7B,F7B:12-13,12-13,4,4,180
+Fig8,pre-intervention,F7_No TBI_43,Sham,0,,F7B,F7B:12-13,12-13,4,2,180
+Fig8,pre-intervention,F7_No TBI_44,Sham,0,,F7B,F7B:12-13,12-13,4,35,180
+Fig8,pre-intervention,F7_No TBI_45,Sham,0,,F7B,F7B:12-13,12-13,4,0,180
+Fig8,pre-intervention,F7_No TBI_46,Sham,0,,F7B,F7B:12-13,12-13,4,12,180
+Fig8,pre-intervention,F7_No TBI_47,Sham,0,,F7B,F7B:12-13,12-13,4,5,180
+Fig8,pre-intervention,F7_No TBI_5,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_6,Sham,0,,F7A,F7A:12-13,12-13,4,3,120
+Fig8,pre-intervention,F7_No TBI_7,Sham,0,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_No TBI_8,Sham,0,,F7A,F7A:12-13,12-13,4,7,120
+Fig8,pre-intervention,F7_No TBI_9,Sham,0,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_0,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_1,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_10,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_11,TBI,1,,F7A,F7A:12-13,12-13,4,13,120
+Fig8,pre-intervention,F7_TBI_12,TBI,1,,F7A,F7A:12-13,12-13,4,3,120
+Fig8,pre-intervention,F7_TBI_13,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_14,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_15,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_16,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_17,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_18,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_19,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_2,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_20,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_21,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_22,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_23,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_24,TBI,1,,F7B,F7B:12-13,12-13,4,17,180
+Fig8,pre-intervention,F7_TBI_25,TBI,1,,F7B,F7B:12-13,12-13,4,0,180
+Fig8,pre-intervention,F7_TBI_26,TBI,1,,F7B,F7B:12-13,12-13,4,9,180
+Fig8,pre-intervention,F7_TBI_27,TBI,1,,F7B,F7B:12-13,12-13,4,57,180
+Fig8,pre-intervention,F7_TBI_28,TBI,1,,F7B,F7B:12-13,12-13,4,18,180
+Fig8,pre-intervention,F7_TBI_29,TBI,1,,F7B,F7B:12-13,12-13,4,5,180
+Fig8,pre-intervention,F7_TBI_3,TBI,1,,F7A,F7A:12-13,12-13,4,0,120
+Fig8,pre-intervention,F7_TBI_30,TBI,1,,F7B,F7B:12-13,12-13,4,1,180
+Fig8,pre-intervention,F7_TBI_31,TBI,1,,F7B,F7B:12-13,12-13,4,8,180
+Fig8,pre-intervention,F7_TBI_32,TBI,1,,F7B,F7B:12-13,12-13,4,5,180
+Fig8,pre-intervention,F7_TBI_33,TBI,1,,F7B,F7B:12-13,12-13,4,10,180
+Fig8,pre-intervention,F7_TBI_34,TBI,1,,F7B,F7B:12-13,12-13,4,12,180
+Fig8,pre-intervention,F7_TBI_35,TBI,1,,F7B,F7B:12-13,12-13,4,16,180
+Fig8,pre-intervention,F7_TBI_36,TBI,1,,F7B,F7B:12-13,12-13,4,14,180
+Fig8,pre-intervention,F7_TBI_37,TBI,1,,F7B,F7B:12-13,12-13,4,18,180
+Fig8,pre-intervention,F7_TBI_38,TBI,1,,F7B,F7B:12-13,12-13,4,27,180
+Fig8,pre-intervention,F7_TBI_39,TBI,1,,F7B,F7B:12-13,12-13,4,1,180
+Fig8,pre-intervention,F7_TBI_4,TBI,1,,F7A,F7A:12-13,12-13,4,2,120
+Fig8,pre-intervention,F7_TBI_40,TBI,1,,F7B,F7B:12-13,12-13,4,12,180
+Fig8,pre-intervention,F7_TBI_41,TBI,1,,F7B,F7B:12-13,12-13,4,36,180
+Fig8,pre-intervention,F7_TBI_42,TBI,1,,F7B,F7B:12-13,12-13,4,22,180
+Fig8,pre-intervention,F7_TBI_43,TBI,1,,F7B,F7B:12-13,12-13,4,9,180
+Fig8,pre-intervention,F7_TBI_44,TBI,1,,F7B,F7B:12-13,12-13,4,37,180
+Fig8,pre-intervention,F7_TBI_45,TBI,1,,F7B,F7B:12-13,12-13,4,19,180
+Fig8,pre-intervention,F7_TBI_46,TBI,1,,F7B,F7B:12-13,12-13,4,27,180
+Fig8,pre-intervention,F7_TBI_47,TBI,1,,F7B,F7B:12-13,12-13,4,4,180
+Fig8,pre-intervention,F7_TBI_5,TBI,1,,F7A,F7A:12-13,12-13,4,8,120
+Fig8,pre-intervention,F7_TBI_6,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_7,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F7_TBI_8,TBI,1,,F7A,F7A:12-13,12-13,4,2,120
+Fig8,pre-intervention,F7_TBI_9,TBI,1,,F7A,F7A:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_0,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_1,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_10,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_11,Sham,0,,X,X:12-13,12-13,4,35,120
+Fig8,pre-intervention,F8_No TBI_12,Sham,0,,X,X:12-13,12-13,4,9,120
+Fig8,pre-intervention,F8_No TBI_13,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_14,Sham,0,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_15,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_16,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_17,Sham,0,,X,X:12-13,12-13,4,10,120
+Fig8,pre-intervention,F8_No TBI_18,Sham,0,,X,X:12-13,12-13,4,11,120
+Fig8,pre-intervention,F8_No TBI_19,Sham,0,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_2,Sham,0,,X,X:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_20,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_21,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_22,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_23,Sham,0,,X,X:12-13,12-13,4,26,120
+Fig8,pre-intervention,F8_No TBI_24,Sham,0,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_25,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_26,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_27,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_28,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_29,Sham,0,,X,X:12-13,12-13,4,10,120
+Fig8,pre-intervention,F8_No TBI_3,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_30,Sham,0,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_31,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_32,Sham,0,,X,X:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_No TBI_33,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_34,Sham,0,,X,X:12-13,12-13,4,59,120
+Fig8,pre-intervention,F8_No TBI_35,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_36,Sham,0,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_37,Sham,0,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_38,Sham,0,,X,X:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_39,Sham,0,,X,X:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_4,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_40,Sham,0,,X,X:12-13,12-13,4,18,120
+Fig8,pre-intervention,F8_No TBI_41,Sham,0,,X,X:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_No TBI_42,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_43,Sham,0,,X,X:12-13,12-13,4,10,120
+Fig8,pre-intervention,F8_No TBI_44,Sham,0,,X,X:12-13,12-13,4,28,120
+Fig8,pre-intervention,F8_No TBI_45,Sham,0,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_46,Sham,0,,X,X:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_No TBI_47,Sham,0,,Y,Y:12-13,12-13,4,9,120
+Fig8,pre-intervention,F8_No TBI_48,Sham,0,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_49,Sham,0,,Y,Y:12-13,12-13,4,12,120
+Fig8,pre-intervention,F8_No TBI_5,Sham,0,,X,X:12-13,12-13,4,10,120
+Fig8,pre-intervention,F8_No TBI_50,Sham,0,,Y,Y:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_No TBI_51,Sham,0,,Y,Y:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_52,Sham,0,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_53,Sham,0,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_54,Sham,0,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_55,Sham,0,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_No TBI_56,Sham,0,,Y,Y:12-13,12-13,4,9,120
+Fig8,pre-intervention,F8_No TBI_57,Sham,0,,Y,Y:12-13,12-13,4,25,120
+Fig8,pre-intervention,F8_No TBI_58,Sham,0,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_No TBI_59,Sham,0,,Y,Y:12-13,12-13,4,13,120
+Fig8,pre-intervention,F8_No TBI_6,Sham,0,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_60,Sham,0,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_61,Sham,0,,Y,Y:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_62,Sham,0,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_63,Sham,0,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_64,Sham,0,,Y,Y:12-13,12-13,4,9,120
+Fig8,pre-intervention,F8_No TBI_65,Sham,0,,Y,Y:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_No TBI_66,Sham,0,,Y,Y:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_No TBI_67,Sham,0,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_68,Sham,0,,Y,Y:12-13,12-13,4,9,120
+Fig8,pre-intervention,F8_No TBI_69,Sham,0,,Y,Y:12-13,12-13,4,11,120
+Fig8,pre-intervention,F8_No TBI_7,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_70,Sham,0,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_71,Sham,0,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_72,Sham,0,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_73,Sham,0,,Y,Y:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_No TBI_74,Sham,0,,Y,Y:12-13,12-13,4,11,120
+Fig8,pre-intervention,F8_No TBI_75,Sham,0,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_No TBI_76,Sham,0,,Y,Y:12-13,12-13,4,11,120
+Fig8,pre-intervention,F8_No TBI_77,Sham,0,,Y,Y:12-13,12-13,4,21,120
+Fig8,pre-intervention,F8_No TBI_78,Sham,0,,Y,Y:12-13,12-13,4,7,120
+Fig8,pre-intervention,F8_No TBI_79,Sham,0,,Y,Y:12-13,12-13,4,12,120
+Fig8,pre-intervention,F8_No TBI_8,Sham,0,,X,X:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_No TBI_80,Sham,0,,Y,Y:12-13,12-13,4,7,120
+Fig8,pre-intervention,F8_No TBI_81,Sham,0,,Y,Y:12-13,12-13,4,14,120
+Fig8,pre-intervention,F8_No TBI_82,Sham,0,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_83,Sham,0,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_84,Sham,0,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_85,Sham,0,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_No TBI_86,Sham,0,,Y,Y:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_87,Sham,0,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_No TBI_88,Sham,0,,Y,Y:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_89,Sham,0,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_No TBI_9,Sham,0,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_No TBI_90,Sham,0,,Y,Y:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_No TBI_91,Sham,0,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_92,Sham,0,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_No TBI_93,Sham,0,,Y,Y:12-13,12-13,4,31,120
+Fig8,pre-intervention,F8_No TBI_94,Sham,0,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_0,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_1,TBI,1,,X,X:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_TBI_10,TBI,1,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_11,TBI,1,,X,X:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_TBI_12,TBI,1,,X,X:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_TBI_13,TBI,1,,X,X:12-13,12-13,4,10,120
+Fig8,pre-intervention,F8_TBI_14,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_15,TBI,1,,X,X:12-13,12-13,4,13,120
+Fig8,pre-intervention,F8_TBI_16,TBI,1,,X,X:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_TBI_17,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_18,TBI,1,,X,X:12-13,12-13,4,18,120
+Fig8,pre-intervention,F8_TBI_19,TBI,1,,X,X:12-13,12-13,4,20,120
+Fig8,pre-intervention,F8_TBI_2,TBI,1,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_20,TBI,1,,X,X:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_21,TBI,1,,X,X:12-13,12-13,4,23,120
+Fig8,pre-intervention,F8_TBI_22,TBI,1,,X,X:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_TBI_23,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_24,TBI,1,,X,X:12-13,12-13,4,68,120
+Fig8,pre-intervention,F8_TBI_25,TBI,1,,X,X:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_TBI_26,TBI,1,,X,X:12-13,12-13,4,28,120
+Fig8,pre-intervention,F8_TBI_27,TBI,1,,X,X:12-13,12-13,4,25,120
+Fig8,pre-intervention,F8_TBI_28,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_29,TBI,1,,X,X:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_3,TBI,1,,X,X:12-13,12-13,4,11,120
+Fig8,pre-intervention,F8_TBI_30,TBI,1,,X,X:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_TBI_31,TBI,1,,X,X:12-13,12-13,4,7,120
+Fig8,pre-intervention,F8_TBI_32,TBI,1,,X,X:12-13,12-13,4,5,120
+Fig8,pre-intervention,F8_TBI_33,TBI,1,,X,X:12-13,12-13,4,7,120
+Fig8,pre-intervention,F8_TBI_34,TBI,1,,X,X:12-13,12-13,4,10,120
+Fig8,pre-intervention,F8_TBI_35,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_36,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_37,TBI,1,,X,X:12-13,12-13,4,8,120
+Fig8,pre-intervention,F8_TBI_38,TBI,1,,X,X:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_TBI_4,TBI,1,,X,X:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_48,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_49,TBI,1,,Y,Y:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_TBI_5,TBI,1,,X,X:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_TBI_50,TBI,1,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_51,TBI,1,,Y,Y:12-13,12-13,4,9,120
+Fig8,pre-intervention,F8_TBI_52,TBI,1,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_53,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_54,TBI,1,,Y,Y:12-13,12-13,4,7,120
+Fig8,pre-intervention,F8_TBI_55,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_56,TBI,1,,Y,Y:12-13,12-13,4,9,120
+Fig8,pre-intervention,F8_TBI_57,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_58,TBI,1,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_TBI_59,TBI,1,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_6,TBI,1,,X,X:12-13,12-13,4,19,120
+Fig8,pre-intervention,F8_TBI_60,TBI,1,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_TBI_61,TBI,1,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_62,TBI,1,,Y,Y:12-13,12-13,4,6,120
+Fig8,pre-intervention,F8_TBI_63,TBI,1,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_64,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_65,TBI,1,,Y,Y:12-13,12-13,4,5,120
+Fig8,pre-intervention,F8_TBI_66,TBI,1,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_67,TBI,1,,Y,Y:12-13,12-13,4,5,120
+Fig8,pre-intervention,F8_TBI_68,TBI,1,,Y,Y:12-13,12-13,4,7,120
+Fig8,pre-intervention,F8_TBI_69,TBI,1,,Y,Y:12-13,12-13,4,40,120
+Fig8,pre-intervention,F8_TBI_7,TBI,1,,X,X:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_TBI_70,TBI,1,,Y,Y:12-13,12-13,4,4,120
+Fig8,pre-intervention,F8_TBI_71,TBI,1,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_72,TBI,1,,Y,Y:12-13,12-13,4,15,120
+Fig8,pre-intervention,F8_TBI_73,TBI,1,,Y,Y:12-13,12-13,4,7,120
+Fig8,pre-intervention,F8_TBI_74,TBI,1,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_75,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_76,TBI,1,,Y,Y:12-13,12-13,4,3,120
+Fig8,pre-intervention,F8_TBI_77,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_78,TBI,1,,Y,Y:12-13,12-13,4,2,120
+Fig8,pre-intervention,F8_TBI_79,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_8,TBI,1,,X,X:12-13,12-13,4,26,120
+Fig8,pre-intervention,F8_TBI_80,TBI,1,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_81,TBI,1,,Y,Y:12-13,12-13,4,1,120
+Fig8,pre-intervention,F8_TBI_82,TBI,1,,Y,Y:12-13,12-13,4,10,120
+Fig8,pre-intervention,F8_TBI_83,TBI,1,,Y,Y:12-13,12-13,4,0,120
+Fig8,pre-intervention,F8_TBI_9,TBI,1,,X,X:12-13,12-13,4,5,120
+Fig8,pre-intervention,F7_No TBI_0,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_1,Sham,0,,F7A,F7A:16-17,16-17,5,46,120
+Fig8,pre-intervention,F7_No TBI_10,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_11,Sham,0,,F7A,F7A:16-17,16-17,5,6,120
+Fig8,pre-intervention,F7_No TBI_12,Sham,0,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_No TBI_13,Sham,0,,F7A,F7A:16-17,16-17,5,5,120
+Fig8,pre-intervention,F7_No TBI_14,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_15,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_16,Sham,0,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_No TBI_17,Sham,0,,F7A,F7A:16-17,16-17,5,4,120
+Fig8,pre-intervention,F7_No TBI_18,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_19,Sham,0,,F7A,F7A:16-17,16-17,5,41,120
+Fig8,pre-intervention,F7_No TBI_2,Sham,0,,F7A,F7A:16-17,16-17,5,3,120
+Fig8,pre-intervention,F7_No TBI_20,Sham,0,,F7A,F7A:16-17,16-17,5,10,120
+Fig8,pre-intervention,F7_No TBI_21,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_22,Sham,0,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_No TBI_23,Sham,0,,F7A,F7A:16-17,16-17,5,4,120
+Fig8,pre-intervention,F7_No TBI_24,Sham,0,,F7B,F7B:16-17,16-17,5,17,180
+Fig8,pre-intervention,F7_No TBI_25,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_26,Sham,0,,F7B,F7B:16-17,16-17,5,33,180
+Fig8,pre-intervention,F7_No TBI_27,Sham,0,,F7B,F7B:16-17,16-17,5,1,180
+Fig8,pre-intervention,F7_No TBI_28,Sham,0,,F7B,F7B:16-17,16-17,5,1,180
+Fig8,pre-intervention,F7_No TBI_29,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_3,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_30,Sham,0,,F7B,F7B:16-17,16-17,5,4,180
+Fig8,pre-intervention,F7_No TBI_31,Sham,0,,F7B,F7B:16-17,16-17,5,2,180
+Fig8,pre-intervention,F7_No TBI_32,Sham,0,,F7B,F7B:16-17,16-17,5,16,180
+Fig8,pre-intervention,F7_No TBI_33,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_34,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_35,Sham,0,,F7B,F7B:16-17,16-17,5,17,180
+Fig8,pre-intervention,F7_No TBI_36,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_37,Sham,0,,F7B,F7B:16-17,16-17,5,63,180
+Fig8,pre-intervention,F7_No TBI_38,Sham,0,,F7B,F7B:16-17,16-17,5,15,180
+Fig8,pre-intervention,F7_No TBI_39,Sham,0,,F7B,F7B:16-17,16-17,5,10,180
+Fig8,pre-intervention,F7_No TBI_4,Sham,0,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_No TBI_40,Sham,0,,F7B,F7B:16-17,16-17,5,1,180
+Fig8,pre-intervention,F7_No TBI_41,Sham,0,,F7B,F7B:16-17,16-17,5,1,180
+Fig8,pre-intervention,F7_No TBI_42,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_43,Sham,0,,F7B,F7B:16-17,16-17,5,3,180
+Fig8,pre-intervention,F7_No TBI_44,Sham,0,,F7B,F7B:16-17,16-17,5,26,180
+Fig8,pre-intervention,F7_No TBI_45,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_46,Sham,0,,F7B,F7B:16-17,16-17,5,7,180
+Fig8,pre-intervention,F7_No TBI_47,Sham,0,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_No TBI_5,Sham,0,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_No TBI_6,Sham,0,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_No TBI_7,Sham,0,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_No TBI_8,Sham,0,,F7A,F7A:16-17,16-17,5,12,120
+Fig8,pre-intervention,F7_No TBI_9,Sham,0,,F7A,F7A:16-17,16-17,5,5,120
+Fig8,pre-intervention,F7_TBI_0,TBI,1,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_TBI_1,TBI,1,,F7A,F7A:16-17,16-17,5,5,120
+Fig8,pre-intervention,F7_TBI_10,TBI,1,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_TBI_11,TBI,1,,F7A,F7A:16-17,16-17,5,7,120
+Fig8,pre-intervention,F7_TBI_12,TBI,1,,F7A,F7A:16-17,16-17,5,19,120
+Fig8,pre-intervention,F7_TBI_13,TBI,1,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_TBI_14,TBI,1,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_TBI_15,TBI,1,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_TBI_16,TBI,1,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_TBI_17,TBI,1,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_TBI_18,TBI,1,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_TBI_19,TBI,1,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_TBI_2,TBI,1,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_TBI_20,TBI,1,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_TBI_21,TBI,1,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_TBI_22,TBI,1,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_TBI_23,TBI,1,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_TBI_24,TBI,1,,F7B,F7B:16-17,16-17,5,25,180
+Fig8,pre-intervention,F7_TBI_25,TBI,1,,F7B,F7B:16-17,16-17,5,18,180
+Fig8,pre-intervention,F7_TBI_26,TBI,1,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_TBI_27,TBI,1,,F7B,F7B:16-17,16-17,5,5,180
+Fig8,pre-intervention,F7_TBI_28,TBI,1,,F7B,F7B:16-17,16-17,5,19,180
+Fig8,pre-intervention,F7_TBI_29,TBI,1,,F7B,F7B:16-17,16-17,5,18,180
+Fig8,pre-intervention,F7_TBI_3,TBI,1,,F7A,F7A:16-17,16-17,5,0,120
+Fig8,pre-intervention,F7_TBI_30,TBI,1,,F7B,F7B:16-17,16-17,5,31,180
+Fig8,pre-intervention,F7_TBI_31,TBI,1,,F7B,F7B:16-17,16-17,5,18,180
+Fig8,pre-intervention,F7_TBI_32,TBI,1,,F7B,F7B:16-17,16-17,5,23,180
+Fig8,pre-intervention,F7_TBI_33,TBI,1,,F7B,F7B:16-17,16-17,5,6,180
+Fig8,pre-intervention,F7_TBI_34,TBI,1,,F7B,F7B:16-17,16-17,5,19,180
+Fig8,pre-intervention,F7_TBI_35,TBI,1,,F7B,F7B:16-17,16-17,5,22,180
+Fig8,pre-intervention,F7_TBI_36,TBI,1,,F7B,F7B:16-17,16-17,5,44,180
+Fig8,pre-intervention,F7_TBI_37,TBI,1,,F7B,F7B:16-17,16-17,5,12,180
+Fig8,pre-intervention,F7_TBI_38,TBI,1,,F7B,F7B:16-17,16-17,5,14,180
+Fig8,pre-intervention,F7_TBI_39,TBI,1,,F7B,F7B:16-17,16-17,5,8,180
+Fig8,pre-intervention,F7_TBI_4,TBI,1,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_TBI_40,TBI,1,,F7B,F7B:16-17,16-17,5,13,180
+Fig8,pre-intervention,F7_TBI_41,TBI,1,,F7B,F7B:16-17,16-17,5,11,180
+Fig8,pre-intervention,F7_TBI_42,TBI,1,,F7B,F7B:16-17,16-17,5,52,180
+Fig8,pre-intervention,F7_TBI_43,TBI,1,,F7B,F7B:16-17,16-17,5,1,180
+Fig8,pre-intervention,F7_TBI_44,TBI,1,,F7B,F7B:16-17,16-17,5,0,180
+Fig8,pre-intervention,F7_TBI_45,TBI,1,,F7B,F7B:16-17,16-17,5,7,180
+Fig8,pre-intervention,F7_TBI_46,TBI,1,,F7B,F7B:16-17,16-17,5,18,180
+Fig8,pre-intervention,F7_TBI_47,TBI,1,,F7B,F7B:16-17,16-17,5,5,180
+Fig8,pre-intervention,F7_TBI_5,TBI,1,,F7A,F7A:16-17,16-17,5,6,120
+Fig8,pre-intervention,F7_TBI_6,TBI,1,,F7A,F7A:16-17,16-17,5,2,120
+Fig8,pre-intervention,F7_TBI_7,TBI,1,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_TBI_8,TBI,1,,F7A,F7A:16-17,16-17,5,3,120
+Fig8,pre-intervention,F7_TBI_9,TBI,1,,F7A,F7A:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_No TBI_47,Sham,0,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_No TBI_48,Sham,0,,Y,Y:16-17,16-17,5,31,120
+Fig8,pre-intervention,F8_No TBI_49,Sham,0,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_No TBI_50,Sham,0,,Y,Y:16-17,16-17,5,8,120
+Fig8,pre-intervention,F8_No TBI_51,Sham,0,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_No TBI_52,Sham,0,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_No TBI_53,Sham,0,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_No TBI_54,Sham,0,,Y,Y:16-17,16-17,5,7,120
+Fig8,pre-intervention,F8_No TBI_55,Sham,0,,Y,Y:16-17,16-17,5,0,120
+Fig8,pre-intervention,F8_No TBI_56,Sham,0,,Y,Y:16-17,16-17,5,12,120
+Fig8,pre-intervention,F8_No TBI_57,Sham,0,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_No TBI_58,Sham,0,,Y,Y:16-17,16-17,5,12,120
+Fig8,pre-intervention,F8_No TBI_59,Sham,0,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_No TBI_60,Sham,0,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_No TBI_61,Sham,0,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_No TBI_62,Sham,0,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_No TBI_63,Sham,0,,Y,Y:16-17,16-17,5,10,120
+Fig8,pre-intervention,F8_No TBI_64,Sham,0,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_No TBI_65,Sham,0,,Y,Y:16-17,16-17,5,4,120
+Fig8,pre-intervention,F8_No TBI_66,Sham,0,,Y,Y:16-17,16-17,5,0,120
+Fig8,pre-intervention,F8_No TBI_67,Sham,0,,Y,Y:16-17,16-17,5,11,120
+Fig8,pre-intervention,F8_No TBI_68,Sham,0,,Y,Y:16-17,16-17,5,8,120
+Fig8,pre-intervention,F8_No TBI_69,Sham,0,,Y,Y:16-17,16-17,5,12,120
+Fig8,pre-intervention,F8_No TBI_70,Sham,0,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_No TBI_71,Sham,0,,Y,Y:16-17,16-17,5,0,120
+Fig8,pre-intervention,F8_No TBI_72,Sham,0,,Y,Y:16-17,16-17,5,4,120
+Fig8,pre-intervention,F8_No TBI_73,Sham,0,,Y,Y:16-17,16-17,5,5,120
+Fig8,pre-intervention,F8_No TBI_74,Sham,0,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_No TBI_75,Sham,0,,Y,Y:16-17,16-17,5,7,120
+Fig8,pre-intervention,F8_No TBI_76,Sham,0,,Y,Y:16-17,16-17,5,31,120
+Fig8,pre-intervention,F8_No TBI_77,Sham,0,,Y,Y:16-17,16-17,5,11,120
+Fig8,pre-intervention,F8_No TBI_78,Sham,0,,Y,Y:16-17,16-17,5,15,120
+Fig8,pre-intervention,F8_No TBI_79,Sham,0,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_No TBI_80,Sham,0,,Y,Y:16-17,16-17,5,10,120
+Fig8,pre-intervention,F8_No TBI_81,Sham,0,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_No TBI_82,Sham,0,,Y,Y:16-17,16-17,5,4,120
+Fig8,pre-intervention,F8_No TBI_83,Sham,0,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_No TBI_84,Sham,0,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_No TBI_85,Sham,0,,Y,Y:16-17,16-17,5,4,120
+Fig8,pre-intervention,F8_No TBI_86,Sham,0,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_No TBI_87,Sham,0,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_No TBI_88,Sham,0,,Y,Y:16-17,16-17,5,9,120
+Fig8,pre-intervention,F8_No TBI_89,Sham,0,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_No TBI_90,Sham,0,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_No TBI_91,Sham,0,,Y,Y:16-17,16-17,5,0,120
+Fig8,pre-intervention,F8_No TBI_92,Sham,0,,Y,Y:16-17,16-17,5,9,120
+Fig8,pre-intervention,F8_No TBI_93,Sham,0,,Y,Y:16-17,16-17,5,0,120
+Fig8,pre-intervention,F8_TBI_48,TBI,1,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_TBI_49,TBI,1,,Y,Y:16-17,16-17,5,9,120
+Fig8,pre-intervention,F8_TBI_50,TBI,1,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_TBI_51,TBI,1,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_TBI_52,TBI,1,,Y,Y:16-17,16-17,5,10,120
+Fig8,pre-intervention,F8_TBI_53,TBI,1,,Y,Y:16-17,16-17,5,5,120
+Fig8,pre-intervention,F8_TBI_54,TBI,1,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_TBI_55,TBI,1,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_TBI_56,TBI,1,,Y,Y:16-17,16-17,5,8,120
+Fig8,pre-intervention,F8_TBI_57,TBI,1,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_TBI_58,TBI,1,,Y,Y:16-17,16-17,5,4,120
+Fig8,pre-intervention,F8_TBI_59,TBI,1,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_TBI_60,TBI,1,,Y,Y:16-17,16-17,5,12,120
+Fig8,pre-intervention,F8_TBI_61,TBI,1,,Y,Y:16-17,16-17,5,9,120
+Fig8,pre-intervention,F8_TBI_62,TBI,1,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_TBI_63,TBI,1,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_TBI_64,TBI,1,,Y,Y:16-17,16-17,5,7,120
+Fig8,pre-intervention,F8_TBI_65,TBI,1,,Y,Y:16-17,16-17,5,16,120
+Fig8,pre-intervention,F8_TBI_66,TBI,1,,Y,Y:16-17,16-17,5,0,120
+Fig8,pre-intervention,F8_TBI_67,TBI,1,,Y,Y:16-17,16-17,5,3,120
+Fig8,pre-intervention,F8_TBI_68,TBI,1,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_TBI_69,TBI,1,,Y,Y:16-17,16-17,5,0,120
+Fig8,pre-intervention,F8_TBI_70,TBI,1,,Y,Y:16-17,16-17,5,19,120
+Fig8,pre-intervention,F8_TBI_71,TBI,1,,Y,Y:16-17,16-17,5,8,120
+Fig8,pre-intervention,F8_TBI_72,TBI,1,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_TBI_73,TBI,1,,Y,Y:16-17,16-17,5,5,120
+Fig8,pre-intervention,F8_TBI_74,TBI,1,,Y,Y:16-17,16-17,5,6,120
+Fig8,pre-intervention,F8_TBI_75,TBI,1,,Y,Y:16-17,16-17,5,2,120
+Fig8,pre-intervention,F8_TBI_76,TBI,1,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F8_TBI_77,TBI,1,,Y,Y:16-17,16-17,5,4,120
+Fig8,pre-intervention,F8_TBI_78,TBI,1,,Y,Y:16-17,16-17,5,1,120
+Fig8,pre-intervention,F7_No TBI_0,Sham,0,,F7A,F7A:20-21,20-21,6,4,120
+Fig8,pre-intervention,F7_No TBI_1,Sham,0,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_10,Sham,0,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_11,Sham,0,,F7A,F7A:20-21,20-21,6,5,120
+Fig8,pre-intervention,F7_No TBI_12,Sham,0,,F7A,F7A:20-21,20-21,6,18,120
+Fig8,pre-intervention,F7_No TBI_13,Sham,0,,F7A,F7A:20-21,20-21,6,4,120
+Fig8,pre-intervention,F7_No TBI_14,Sham,0,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_15,Sham,0,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_16,Sham,0,,F7A,F7A:20-21,20-21,6,1,120
+Fig8,pre-intervention,F7_No TBI_17,Sham,0,,F7A,F7A:20-21,20-21,6,8,120
+Fig8,pre-intervention,F7_No TBI_18,Sham,0,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_19,Sham,0,,F7A,F7A:20-21,20-21,6,8,120
+Fig8,pre-intervention,F7_No TBI_2,Sham,0,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_No TBI_20,Sham,0,,F7A,F7A:20-21,20-21,6,14,120
+Fig8,pre-intervention,F7_No TBI_21,Sham,0,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_22,Sham,0,,F7A,F7A:20-21,20-21,6,13,120
+Fig8,pre-intervention,F7_No TBI_23,Sham,0,,F7A,F7A:20-21,20-21,6,5,120
+Fig8,pre-intervention,F7_No TBI_24,Sham,0,,F7B,F7B:20-21,20-21,6,31,180
+Fig8,pre-intervention,F7_No TBI_25,Sham,0,,F7B,F7B:20-21,20-21,6,7,180
+Fig8,pre-intervention,F7_No TBI_26,Sham,0,,F7B,F7B:20-21,20-21,6,10,180
+Fig8,pre-intervention,F7_No TBI_27,Sham,0,,F7B,F7B:20-21,20-21,6,9,180
+Fig8,pre-intervention,F7_No TBI_28,Sham,0,,F7B,F7B:20-21,20-21,6,0,180
+Fig8,pre-intervention,F7_No TBI_29,Sham,0,,F7B,F7B:20-21,20-21,6,33,180
+Fig8,pre-intervention,F7_No TBI_3,Sham,0,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_No TBI_30,Sham,0,,F7B,F7B:20-21,20-21,6,3,180
+Fig8,pre-intervention,F7_No TBI_31,Sham,0,,F7B,F7B:20-21,20-21,6,2,180
+Fig8,pre-intervention,F7_No TBI_32,Sham,0,,F7B,F7B:20-21,20-21,6,15,180
+Fig8,pre-intervention,F7_No TBI_33,Sham,0,,F7B,F7B:20-21,20-21,6,0,180
+Fig8,pre-intervention,F7_No TBI_34,Sham,0,,F7B,F7B:20-21,20-21,6,1,180
+Fig8,pre-intervention,F7_No TBI_35,Sham,0,,F7B,F7B:20-21,20-21,6,22,180
+Fig8,pre-intervention,F7_No TBI_36,Sham,0,,F7B,F7B:20-21,20-21,6,2,180
+Fig8,pre-intervention,F7_No TBI_37,Sham,0,,F7B,F7B:20-21,20-21,6,15,180
+Fig8,pre-intervention,F7_No TBI_38,Sham,0,,F7B,F7B:20-21,20-21,6,14,180
+Fig8,pre-intervention,F7_No TBI_39,Sham,0,,F7B,F7B:20-21,20-21,6,7,180
+Fig8,pre-intervention,F7_No TBI_4,Sham,0,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_40,Sham,0,,F7B,F7B:20-21,20-21,6,6,180
+Fig8,pre-intervention,F7_No TBI_41,Sham,0,,F7B,F7B:20-21,20-21,6,1,180
+Fig8,pre-intervention,F7_No TBI_42,Sham,0,,F7B,F7B:20-21,20-21,6,1,180
+Fig8,pre-intervention,F7_No TBI_43,Sham,0,,F7B,F7B:20-21,20-21,6,2,180
+Fig8,pre-intervention,F7_No TBI_44,Sham,0,,F7B,F7B:20-21,20-21,6,19,180
+Fig8,pre-intervention,F7_No TBI_45,Sham,0,,F7B,F7B:20-21,20-21,6,5,180
+Fig8,pre-intervention,F7_No TBI_46,Sham,0,,F7B,F7B:20-21,20-21,6,8,180
+Fig8,pre-intervention,F7_No TBI_47,Sham,0,,F7B,F7B:20-21,20-21,6,4,180
+Fig8,pre-intervention,F7_No TBI_5,Sham,0,,F7A,F7A:20-21,20-21,6,48,120
+Fig8,pre-intervention,F7_No TBI_6,Sham,0,,F7A,F7A:20-21,20-21,6,6,120
+Fig8,pre-intervention,F7_No TBI_7,Sham,0,,F7A,F7A:20-21,20-21,6,1,120
+Fig8,pre-intervention,F7_No TBI_8,Sham,0,,F7A,F7A:20-21,20-21,6,3,120
+Fig8,pre-intervention,F7_No TBI_9,Sham,0,,F7A,F7A:20-21,20-21,6,3,120
+Fig8,pre-intervention,F7_TBI_0,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_TBI_1,TBI,1,,F7A,F7A:20-21,20-21,6,11,120
+Fig8,pre-intervention,F7_TBI_10,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_TBI_11,TBI,1,,F7A,F7A:20-21,20-21,6,14,120
+Fig8,pre-intervention,F7_TBI_12,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_13,TBI,1,,F7A,F7A:20-21,20-21,6,67,120
+Fig8,pre-intervention,F7_TBI_14,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_15,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_TBI_16,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_17,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_18,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_TBI_19,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_2,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_20,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_TBI_21,TBI,1,,F7A,F7A:20-21,20-21,6,4,120
+Fig8,pre-intervention,F7_TBI_22,TBI,1,,F7A,F7A:20-21,20-21,6,5,120
+Fig8,pre-intervention,F7_TBI_24,TBI,1,,F7B,F7B:20-21,20-21,6,2,180
+Fig8,pre-intervention,F7_TBI_25,TBI,1,,F7B,F7B:20-21,20-21,6,9,180
+Fig8,pre-intervention,F7_TBI_26,TBI,1,,F7B,F7B:20-21,20-21,6,4,180
+Fig8,pre-intervention,F7_TBI_27,TBI,1,,F7B,F7B:20-21,20-21,6,1,180
+Fig8,pre-intervention,F7_TBI_28,TBI,1,,F7B,F7B:20-21,20-21,6,26,180
+Fig8,pre-intervention,F7_TBI_29,TBI,1,,F7B,F7B:20-21,20-21,6,26,180
+Fig8,pre-intervention,F7_TBI_3,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_30,TBI,1,,F7B,F7B:20-21,20-21,6,6,180
+Fig8,pre-intervention,F7_TBI_31,TBI,1,,F7B,F7B:20-21,20-21,6,23,180
+Fig8,pre-intervention,F7_TBI_32,TBI,1,,F7B,F7B:20-21,20-21,6,13,180
+Fig8,pre-intervention,F7_TBI_33,TBI,1,,F7B,F7B:20-21,20-21,6,3,180
+Fig8,pre-intervention,F7_TBI_34,TBI,1,,F7B,F7B:20-21,20-21,6,4,180
+Fig8,pre-intervention,F7_TBI_35,TBI,1,,F7B,F7B:20-21,20-21,6,8,180
+Fig8,pre-intervention,F7_TBI_36,TBI,1,,F7B,F7B:20-21,20-21,6,1,180
+Fig8,pre-intervention,F7_TBI_37,TBI,1,,F7B,F7B:20-21,20-21,6,25,180
+Fig8,pre-intervention,F7_TBI_38,TBI,1,,F7B,F7B:20-21,20-21,6,14,180
+Fig8,pre-intervention,F7_TBI_39,TBI,1,,F7B,F7B:20-21,20-21,6,2,180
+Fig8,pre-intervention,F7_TBI_4,TBI,1,,F7A,F7A:20-21,20-21,6,2,120
+Fig8,pre-intervention,F7_TBI_40,TBI,1,,F7B,F7B:20-21,20-21,6,14,180
+Fig8,pre-intervention,F7_TBI_41,TBI,1,,F7B,F7B:20-21,20-21,6,8,180
+Fig8,pre-intervention,F7_TBI_42,TBI,1,,F7B,F7B:20-21,20-21,6,24,180
+Fig8,pre-intervention,F7_TBI_43,TBI,1,,F7B,F7B:20-21,20-21,6,1,180
+Fig8,pre-intervention,F7_TBI_44,TBI,1,,F7B,F7B:20-21,20-21,6,0,180
+Fig8,pre-intervention,F7_TBI_45,TBI,1,,F7B,F7B:20-21,20-21,6,6,180
+Fig8,pre-intervention,F7_TBI_46,TBI,1,,F7B,F7B:20-21,20-21,6,10,180
+Fig8,pre-intervention,F7_TBI_47,TBI,1,,F7B,F7B:20-21,20-21,6,6,180
+Fig8,pre-intervention,F7_TBI_5,TBI,1,,F7A,F7A:20-21,20-21,6,42,120
+Fig8,pre-intervention,F7_TBI_6,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_TBI_7,TBI,1,,F7A,F7A:20-21,20-21,6,1,120
+Fig8,pre-intervention,F7_TBI_8,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_TBI_9,TBI,1,,F7A,F7A:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_0,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_1,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_10,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_11,Sham,0,,X,X:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_No TBI_12,Sham,0,,X,X:20-21,20-21,6,18,120
+Fig8,pre-intervention,F8_No TBI_13,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_14,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_15,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_16,Sham,0,,X,X:20-21,20-21,6,7,120
+Fig8,pre-intervention,F8_No TBI_17,Sham,0,,X,X:20-21,20-21,6,36,120
+Fig8,pre-intervention,F8_No TBI_18,Sham,0,,X,X:20-21,20-21,6,11,120
+Fig8,pre-intervention,F8_No TBI_19,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_2,Sham,0,,X,X:20-21,20-21,6,19,120
+Fig8,pre-intervention,F8_No TBI_20,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_21,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_22,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_23,Sham,0,,X,X:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_No TBI_24,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_25,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_26,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_27,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_28,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_29,Sham,0,,X,X:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_No TBI_3,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_30,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_31,Sham,0,,X,X:20-21,20-21,6,8,120
+Fig8,pre-intervention,F8_No TBI_32,Sham,0,,X,X:20-21,20-21,6,11,120
+Fig8,pre-intervention,F8_No TBI_33,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_34,Sham,0,,X,X:20-21,20-21,6,8,120
+Fig8,pre-intervention,F8_No TBI_35,Sham,0,,X,X:20-21,20-21,6,34,120
+Fig8,pre-intervention,F8_No TBI_36,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_37,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_38,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_39,Sham,0,,X,X:20-21,20-21,6,5,120
+Fig8,pre-intervention,F8_No TBI_4,Sham,0,,X,X:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_No TBI_40,Sham,0,,X,X:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_No TBI_41,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_42,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_43,Sham,0,,X,X:20-21,20-21,6,7,120
+Fig8,pre-intervention,F8_No TBI_44,Sham,0,,X,X:20-21,20-21,6,23,120
+Fig8,pre-intervention,F8_No TBI_45,Sham,0,,X,X:20-21,20-21,6,36,120
+Fig8,pre-intervention,F8_No TBI_46,Sham,0,,X,X:20-21,20-21,6,25,120
+Fig8,pre-intervention,F8_No TBI_47,Sham,0,,Y,Y:20-21,20-21,6,8,120
+Fig8,pre-intervention,F8_No TBI_48,Sham,0,,Y,Y:20-21,20-21,6,36,120
+Fig8,pre-intervention,F8_No TBI_49,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_5,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_50,Sham,0,,Y,Y:20-21,20-21,6,8,120
+Fig8,pre-intervention,F8_No TBI_51,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_52,Sham,0,,Y,Y:20-21,20-21,6,120,120
+Fig8,pre-intervention,F8_No TBI_53,Sham,0,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_No TBI_54,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_55,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_56,Sham,0,,Y,Y:20-21,20-21,6,4,120
+Fig8,pre-intervention,F8_No TBI_57,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_58,Sham,0,,Y,Y:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_No TBI_59,Sham,0,,Y,Y:20-21,20-21,6,30,120
+Fig8,pre-intervention,F8_No TBI_6,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_60,Sham,0,,Y,Y:20-21,20-21,6,6,120
+Fig8,pre-intervention,F8_No TBI_61,Sham,0,,Y,Y:20-21,20-21,6,3,120
+Fig8,pre-intervention,F8_No TBI_62,Sham,0,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_No TBI_63,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_64,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_65,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_66,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_67,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_68,Sham,0,,Y,Y:20-21,20-21,6,13,120
+Fig8,pre-intervention,F8_No TBI_69,Sham,0,,Y,Y:20-21,20-21,6,3,120
+Fig8,pre-intervention,F8_No TBI_7,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_70,Sham,0,,Y,Y:20-21,20-21,6,13,120
+Fig8,pre-intervention,F8_No TBI_71,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_72,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_73,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_74,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_75,Sham,0,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_No TBI_76,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_77,Sham,0,,Y,Y:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_No TBI_78,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_79,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_8,Sham,0,,X,X:20-21,20-21,6,27,120
+Fig8,pre-intervention,F8_No TBI_80,Sham,0,,Y,Y:20-21,20-21,6,8,120
+Fig8,pre-intervention,F8_No TBI_81,Sham,0,,Y,Y:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_No TBI_82,Sham,0,,Y,Y:20-21,20-21,6,5,120
+Fig8,pre-intervention,F8_No TBI_83,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_84,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_85,Sham,0,,Y,Y:20-21,20-21,6,8,120
+Fig8,pre-intervention,F8_No TBI_86,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_87,Sham,0,,Y,Y:20-21,20-21,6,8,120
+Fig8,pre-intervention,F8_No TBI_88,Sham,0,,Y,Y:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_No TBI_89,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_9,Sham,0,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_90,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_91,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_No TBI_92,Sham,0,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_No TBI_93,Sham,0,,Y,Y:20-21,20-21,6,7,120
+Fig8,pre-intervention,F8_No TBI_94,Sham,0,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_0,TBI,1,,X,X:20-21,20-21,6,32,120
+Fig8,pre-intervention,F8_TBI_1,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_10,TBI,1,,X,X:20-21,20-21,6,6,120
+Fig8,pre-intervention,F8_TBI_11,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_12,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_13,TBI,1,,X,X:20-21,20-21,6,26,120
+Fig8,pre-intervention,F8_TBI_14,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_15,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_16,TBI,1,,X,X:20-21,20-21,6,5,120
+Fig8,pre-intervention,F8_TBI_17,TBI,1,,X,X:20-21,20-21,6,3,120
+Fig8,pre-intervention,F8_TBI_18,TBI,1,,X,X:20-21,20-21,6,30,120
+Fig8,pre-intervention,F8_TBI_19,TBI,1,,X,X:20-21,20-21,6,76,120
+Fig8,pre-intervention,F8_TBI_2,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_20,TBI,1,,X,X:20-21,20-21,6,12,120
+Fig8,pre-intervention,F8_TBI_21,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_22,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_23,TBI,1,,X,X:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_24,TBI,1,,X,X:20-21,20-21,6,29,120
+Fig8,pre-intervention,F8_TBI_25,TBI,1,,X,X:20-21,20-21,6,43,120
+Fig8,pre-intervention,F8_TBI_26,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_27,TBI,1,,X,X:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_28,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_29,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_3,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_30,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_31,TBI,1,,X,X:20-21,20-21,6,25,120
+Fig8,pre-intervention,F8_TBI_32,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_33,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_34,TBI,1,,X,X:20-21,20-21,6,17,120
+Fig8,pre-intervention,F8_TBI_35,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_36,TBI,1,,X,X:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_4,TBI,1,,X,X:20-21,20-21,6,35,120
+Fig8,pre-intervention,F8_TBI_48,TBI,1,,Y,Y:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_TBI_49,TBI,1,,Y,Y:20-21,20-21,6,19,120
+Fig8,pre-intervention,F8_TBI_5,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_50,TBI,1,,Y,Y:20-21,20-21,6,7,120
+Fig8,pre-intervention,F8_TBI_51,TBI,1,,Y,Y:20-21,20-21,6,11,120
+Fig8,pre-intervention,F8_TBI_52,TBI,1,,Y,Y:20-21,20-21,6,57,120
+Fig8,pre-intervention,F8_TBI_53,TBI,1,,Y,Y:20-21,20-21,6,7,120
+Fig8,pre-intervention,F8_TBI_54,TBI,1,,Y,Y:20-21,20-21,6,2,120
+Fig8,pre-intervention,F8_TBI_55,TBI,1,,Y,Y:20-21,20-21,6,16,120
+Fig8,pre-intervention,F8_TBI_56,TBI,1,,Y,Y:20-21,20-21,6,14,120
+Fig8,pre-intervention,F8_TBI_57,TBI,1,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_58,TBI,1,,Y,Y:20-21,20-21,6,7,120
+Fig8,pre-intervention,F8_TBI_59,TBI,1,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_6,TBI,1,,X,X:20-21,20-21,6,4,120
+Fig8,pre-intervention,F8_TBI_60,TBI,1,,Y,Y:20-21,20-21,6,10,120
+Fig8,pre-intervention,F8_TBI_61,TBI,1,,Y,Y:20-21,20-21,6,4,120
+Fig8,pre-intervention,F8_TBI_62,TBI,1,,Y,Y:20-21,20-21,6,11,120
+Fig8,pre-intervention,F8_TBI_63,TBI,1,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_64,TBI,1,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_65,TBI,1,,Y,Y:20-21,20-21,6,88,120
+Fig8,pre-intervention,F8_TBI_66,TBI,1,,Y,Y:20-21,20-21,6,79,120
+Fig8,pre-intervention,F8_TBI_67,TBI,1,,Y,Y:20-21,20-21,6,11,120
+Fig8,pre-intervention,F8_TBI_68,TBI,1,,Y,Y:20-21,20-21,6,5,120
+Fig8,pre-intervention,F8_TBI_69,TBI,1,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_7,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_70,TBI,1,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_71,TBI,1,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_72,TBI,1,,Y,Y:20-21,20-21,6,4,120
+Fig8,pre-intervention,F8_TBI_73,TBI,1,,Y,Y:20-21,20-21,6,17,120
+Fig8,pre-intervention,F8_TBI_74,TBI,1,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_75,TBI,1,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_76,TBI,1,,Y,Y:20-21,20-21,6,41,120
+Fig8,pre-intervention,F8_TBI_77,TBI,1,,Y,Y:20-21,20-21,6,68,120
+Fig8,pre-intervention,F8_TBI_78,TBI,1,,Y,Y:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_79,TBI,1,,Y,Y:20-21,20-21,6,16,120
+Fig8,pre-intervention,F8_TBI_8,TBI,1,,X,X:20-21,20-21,6,1,120
+Fig8,pre-intervention,F8_TBI_80,TBI,1,,Y,Y:20-21,20-21,6,13,120
+Fig8,pre-intervention,F8_TBI_81,TBI,1,,Y,Y:20-21,20-21,6,0,120
+Fig8,pre-intervention,F8_TBI_82,TBI,1,,Y,Y:20-21,20-21,6,5,120
+Fig8,pre-intervention,F8_TBI_83,TBI,1,,Y,Y:20-21,20-21,6,3,120
+Fig8,pre-intervention,F8_TBI_84,TBI,1,,Y,Y:20-21,20-21,6,30,120
+Fig8,pre-intervention,F8_TBI_9,TBI,1,,X,X:20-21,20-21,6,0,120
+Fig8,pre-intervention,F7_No TBI_0,Sham,0,,F7A,F7A:24-25,24-25,7,3,120
+Fig8,pre-intervention,F7_No TBI_1,Sham,0,,F7A,F7A:24-25,24-25,7,2,120
+Fig8,pre-intervention,F7_No TBI_10,Sham,0,,F7A,F7A:24-25,24-25,7,4,120
+Fig8,pre-intervention,F7_No TBI_11,Sham,0,,F7A,F7A:24-25,24-25,7,9,120
+Fig8,pre-intervention,F7_No TBI_12,Sham,0,,F7A,F7A:24-25,24-25,7,8,120
+Fig8,pre-intervention,F7_No TBI_13,Sham,0,,F7A,F7A:24-25,24-25,7,3,120
+Fig8,pre-intervention,F7_No TBI_14,Sham,0,,F7A,F7A:24-25,24-25,7,2,120
+Fig8,pre-intervention,F7_No TBI_15,Sham,0,,F7A,F7A:24-25,24-25,7,14,120
+Fig8,pre-intervention,F7_No TBI_16,Sham,0,,F7A,F7A:24-25,24-25,7,10,120
+Fig8,pre-intervention,F7_No TBI_17,Sham,0,,F7A,F7A:24-25,24-25,7,9,120
+Fig8,pre-intervention,F7_No TBI_18,Sham,0,,F7A,F7A:24-25,24-25,7,8,120
+Fig8,pre-intervention,F7_No TBI_19,Sham,0,,F7A,F7A:24-25,24-25,7,18,120
+Fig8,pre-intervention,F7_No TBI_2,Sham,0,,F7A,F7A:24-25,24-25,7,9,120
+Fig8,pre-intervention,F7_No TBI_20,Sham,0,,F7A,F7A:24-25,24-25,7,1,120
+Fig8,pre-intervention,F7_No TBI_21,Sham,0,,F7A,F7A:24-25,24-25,7,22,120
+Fig8,pre-intervention,F7_No TBI_22,Sham,0,,F7A,F7A:24-25,24-25,7,0,120
+Fig8,pre-intervention,F7_No TBI_23,Sham,0,,F7A,F7A:24-25,24-25,7,1,120
+Fig8,pre-intervention,F7_No TBI_3,Sham,0,,F7A,F7A:24-25,24-25,7,0,120
+Fig8,pre-intervention,F7_No TBI_4,Sham,0,,F7A,F7A:24-25,24-25,7,2,120
+Fig8,pre-intervention,F7_No TBI_5,Sham,0,,F7A,F7A:24-25,24-25,7,4,120
+Fig8,pre-intervention,F7_No TBI_6,Sham,0,,F7A,F7A:24-25,24-25,7,8,120
+Fig8,pre-intervention,F7_No TBI_7,Sham,0,,F7A,F7A:24-25,24-25,7,4,120
+Fig8,pre-intervention,F7_No TBI_8,Sham,0,,F7A,F7A:24-25,24-25,7,0,120
+Fig8,pre-intervention,F7_No TBI_9,Sham,0,,F7A,F7A:24-25,24-25,7,4,120
+Fig8,pre-intervention,F7_TBI_0,TBI,1,,F7A,F7A:24-25,24-25,7,5,120
+Fig8,pre-intervention,F7_TBI_1,TBI,1,,F7A,F7A:24-25,24-25,7,45,120
+Fig8,pre-intervention,F7_TBI_10,TBI,1,,F7A,F7A:24-25,24-25,7,30,120
+Fig8,pre-intervention,F7_TBI_11,TBI,1,,F7A,F7A:24-25,24-25,7,34,120
+Fig8,pre-intervention,F7_TBI_12,TBI,1,,F7A,F7A:24-25,24-25,7,10,120
+Fig8,pre-intervention,F7_TBI_13,TBI,1,,F7A,F7A:24-25,24-25,7,29,120
+Fig8,pre-intervention,F7_TBI_14,TBI,1,,F7A,F7A:24-25,24-25,7,2,120
+Fig8,pre-intervention,F7_TBI_15,TBI,1,,F7A,F7A:24-25,24-25,7,14,120
+Fig8,pre-intervention,F7_TBI_16,TBI,1,,F7A,F7A:24-25,24-25,7,9,120
+Fig8,pre-intervention,F7_TBI_17,TBI,1,,F7A,F7A:24-25,24-25,7,19,120
+Fig8,pre-intervention,F7_TBI_18,TBI,1,,F7A,F7A:24-25,24-25,7,3,120
+Fig8,pre-intervention,F7_TBI_19,TBI,1,,F7A,F7A:24-25,24-25,7,11,120
+Fig8,pre-intervention,F7_TBI_2,TBI,1,,F7A,F7A:24-25,24-25,7,1,120
+Fig8,pre-intervention,F7_TBI_20,TBI,1,,F7A,F7A:24-25,24-25,7,0,120
+Fig8,pre-intervention,F7_TBI_21,TBI,1,,F7A,F7A:24-25,24-25,7,0,120
+Fig8,pre-intervention,F7_TBI_22,TBI,1,,F7A,F7A:24-25,24-25,7,25,120
+Fig8,pre-intervention,F7_TBI_23,TBI,1,,F7A,F7A:24-25,24-25,7,2,120
+Fig8,pre-intervention,F7_TBI_3,TBI,1,,F7A,F7A:24-25,24-25,7,4,120
+Fig8,pre-intervention,F7_TBI_4,TBI,1,,F7A,F7A:24-25,24-25,7,9,120
+Fig8,pre-intervention,F7_TBI_5,TBI,1,,F7A,F7A:24-25,24-25,7,68,120
+Fig8,pre-intervention,F7_TBI_6,TBI,1,,F7A,F7A:24-25,24-25,7,6,120
+Fig8,pre-intervention,F7_TBI_7,TBI,1,,F7A,F7A:24-25,24-25,7,5,120
+Fig8,pre-intervention,F7_TBI_8,TBI,1,,F7A,F7A:24-25,24-25,7,50,120
+Fig8,pre-intervention,F7_TBI_9,TBI,1,,F7A,F7A:24-25,24-25,7,14,120
+Fig8,pre-intervention,F8_No TBI_0,Sham,0,,X,X:24-25,24-25,7,16,120
+Fig8,pre-intervention,F8_No TBI_1,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_10,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_11,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_12,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_13,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_14,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_15,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_16,Sham,0,,X,X:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_17,Sham,0,,X,X:24-25,24-25,7,97,120
+Fig8,pre-intervention,F8_No TBI_18,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_19,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_2,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_20,Sham,0,,X,X:24-25,24-25,7,6,120
+Fig8,pre-intervention,F8_No TBI_21,Sham,0,,X,X:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_22,Sham,0,,X,X:24-25,24-25,7,77,120
+Fig8,pre-intervention,F8_No TBI_23,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_24,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_25,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_26,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_27,Sham,0,,X,X:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_28,Sham,0,,X,X:24-25,24-25,7,16,120
+Fig8,pre-intervention,F8_No TBI_29,Sham,0,,X,X:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_No TBI_3,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_30,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_31,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_32,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_33,Sham,0,,X,X:24-25,24-25,7,3,120
+Fig8,pre-intervention,F8_No TBI_34,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_35,Sham,0,,X,X:24-25,24-25,7,17,120
+Fig8,pre-intervention,F8_No TBI_36,Sham,0,,X,X:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_No TBI_37,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_38,Sham,0,,X,X:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_39,Sham,0,,X,X:24-25,24-25,7,3,120
+Fig8,pre-intervention,F8_No TBI_4,Sham,0,,X,X:24-25,24-25,7,19,120
+Fig8,pre-intervention,F8_No TBI_40,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_41,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_42,Sham,0,,X,X:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_43,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_44,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_45,Sham,0,,X,X:24-25,24-25,7,4,120
+Fig8,pre-intervention,F8_No TBI_46,Sham,0,,X,X:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_47,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_48,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_49,Sham,0,,Y,Y:24-25,24-25,7,4,120
+Fig8,pre-intervention,F8_No TBI_5,Sham,0,,X,X:24-25,24-25,7,8,120
+Fig8,pre-intervention,F8_No TBI_50,Sham,0,,Y,Y:24-25,24-25,7,14,120
+Fig8,pre-intervention,F8_No TBI_51,Sham,0,,Y,Y:24-25,24-25,7,14,120
+Fig8,pre-intervention,F8_No TBI_52,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_53,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_54,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_55,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_56,Sham,0,,Y,Y:24-25,24-25,7,20,120
+Fig8,pre-intervention,F8_No TBI_57,Sham,0,,Y,Y:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_58,Sham,0,,Y,Y:24-25,24-25,7,8,120
+Fig8,pre-intervention,F8_No TBI_59,Sham,0,,Y,Y:24-25,24-25,7,11,120
+Fig8,pre-intervention,F8_No TBI_6,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_60,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_61,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_62,Sham,0,,Y,Y:24-25,24-25,7,7,120
+Fig8,pre-intervention,F8_No TBI_63,Sham,0,,Y,Y:24-25,24-25,7,3,120
+Fig8,pre-intervention,F8_No TBI_64,Sham,0,,Y,Y:24-25,24-25,7,7,120
+Fig8,pre-intervention,F8_No TBI_65,Sham,0,,Y,Y:24-25,24-25,7,5,120
+Fig8,pre-intervention,F8_No TBI_66,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_67,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_68,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_69,Sham,0,,Y,Y:24-25,24-25,7,8,120
+Fig8,pre-intervention,F8_No TBI_7,Sham,0,,X,X:24-25,24-25,7,4,120
+Fig8,pre-intervention,F8_No TBI_70,Sham,0,,Y,Y:24-25,24-25,7,99,120
+Fig8,pre-intervention,F8_No TBI_71,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_72,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_73,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_74,Sham,0,,Y,Y:24-25,24-25,7,8,120
+Fig8,pre-intervention,F8_No TBI_75,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_76,Sham,0,,Y,Y:24-25,24-25,7,8,120
+Fig8,pre-intervention,F8_No TBI_77,Sham,0,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_No TBI_78,Sham,0,,Y,Y:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_79,Sham,0,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_No TBI_8,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_80,Sham,0,,Y,Y:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_No TBI_81,Sham,0,,Y,Y:24-25,24-25,7,35,120
+Fig8,pre-intervention,F8_No TBI_82,Sham,0,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_No TBI_83,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_84,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_85,Sham,0,,Y,Y:24-25,24-25,7,17,120
+Fig8,pre-intervention,F8_No TBI_86,Sham,0,,Y,Y:24-25,24-25,7,3,120
+Fig8,pre-intervention,F8_No TBI_87,Sham,0,,Y,Y:24-25,24-25,7,4,120
+Fig8,pre-intervention,F8_No TBI_88,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_89,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_9,Sham,0,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_90,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_91,Sham,0,,Y,Y:24-25,24-25,7,3,120
+Fig8,pre-intervention,F8_No TBI_92,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_93,Sham,0,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_No TBI_94,Sham,0,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_0,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_1,TBI,1,,X,X:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_10,TBI,1,,X,X:24-25,24-25,7,30,120
+Fig8,pre-intervention,F8_TBI_11,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_12,TBI,1,,X,X:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_TBI_13,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_14,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_15,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_16,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_17,TBI,1,,X,X:24-25,24-25,7,22,120
+Fig8,pre-intervention,F8_TBI_18,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_19,TBI,1,,X,X:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_2,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_20,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_21,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_22,TBI,1,,X,X:24-25,24-25,7,18,120
+Fig8,pre-intervention,F8_TBI_23,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_24,TBI,1,,X,X:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_25,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_26,TBI,1,,X,X:24-25,24-25,7,12,120
+Fig8,pre-intervention,F8_TBI_27,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_28,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_29,TBI,1,,X,X:24-25,24-25,7,15,120
+Fig8,pre-intervention,F8_TBI_3,TBI,1,,X,X:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_30,TBI,1,,X,X:24-25,24-25,7,3,120
+Fig8,pre-intervention,F8_TBI_31,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_32,TBI,1,,X,X:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_33,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_34,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_35,TBI,1,,X,X:24-25,24-25,7,9,120
+Fig8,pre-intervention,F8_TBI_4,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_48,TBI,1,,Y,Y:24-25,24-25,7,20,120
+Fig8,pre-intervention,F8_TBI_49,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_5,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_50,TBI,1,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_51,TBI,1,,Y,Y:24-25,24-25,7,6,120
+Fig8,pre-intervention,F8_TBI_52,TBI,1,,Y,Y:24-25,24-25,7,7,120
+Fig8,pre-intervention,F8_TBI_53,TBI,1,,Y,Y:24-25,24-25,7,12,120
+Fig8,pre-intervention,F8_TBI_54,TBI,1,,Y,Y:24-25,24-25,7,103,120
+Fig8,pre-intervention,F8_TBI_55,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_56,TBI,1,,Y,Y:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_TBI_57,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_58,TBI,1,,Y,Y:24-25,24-25,7,10,120
+Fig8,pre-intervention,F8_TBI_59,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_6,TBI,1,,X,X:24-25,24-25,7,9,120
+Fig8,pre-intervention,F8_TBI_60,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_61,TBI,1,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_62,TBI,1,,Y,Y:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_TBI_63,TBI,1,,Y,Y:24-25,24-25,7,7,120
+Fig8,pre-intervention,F8_TBI_64,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_65,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_66,TBI,1,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_67,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_68,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_69,TBI,1,,Y,Y:24-25,24-25,7,2,120
+Fig8,pre-intervention,F8_TBI_7,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_70,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_71,TBI,1,,Y,Y:24-25,24-25,7,9,120
+Fig8,pre-intervention,F8_TBI_72,TBI,1,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_73,TBI,1,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_74,TBI,1,,Y,Y:24-25,24-25,7,56,120
+Fig8,pre-intervention,F8_TBI_75,TBI,1,,Y,Y:24-25,24-25,7,8,120
+Fig8,pre-intervention,F8_TBI_76,TBI,1,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_77,TBI,1,,Y,Y:24-25,24-25,7,13,120
+Fig8,pre-intervention,F8_TBI_78,TBI,1,,Y,Y:24-25,24-25,7,3,120
+Fig8,pre-intervention,F8_TBI_79,TBI,1,,Y,Y:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_8,TBI,1,,X,X:24-25,24-25,7,0,120
+Fig8,pre-intervention,F8_TBI_80,TBI,1,,Y,Y:24-25,24-25,7,1,120
+Fig8,pre-intervention,F8_TBI_81,TBI,1,,Y,Y:24-25,24-25,7,13,120
+Fig8,pre-intervention,F8_TBI_82,TBI,1,,Y,Y:24-25,24-25,7,4,120
+Fig8,pre-intervention,F8_TBI_9,TBI,1,,X,X:24-25,24-25,7,23,120

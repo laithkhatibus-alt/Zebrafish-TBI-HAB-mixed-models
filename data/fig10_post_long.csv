@@ -1,0 +1,1711 @@
+experiment,segment,larva,group,tbi,drug,plate,session,tp,tp_order,count,bins
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,24-25,24-25,1,15,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,24-25,24-25,1,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,24-25,24-25,1,19,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,24-25,24-25,1,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,24-25,24-25,1,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,24-25,24-25,1,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,24-25,24-25,1,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,24-25,24-25,1,20,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,24-25,24-25,1,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,24-25,24-25,1,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,24-25,24-25,1,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,24-25,24-25,1,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,24-25,24-25,1,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,24-25,24-25,1,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,24-25,24-25,1,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,24-25,24-25,1,45,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,24-25,24-25,1,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,24-25,24-25,1,25,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,24-25,24-25,1,111,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,24-25,24-25,1,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,24-25,24-25,1,42,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,24-25,24-25,1,20,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,24-25,24-25,1,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,24-25,24-25,1,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,24-25,24-25,1,27,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,24-25,24-25,1,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,24-25,24-25,1,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,24-25,24-25,1,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,24-25,24-25,1,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,24-25,24-25,1,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,24-25,24-25,1,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,24-25,24-25,1,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,24-25,24-25,1,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,24-25,24-25,1,34,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,24-25,24-25,1,44,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,24-25,24-25,1,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,24-25,24-25,1,114,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,24-25,24-25,1,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,24-25,24-25,1,37,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,24-25,24-25,1,32,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,24-25,24-25,1,30,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,24-25,24-25,1,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,24-25,24-25,1,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,24-25,24-25,1,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,24-25,24-25,1,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,24-25,24-25,1,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,24-25,24-25,1,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,24-25,24-25,1,109,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,24-25,24-25,1,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,24-25,24-25,1,32,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,24-25,24-25,1,84,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,24-25,24-25,1,63,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,24-25,24-25,1,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,24-25,24-25,1,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,24-25,24-25,1,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,24-25,24-25,1,75,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,24-25,24-25,1,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,24-25,24-25,1,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,24-25,24-25,1,31,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,24-25,24-25,1,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,24-25,24-25,1,19,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,24-25,24-25,1,48,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,24-25,24-25,1,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,24-25,24-25,1,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,24-25,24-25,1,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,24-25,24-25,1,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,24-25,24-25,1,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,24-25,24-25,1,19,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,24-25,24-25,1,26,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,24-25,24-25,1,15,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,24-25,24-25,1,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,24-25,24-25,1,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,24-25,24-25,1,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,24-25,24-25,1,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,24-25,24-25,1,23,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,24-25,24-25,1,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,24-25,24-25,1,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,24-25,24-25,1,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,24-25,24-25,1,20,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,24-25,24-25,1,20,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,24-25,24-25,1,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,24-25,24-25,1,19,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,24-25,24-25,1,58,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,24-25,24-25,1,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,24-25,24-25,1,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,24-25,24-25,1,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,24-25,24-25,1,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,24-25,24-25,1,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,24-25,24-25,1,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,28-29,28-29,2,21,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,28-29,28-29,2,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,28-29,28-29,2,25,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,28-29,28-29,2,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,28-29,28-29,2,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,28-29,28-29,2,15,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,28-29,28-29,2,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,28-29,28-29,2,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,28-29,28-29,2,11,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,28-29,28-29,2,11,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,28-29,28-29,2,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,28-29,28-29,2,15,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,28-29,28-29,2,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,28-29,28-29,2,32,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,28-29,28-29,2,93,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,28-29,28-29,2,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,28-29,28-29,2,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,28-29,28-29,2,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,28-29,28-29,2,17,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,28-29,28-29,2,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,28-29,28-29,2,19,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,28-29,28-29,2,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,28-29,28-29,2,26,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,28-29,28-29,2,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,28-29,28-29,2,21,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,28-29,28-29,2,40,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,28-29,28-29,2,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,28-29,28-29,2,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,28-29,28-29,2,66,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,28-29,28-29,2,17,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,28-29,28-29,2,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,28-29,28-29,2,23,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,28-29,28-29,2,119,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,28-29,28-29,2,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,28-29,28-29,2,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,28-29,28-29,2,87,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,28-29,28-29,2,19,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,28-29,28-29,2,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,28-29,28-29,2,16,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,28-29,28-29,2,27,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,28-29,28-29,2,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,28-29,28-29,2,92,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,28-29,28-29,2,79,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,28-29,28-29,2,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,28-29,28-29,2,55,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,28-29,28-29,2,33,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,28-29,28-29,2,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,28-29,28-29,2,21,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,28-29,28-29,2,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,28-29,28-29,2,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,28-29,28-29,2,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,28-29,28-29,2,15,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,28-29,28-29,2,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,28-29,28-29,2,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,28-29,28-29,2,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,28-29,28-29,2,52,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,28-29,28-29,2,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,28-29,28-29,2,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,28-29,28-29,2,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,28-29,28-29,2,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,28-29,28-29,2,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,28-29,28-29,2,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,28-29,28-29,2,64,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,28-29,28-29,2,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,28-29,28-29,2,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,28-29,28-29,2,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,28-29,28-29,2,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,28-29,28-29,2,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,28-29,28-29,2,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,31-32,31-32,3,21,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,31-32,31-32,3,19,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,31-32,31-32,3,18,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,31-32,31-32,3,17,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,31-32,31-32,3,27,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,31-32,31-32,3,90,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,31-32,31-32,3,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,31-32,31-32,3,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,31-32,31-32,3,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,31-32,31-32,3,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,31-32,31-32,3,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,31-32,31-32,3,37,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,31-32,31-32,3,21,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,31-32,31-32,3,29,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,31-32,31-32,3,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,31-32,31-32,3,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,31-32,31-32,3,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,31-32,31-32,3,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,31-32,31-32,3,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,31-32,31-32,3,75,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,31-32,31-32,3,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,31-32,31-32,3,73,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,31-32,31-32,3,14,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,31-32,31-32,3,18,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,31-32,31-32,3,41,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,31-32,31-32,3,21,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,31-32,31-32,3,74,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,31-32,31-32,3,26,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,31-32,31-32,3,16,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,31-32,31-32,3,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,31-32,31-32,3,17,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,31-32,31-32,3,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,31-32,31-32,3,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,31-32,31-32,3,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,31-32,31-32,3,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,31-32,31-32,3,40,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,31-32,31-32,3,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,31-32,31-32,3,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,31-32,31-32,3,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,31-32,31-32,3,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,31-32,31-32,3,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,31-32,31-32,3,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,31-32,31-32,3,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,31-32,31-32,3,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,31-32,31-32,3,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,36-37,36-37,4,12,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,36-37,36-37,4,23,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,36-37,36-37,4,12,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,36-37,36-37,4,26,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,36-37,36-37,4,15,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,36-37,36-37,4,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,36-37,36-37,4,17,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,36-37,36-37,4,18,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,36-37,36-37,4,31,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,36-37,36-37,4,12,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,36-37,36-37,4,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,36-37,36-37,4,37,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,36-37,36-37,4,19,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,36-37,36-37,4,20,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,36-37,36-37,4,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,36-37,36-37,4,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,36-37,36-37,4,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,36-37,36-37,4,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,36-37,36-37,4,19,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,36-37,36-37,4,18,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,36-37,36-37,4,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,36-37,36-37,4,52,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,36-37,36-37,4,20,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,36-37,36-37,4,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,36-37,36-37,4,21,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,36-37,36-37,4,15,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,36-37,36-37,4,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,36-37,36-37,4,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,36-37,36-37,4,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,36-37,36-37,4,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,36-37,36-37,4,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,36-37,36-37,4,14,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,36-37,36-37,4,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,36-37,36-37,4,22,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,36-37,36-37,4,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,36-37,36-37,4,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,36-37,36-37,4,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,36-37,36-37,4,21,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,36-37,36-37,4,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,36-37,36-37,4,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,36-37,36-37,4,17,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,36-37,36-37,4,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,36-37,36-37,4,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,36-37,36-37,4,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,36-37,36-37,4,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,36-37,36-37,4,15,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,36-37,36-37,4,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,36-37,36-37,4,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,36-37,36-37,4,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,36-37,36-37,4,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,36-37,36-37,4,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,36-37,36-37,4,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,40-41,40-41,5,30,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,40-41,40-41,5,17,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,40-41,40-41,5,54,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,40-41,40-41,5,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,40-41,40-41,5,115,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,40-41,40-41,5,13,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,40-41,40-41,5,25,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,40-41,40-41,5,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,40-41,40-41,5,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,40-41,40-41,5,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,40-41,40-41,5,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,40-41,40-41,5,28,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,40-41,40-41,5,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,40-41,40-41,5,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,40-41,40-41,5,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,40-41,40-41,5,26,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,40-41,40-41,5,29,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,40-41,40-41,5,19,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,40-41,40-41,5,17,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,40-41,40-41,5,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,40-41,40-41,5,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,40-41,40-41,5,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,40-41,40-41,5,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,40-41,40-41,5,80,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,40-41,40-41,5,18,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,40-41,40-41,5,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,40-41,40-41,5,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,40-41,40-41,5,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,40-41,40-41,5,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,40-41,40-41,5,23,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,40-41,40-41,5,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,40-41,40-41,5,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,40-41,40-41,5,14,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,40-41,40-41,5,16,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,40-41,40-41,5,16,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,40-41,40-41,5,19,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,40-41,40-41,5,21,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,40-41,40-41,5,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,40-41,40-41,5,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,40-41,40-41,5,15,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,40-41,40-41,5,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,40-41,40-41,5,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,40-41,40-41,5,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,40-41,40-41,5,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,40-41,40-41,5,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,40-41,40-41,5,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,40-41,40-41,5,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,40-41,40-41,5,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,40-41,40-41,5,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,40-41,40-41,5,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,40-41,40-41,5,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,40-41,40-41,5,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,40-41,40-41,5,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,40-41,40-41,5,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,40-41,40-41,5,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,40-41,40-41,5,17,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,40-41,40-41,5,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,40-41,40-41,5,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,44-45,44-45,6,17,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,44-45,44-45,6,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,44-45,44-45,6,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,44-45,44-45,6,11,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,44-45,44-45,6,21,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,44-45,44-45,6,11,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,44-45,44-45,6,27,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,44-45,44-45,6,19,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,44-45,44-45,6,15,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,44-45,44-45,6,18,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,44-45,44-45,6,13,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,44-45,44-45,6,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,44-45,44-45,6,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,44-45,44-45,6,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,44-45,44-45,6,24,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,44-45,44-45,6,20,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,44-45,44-45,6,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,44-45,44-45,6,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,44-45,44-45,6,63,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,44-45,44-45,6,17,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,44-45,44-45,6,24,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,44-45,44-45,6,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,44-45,44-45,6,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,44-45,44-45,6,47,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,44-45,44-45,6,27,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,44-45,44-45,6,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,44-45,44-45,6,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,44-45,44-45,6,14,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,44-45,44-45,6,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,44-45,44-45,6,14,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,44-45,44-45,6,22,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,44-45,44-45,6,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,44-45,44-45,6,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,44-45,44-45,6,28,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,44-45,44-45,6,15,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,44-45,44-45,6,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,44-45,44-45,6,20,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,44-45,44-45,6,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,44-45,44-45,6,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,44-45,44-45,6,16,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,44-45,44-45,6,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,44-45,44-45,6,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,44-45,44-45,6,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,44-45,44-45,6,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,44-45,44-45,6,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,44-45,44-45,6,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,44-45,44-45,6,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,44-45,44-45,6,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,44-45,44-45,6,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,44-45,44-45,6,21,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,44-45,44-45,6,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,44-45,44-45,6,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,44-45,44-45,6,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,44-45,44-45,6,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,44-45,44-45,6,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,48-49,48-49,7,29,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,48-49,48-49,7,11,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,48-49,48-49,7,27,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,48-49,48-49,7,45,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,48-49,48-49,7,18,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,48-49,48-49,7,31,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,48-49,48-49,7,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,48-49,48-49,7,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,48-49,48-49,7,37,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,48-49,48-49,7,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,48-49,48-49,7,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,48-49,48-49,7,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,48-49,48-49,7,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,48-49,48-49,7,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,48-49,48-49,7,31,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,48-49,48-49,7,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,48-49,48-49,7,41,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,48-49,48-49,7,108,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,48-49,48-49,7,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,48-49,48-49,7,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,48-49,48-49,7,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,48-49,48-49,7,20,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,48-49,48-49,7,19,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,48-49,48-49,7,23,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,48-49,48-49,7,22,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,48-49,48-49,7,19,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,48-49,48-49,7,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,48-49,48-49,7,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,48-49,48-49,7,49,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,48-49,48-49,7,18,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,48-49,48-49,7,40,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,48-49,48-49,7,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,48-49,48-49,7,36,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,48-49,48-49,7,47,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,48-49,48-49,7,10,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,48-49,48-49,7,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,48-49,48-49,7,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,48-49,48-49,7,40,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,48-49,48-49,7,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,48-49,48-49,7,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,48-49,48-49,7,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,48-49,48-49,7,15,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,48-49,48-49,7,80,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,48-49,48-49,7,86,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,48-49,48-49,7,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,48-49,48-49,7,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,48-49,48-49,7,16,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,48-49,48-49,7,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,48-49,48-49,7,23,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,48-49,48-49,7,110,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,48-49,48-49,7,32,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,48-49,48-49,7,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,48-49,48-49,7,21,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,48-49,48-49,7,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,48-49,48-49,7,14,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,48-49,48-49,7,22,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,48-49,48-49,7,23,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,48-49,48-49,7,16,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,48-49,48-49,7,11,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,48-49,48-49,7,15,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,48-49,48-49,7,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,48-49,48-49,7,19,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,48-49,48-49,7,19,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,48-49,48-49,7,24,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,48-49,48-49,7,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,48-49,48-49,7,16,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,48-49,48-49,7,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,48-49,48-49,7,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,48-49,48-49,7,33,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,48-49,48-49,7,15,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,48-49,48-49,7,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,48-49,48-49,7,45,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,48-49,48-49,7,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,48-49,48-49,7,22,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,48-49,48-49,7,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,48-49,48-49,7,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,48-49,48-49,7,20,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,48-49,48-49,7,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,48-49,48-49,7,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,48-49,48-49,7,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,48-49,48-49,7,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,48-49,48-49,7,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,48-49,48-49,7,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,51-52,51-52,8,22,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,51-52,51-52,8,30,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,51-52,51-52,8,26,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,51-52,51-52,8,11,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,51-52,51-52,8,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,51-52,51-52,8,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,51-52,51-52,8,8,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,51-52,51-52,8,12,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,51-52,51-52,8,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,51-52,51-52,8,16,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,51-52,51-52,8,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,51-52,51-52,8,37,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,51-52,51-52,8,36,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,51-52,51-52,8,72,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,51-52,51-52,8,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,51-52,51-52,8,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,51-52,51-52,8,13,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,51-52,51-52,8,25,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,51-52,51-52,8,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,51-52,51-52,8,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,51-52,51-52,8,21,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,51-52,51-52,8,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,51-52,51-52,8,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,51-52,51-52,8,25,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,51-52,51-52,8,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,51-52,51-52,8,56,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,51-52,51-52,8,14,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,51-52,51-52,8,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,51-52,51-52,8,51,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,51-52,51-52,8,15,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,51-52,51-52,8,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,51-52,51-52,8,24,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,51-52,51-52,8,22,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,51-52,51-52,8,16,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,51-52,51-52,8,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,51-52,51-52,8,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,51-52,51-52,8,44,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,51-52,51-52,8,49,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,51-52,51-52,8,17,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,51-52,51-52,8,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,51-52,51-52,8,120,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,51-52,51-52,8,27,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,51-52,51-52,8,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,51-52,51-52,8,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,51-52,51-52,8,51,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,51-52,51-52,8,21,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,51-52,51-52,8,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,51-52,51-52,8,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,51-52,51-52,8,9,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,51-52,51-52,8,14,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,51-52,51-52,8,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,51-52,51-52,8,18,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,51-52,51-52,8,19,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,51-52,51-52,8,10,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,51-52,51-52,8,35,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,51-52,51-52,8,17,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,51-52,51-52,8,19,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,51-52,51-52,8,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,51-52,51-52,8,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,51-52,51-52,8,17,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,51-52,51-52,8,38,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,51-52,51-52,8,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,51-52,51-52,8,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,51-52,51-52,8,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,51-52,51-52,8,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,51-52,51-52,8,8,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,51-52,51-52,8,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,51-52,51-52,8,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,51-52,51-52,8,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_0,TBI MCC950,1,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_1,TBI MCC950,1,1,1,54-55,54-55,9,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_10,TBI MCC950,1,1,1,54-55,54-55,9,36,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_11,TBI MCC950,1,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_12,TBI MCC950,1,1,1,54-55,54-55,9,34,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_13,TBI MCC950,1,1,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_14,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_15,TBI MCC950,1,1,1,54-55,54-55,9,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_16,TBI MCC950,1,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_17,TBI MCC950,1,1,1,54-55,54-55,9,10,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_18,TBI MCC950,1,1,1,54-55,54-55,9,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_19,TBI MCC950,1,1,1,54-55,54-55,9,14,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_2,TBI MCC950,1,1,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_20,TBI MCC950,1,1,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_21,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_22,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_23,TBI MCC950,1,1,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_24,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_25,TBI MCC950,1,1,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_26,TBI MCC950,1,1,1,54-55,54-55,9,9,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_27,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_28,TBI MCC950,1,1,1,54-55,54-55,9,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_29,TBI MCC950,1,1,1,54-55,54-55,9,4,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_3,TBI MCC950,1,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_30,TBI MCC950,1,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_31,TBI MCC950,1,1,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_32,TBI MCC950,1,1,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_33,TBI MCC950,1,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_34,TBI MCC950,1,1,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_35,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_36,TBI MCC950,1,1,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_37,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_38,TBI MCC950,1,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_39,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_4,TBI MCC950,1,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_40,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_41,TBI MCC950,1,1,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_42,TBI MCC950,1,1,1,54-55,54-55,9,15,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_43,TBI MCC950,1,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_44,TBI MCC950,1,1,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_45,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_5,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_6,TBI MCC950,1,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_7,TBI MCC950,1,1,1,54-55,54-55,9,15,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_8,TBI MCC950,1,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_MCC950_9,TBI MCC950,1,1,1,54-55,54-55,9,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_0,TBI vehicle,1,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_1,TBI vehicle,1,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_10,TBI vehicle,1,0,1,54-55,54-55,9,43,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_11,TBI vehicle,1,0,1,54-55,54-55,9,39,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_12,TBI vehicle,1,0,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_13,TBI vehicle,1,0,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_14,TBI vehicle,1,0,1,54-55,54-55,9,4,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_15,TBI vehicle,1,0,1,54-55,54-55,9,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_16,TBI vehicle,1,0,1,54-55,54-55,9,18,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_17,TBI vehicle,1,0,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_18,TBI vehicle,1,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_19,TBI vehicle,1,0,1,54-55,54-55,9,20,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_2,TBI vehicle,1,0,1,54-55,54-55,9,19,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_20,TBI vehicle,1,0,1,54-55,54-55,9,11,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_21,TBI vehicle,1,0,1,54-55,54-55,9,40,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_22,TBI vehicle,1,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_23,TBI vehicle,1,0,1,54-55,54-55,9,23,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_24,TBI vehicle,1,0,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_25,TBI vehicle,1,0,1,54-55,54-55,9,16,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_26,TBI vehicle,1,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_27,TBI vehicle,1,0,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_28,TBI vehicle,1,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_29,TBI vehicle,1,0,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_3,TBI vehicle,1,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_30,TBI vehicle,1,0,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_31,TBI vehicle,1,0,1,54-55,54-55,9,67,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_32,TBI vehicle,1,0,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_33,TBI vehicle,1,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_34,TBI vehicle,1,0,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_35,TBI vehicle,1,0,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_36,TBI vehicle,1,0,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_37,TBI vehicle,1,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_38,TBI vehicle,1,0,1,54-55,54-55,9,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_39,TBI vehicle,1,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_4,TBI vehicle,1,0,1,54-55,54-55,9,31,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_40,TBI vehicle,1,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_41,TBI vehicle,1,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_42,TBI vehicle,1,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_43,TBI vehicle,1,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_44,TBI vehicle,1,0,1,54-55,54-55,9,18,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_45,TBI vehicle,1,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_46,TBI vehicle,1,0,1,54-55,54-55,9,9,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_47,TBI vehicle,1,0,1,54-55,54-55,9,33,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_5,TBI vehicle,1,0,1,54-55,54-55,9,8,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_6,TBI vehicle,1,0,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_7,TBI vehicle,1,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_8,TBI vehicle,1,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_TBI_vehicle_9,TBI vehicle,1,0,1,54-55,54-55,9,16,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_0,no TBI MCC950,0,1,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_1,no TBI MCC950,0,1,1,54-55,54-55,9,13,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_10,no TBI MCC950,0,1,1,54-55,54-55,9,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_11,no TBI MCC950,0,1,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_12,no TBI MCC950,0,1,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_13,no TBI MCC950,0,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_14,no TBI MCC950,0,1,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_15,no TBI MCC950,0,1,1,54-55,54-55,9,10,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_16,no TBI MCC950,0,1,1,54-55,54-55,9,24,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_17,no TBI MCC950,0,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_18,no TBI MCC950,0,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_19,no TBI MCC950,0,1,1,54-55,54-55,9,44,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_2,no TBI MCC950,0,1,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_20,no TBI MCC950,0,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_21,no TBI MCC950,0,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_22,no TBI MCC950,0,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_23,no TBI MCC950,0,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_24,no TBI MCC950,0,1,1,54-55,54-55,9,20,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_25,no TBI MCC950,0,1,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_26,no TBI MCC950,0,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_27,no TBI MCC950,0,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_28,no TBI MCC950,0,1,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_29,no TBI MCC950,0,1,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_3,no TBI MCC950,0,1,1,54-55,54-55,9,37,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_30,no TBI MCC950,0,1,1,54-55,54-55,9,24,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_31,no TBI MCC950,0,1,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_32,no TBI MCC950,0,1,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_33,no TBI MCC950,0,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_34,no TBI MCC950,0,1,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_35,no TBI MCC950,0,1,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_36,no TBI MCC950,0,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_37,no TBI MCC950,0,1,1,54-55,54-55,9,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_38,no TBI MCC950,0,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_39,no TBI MCC950,0,1,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_4,no TBI MCC950,0,1,1,54-55,54-55,9,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_40,no TBI MCC950,0,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_41,no TBI MCC950,0,1,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_42,no TBI MCC950,0,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_43,no TBI MCC950,0,1,1,54-55,54-55,9,18,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_44,no TBI MCC950,0,1,1,54-55,54-55,9,19,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_45,no TBI MCC950,0,1,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_46,no TBI MCC950,0,1,1,54-55,54-55,9,8,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_47,no TBI MCC950,0,1,1,54-55,54-55,9,4,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_5,no TBI MCC950,0,1,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_6,no TBI MCC950,0,1,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_7,no TBI MCC950,0,1,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_8,no TBI MCC950,0,1,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_MCC950_9,no TBI MCC950,0,1,1,54-55,54-55,9,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_0,no TBI vehicle,0,0,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_1,no TBI vehicle,0,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_10,no TBI vehicle,0,0,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_11,no TBI vehicle,0,0,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_12,no TBI vehicle,0,0,1,54-55,54-55,9,9,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_13,no TBI vehicle,0,0,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_14,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_15,no TBI vehicle,0,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_16,no TBI vehicle,0,0,1,54-55,54-55,9,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_17,no TBI vehicle,0,0,1,54-55,54-55,9,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_18,no TBI vehicle,0,0,1,54-55,54-55,9,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_19,no TBI vehicle,0,0,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_2,no TBI vehicle,0,0,1,54-55,54-55,9,13,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_20,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_21,no TBI vehicle,0,0,1,54-55,54-55,9,22,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_22,no TBI vehicle,0,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_23,no TBI vehicle,0,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_24,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_25,no TBI vehicle,0,0,1,54-55,54-55,9,16,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_26,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_27,no TBI vehicle,0,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_28,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_29,no TBI vehicle,0,0,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_3,no TBI vehicle,0,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_30,no TBI vehicle,0,0,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_31,no TBI vehicle,0,0,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_32,no TBI vehicle,0,0,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_33,no TBI vehicle,0,0,1,54-55,54-55,9,7,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_34,no TBI vehicle,0,0,1,54-55,54-55,9,20,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_35,no TBI vehicle,0,0,1,54-55,54-55,9,6,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_36,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_37,no TBI vehicle,0,0,1,54-55,54-55,9,12,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_38,no TBI vehicle,0,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_39,no TBI vehicle,0,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_4,no TBI vehicle,0,0,1,54-55,54-55,9,0,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_40,no TBI vehicle,0,0,1,54-55,54-55,9,5,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_41,no TBI vehicle,0,0,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_42,no TBI vehicle,0,0,1,54-55,54-55,9,19,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_43,no TBI vehicle,0,0,1,54-55,54-55,9,4,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_44,no TBI vehicle,0,0,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_45,no TBI vehicle,0,0,1,54-55,54-55,9,11,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_46,no TBI vehicle,0,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_47,no TBI vehicle,0,0,1,54-55,54-55,9,3,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_5,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_6,no TBI vehicle,0,0,1,54-55,54-55,9,20,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_7,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_8,no TBI vehicle,0,0,1,54-55,54-55,9,2,120
+Fig10,post-intervention,Fig10post_no_TBI_vehicle_9,no TBI vehicle,0,0,1,54-55,54-55,9,1,120
