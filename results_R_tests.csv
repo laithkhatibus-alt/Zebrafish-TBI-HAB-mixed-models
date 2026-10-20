@@ -1,0 +1,8 @@
+"panel","experiment","segment","test","chi2","df","p","larvae","n"
+"A","Fig7","whole series","injury x time",41.5321028746994,13,7.80786487440548e-05,96,1103
+"B","Fig8","pre-intervention","injury x time",14.2921721690818,6,0.0265373814284079,276,1630
+"B","Fig8","post-intervention","injury x drug (time-varying)",29.4636422650274,7,0.000119060421696775,187,1203
+"C","Fig9","pre-intervention","injury x time",16.5922022925183,6,0.0109047928524276,94,658
+"C","Fig9","post-intervention","injury x drug (time-varying)",27.1160598670085,8,0.000675088811754263,96,768
+"D","Fig10","pre-intervention","injury x time",27.6559819181211,5,4.24905348268289e-05,190,1139
+"D","Fig10","post-intervention","injury x drug (time-varying)",28.5974771889159,9,0.000757476937832166,190,1710
